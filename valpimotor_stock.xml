@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt/viaturas" generated="2026-08-07T13:44:10" count="107">
+<vehicles source="valpimotor.pt/viaturas" generated="2026-08-07T14:11:27Z" count="107">
   <vehicle>
     <vehicle_id>349</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/349/Audi+A6</url>
@@ -19,6 +19,7 @@
     <price_eur/>
     <price_on_request>true</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/349/P202608061508079501.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -40,6 +41,7 @@
     <price_eur>37490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/332/P202607141137353533.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -61,6 +63,7 @@
     <price_eur>28450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/300/P202603121229075329.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -82,6 +85,7 @@
     <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/199/P202603121606059420.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -103,6 +107,7 @@
     <price_eur>39450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/205/P202603121224484934.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -124,6 +129,7 @@
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/216/P202603121227458026.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -145,6 +151,7 @@
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/276/P202603121430258642.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -166,6 +173,7 @@
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/278/P202603121233356335.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -187,6 +195,7 @@
     <price_eur>57950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/321/P202604231639476601.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -208,6 +217,7 @@
     <price_eur>49950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/338/P202607281142015901.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -229,6 +239,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/262/P202603121753487819.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -250,6 +261,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/265/P202603121758521817.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -271,6 +283,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/311/P202603201033245908.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -292,6 +305,7 @@
     <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/347/P202607291233346401.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -313,6 +327,7 @@
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/333/P202607151656407701.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -334,6 +349,7 @@
     <price_eur/>
     <price_on_request>true</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/348/P202608061432002121.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -355,6 +371,7 @@
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/337/P202607281138193325.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -376,6 +393,7 @@
     <price_eur>14950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/174/P202603131114285424.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -397,6 +415,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/5/P202607141618308624.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -418,6 +437,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/191/P202607141629537820.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -439,6 +459,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/206/P202603301524109512.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -460,6 +481,7 @@
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/193/P202606300951456118.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -481,6 +503,7 @@
     <price_eur>36950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/197/P202606291756461119.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -502,6 +525,7 @@
     <price_eur>36950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Reservado</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/200/P202604071537542018.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -523,6 +547,7 @@
     <price_eur>45000</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/218/20251112124411000.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -544,6 +569,7 @@
     <price_eur>13450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/186/P202606291734486910.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -565,6 +591,7 @@
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/62/P202603131529498923.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -586,6 +613,7 @@
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/65/P202603201445262421.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -607,6 +635,7 @@
     <price_eur>13450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/237/P202603251202348022.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -628,6 +657,7 @@
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/286/P202603251425366417.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -649,6 +679,7 @@
     <price_eur>8990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/329/P202606181236586910.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -670,6 +701,7 @@
     <price_eur>19490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/240/P202607141709572002.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -691,6 +723,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/56/P202606171749004912.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -712,6 +745,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/283/P202603261205351729.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -733,6 +767,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/53/P202606251504349230.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -754,6 +789,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/234/P202606251450591822.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -775,6 +811,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/264/P202606171624384633.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -796,6 +833,7 @@
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/57/P202603261122275417.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -817,6 +855,7 @@
     <price_eur>21950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/236/P202603261124085322.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -838,6 +877,7 @@
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/326/P202605141216345919.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -859,6 +899,7 @@
     <price_eur>39950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/74/P202606300933305027.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -880,6 +921,7 @@
     <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/310/P202603191559368425.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -901,6 +943,7 @@
     <price_eur>36490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/279/P202604231137108921.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -922,6 +965,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/49/P202603201424263534.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -943,6 +987,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/314/P202603201410422123.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -964,6 +1009,7 @@
     <price_eur>34500</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/284/P202603231156232751.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -985,6 +1031,7 @@
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/299/P202606291649414935.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1006,6 +1053,7 @@
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/189/P202607031227091635.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1027,6 +1075,7 @@
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/277/P202607021637478037.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1048,6 +1097,7 @@
     <price_eur>39950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/297/P202606291651239251.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1069,6 +1119,7 @@
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/298/P202607021624559833.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1090,6 +1141,7 @@
     <price_eur>56950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/343/P202607281811174901.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1111,6 +1163,7 @@
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/336/P202607221452475425.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1132,6 +1185,7 @@
     <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/328/P202606180957192401.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1153,6 +1207,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/324/P202605061730174101.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1174,6 +1229,7 @@
     <price_eur>27450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/44/P202607061501352527.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1195,6 +1251,7 @@
     <price_eur>27490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/45/P202603271114317225.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1216,6 +1273,7 @@
     <price_eur>27450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/323/P202605061548144201.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1237,6 +1295,7 @@
     <price_eur>28950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/327/P202606111619011101.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1258,6 +1317,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/134/P202603261444119323.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1279,6 +1339,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/170/P202603251429008426.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1300,6 +1361,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/172/P202603270916212528.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1321,6 +1383,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/97/P202607021709313316.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1342,6 +1405,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/129/P202604151554307425.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1363,6 +1427,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/164/P202603231740585625.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1384,6 +1449,7 @@
     <price_eur>20450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/322/P202605061520085001.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1405,6 +1471,7 @@
     <price_eur>31950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/12/P202607061639142229.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1426,6 +1493,7 @@
     <price_eur>44950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/291/P202606301033245419.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1447,6 +1515,7 @@
     <price_eur>31450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/319/P202604221055106601.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1468,6 +1537,7 @@
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/345/P202607291149456301.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1489,6 +1559,7 @@
     <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/84/P202607141415002725.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1510,6 +1581,7 @@
     <price_eur>37950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/98/P202607061718151122.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1531,6 +1603,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/40/P202603251700145736.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1552,6 +1625,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/312/P202603201232524022.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1573,6 +1647,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/313/P202603201204267822.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1594,6 +1669,7 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/316/P202603251520383801.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1615,6 +1691,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/37/P202603261153551030.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1636,6 +1713,7 @@
     <price_eur>17490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/38/P202606171527413531.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1657,6 +1735,7 @@
     <price_eur>17490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/281/P202607031219552223.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1678,6 +1757,7 @@
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/282/P202607021620428923.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1699,6 +1779,7 @@
     <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/342/P202607281600242301.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1720,6 +1801,7 @@
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/346/P202607291215117901.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1741,6 +1823,7 @@
     <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/80/P202607061629356827.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1762,6 +1845,7 @@
     <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/171/P202607061129238625.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1783,6 +1867,7 @@
     <price_eur>21950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/344/P202607291113351425.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1804,6 +1889,7 @@
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/158/P202604271026548317.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1825,6 +1911,7 @@
     <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/105/P202607061510544916.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1846,6 +1933,7 @@
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/16/P202606301006464814.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1867,6 +1955,7 @@
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/33/P202603231431316529.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1888,6 +1977,7 @@
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/34/P202606301023343720.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1909,6 +1999,7 @@
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/106/P202603231201514922.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1930,6 +2021,7 @@
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/259/P202607031214387623.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1951,6 +2043,7 @@
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/331/P202607021759518923.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1972,6 +2065,7 @@
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/173/P202606171636487018.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1993,6 +2087,7 @@
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/290/P202607061520189523.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2014,6 +2109,7 @@
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/295/P202607141145257317.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2035,6 +2131,7 @@
     <price_eur>18450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/25/P202606221123596932.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2056,6 +2153,7 @@
     <price_eur>26450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/334/P202607151718159326.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2077,6 +2175,7 @@
     <price_eur>26450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/339/P202607281221531226.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2098,6 +2197,7 @@
     <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/252/P202606181008578631.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2119,6 +2219,7 @@
     <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/340/P202607281245494401.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2140,6 +2241,7 @@
     <price_eur>19450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/18/P202607061554557935.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2161,6 +2263,7 @@
     <price_eur>21950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/21/P202607061613431730.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2182,6 +2285,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/19/P202607141642099828.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2203,6 +2307,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/341/P202607281453135301.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2224,6 +2329,7 @@
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/315/20260323181923_md.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2245,6 +2351,7 @@
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
+    <image>https://valpimotor.pt/imagens_viaturas/257/P202606171613076125.jpg</image>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
 </vehicles>
