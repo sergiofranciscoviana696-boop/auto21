@@ -1,0 +1,2250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles source="valpimotor.pt/viaturas" generated="2026-08-07T13:44:10" count="107">
+  <vehicle>
+    <vehicle_id>349</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/349/Audi+A6</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Audi</make>
+    <model>A6</model>
+    <version>50 TFSIe quattro S tronic</version>
+    <year>2025</year>
+    <registration>2025-10</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>299</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur/>
+    <price_on_request>true</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>332</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/332/Audi+A6+Avant</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Audi</make>
+    <model>A6 Avant</model>
+    <version>55 TFSIe quattro S line S tronic</version>
+    <year>2021</year>
+    <registration>2021-10</registration>
+    <mileage_km>113000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>367</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>37490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>300</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>116</model>
+    <version></version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>122</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>28450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>199</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/199/BMW+320</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>320</model>
+    <version>e Auto</version>
+    <year>2024</year>
+    <registration>2024-04</registration>
+    <mileage_km>60000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>34950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>205</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/205/BMW+320</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>320</model>
+    <version>e Pack Desportivo M Auto</version>
+    <year>2024</year>
+    <registration>2024-02</registration>
+    <mileage_km>95000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>39450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>216</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/216/BMW+320</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>320</model>
+    <version>e Pack Desportivo M Auto</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>52000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>41950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>276</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/276/BMW+320</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>320</model>
+    <version>e Pack Desportivo M Auto</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>66000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>41950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>278</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/278/BMW+320</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>320</model>
+    <version>e Pack Desportivo M Auto</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>60000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>41950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>321</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/321/BMW+530</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>530</model>
+    <version>e Pack Desportivo M</version>
+    <year>2025</year>
+    <registration>2025-05</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>299</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>57950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>338</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/338/BMW+X1</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>BMW</make>
+    <model>X1</model>
+    <version>xDrive25e</version>
+    <year>2026</year>
+    <registration>2026</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>245</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>49950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>262</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/262/Citroen+C3</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C3</model>
+    <version>1.5 BlueHDi Plus</version>
+    <year>2024</year>
+    <registration>2024-07</registration>
+    <mileage_km>58000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>265</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/265/Citroen+C3</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C3</model>
+    <version>1.5 BlueHDi Plus</version>
+    <year>2024</year>
+    <registration>2024-07</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>311</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/311/Citroen+C3</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C3</model>
+    <version>1.5 BlueHDi Plus</version>
+    <year>2024</year>
+    <registration>2024-07</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Citadino</body_type>
+    <body_type_code>VLP_Ctd</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>347</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/347/Citroen+C3</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C3</model>
+    <version>1.2 Hybrid Plus e-DSC6</version>
+    <year>2026</year>
+    <registration>2026</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>23950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>333</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/333/Citroen+C4</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C4</model>
+    <version>1.5 BlueHDi Feel EAT8</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>131</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>22450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>348</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/348/Cupra+Formentor</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Cupra</make>
+    <model>Formentor</model>
+    <version>1.5 e-Hybrid DSG</version>
+    <year>2026</year>
+    <registration>2026</registration>
+    <mileage_km>8000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur/>
+    <price_on_request>true</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>337</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/337/Dacia+Duster</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Dacia</make>
+    <model>Duster</model>
+    <version>1.2 TCe Expression 4x4</version>
+    <year>2025</year>
+    <registration>2025-11</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>130</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>24950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>174</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/174/Dacia+Sandero</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Dacia</make>
+    <model>Sandero</model>
+    <version>1.0 SCe Essential</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>67</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>14950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>5</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/5/Fiat+600</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>600</model>
+    <version>1.2 Hybrid</version>
+    <year>2025</year>
+    <registration>2025-06</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>191</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/191/Fiat+600</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>600</model>
+    <version>1.2 Hybrid</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>206</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/206/Fiat+Doblo</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Doblo</model>
+    <version>1.5 BlueHDi Curta Easy Pro</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>193</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/193/Fiat+Ducato</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Ducato</model>
+    <version>30 2.2 M-Jet CH1</version>
+    <year>2024</year>
+    <registration>2024-03</registration>
+    <mileage_km>64000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>120</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>24950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>197</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/197/Fiat+Ducato</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Ducato</model>
+    <version>35 2.2 M-Jet L CD 9 Lugares</version>
+    <year>2024</year>
+    <registration>2024-03</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>9</seats>
+    <body_type>Combi / 9 lugares</body_type>
+    <body_type_code>VLP_Combi</body_type_code>
+    <price_eur>36950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>200</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/200/Fiat+Ducato</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Ducato</model>
+    <version>Cabine Dupla 35L 2.2 Multijet BASCULANTE</version>
+    <year>2024</year>
+    <registration>2024-06</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>7</seats>
+    <body_type>Caixa basculante</body_type>
+    <body_type_code>VLM_CxBsc</body_type_code>
+    <price_eur>36950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Reservado</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>218</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/218/Fiat+Ducato</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Ducato</model>
+    <version>Maxi 35 ML 2.2 Multijet 180cv PLATAFORMA ELEVATÓRIA</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>180</power_hp>
+    <seats>3</seats>
+    <body_type>Caixa fechada</body_type>
+    <body_type_code>VLM_CxFch</body_type_code>
+    <price_eur>45000</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>186</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/186/Fiat+Fiorino</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Fiorino</model>
+    <version>1.3 M-Jet</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>45000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>95</power_hp>
+    <seats>2</seats>
+    <body_type>Furgão combi</body_type>
+    <body_type_code>VLM_Combi</body_type_code>
+    <price_eur>13450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>62</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/62/Fiat+Panda</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Panda</model>
+    <version>Pandina 1.0 Hybrid Icon</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>70</power_hp>
+    <seats>5</seats>
+    <body_type>Citadino</body_type>
+    <body_type_code>VLP_Ctd</body_type_code>
+    <price_eur>13950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>65</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/65/Fiat+Panda</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Panda</model>
+    <version>1.0 Hybrid Pandina</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>70</power_hp>
+    <seats>5</seats>
+    <body_type>Citadino</body_type>
+    <body_type_code>VLP_Ctd</body_type_code>
+    <price_eur>13950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>237</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/237/Fiat+Panda</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Panda</model>
+    <version>1.0 Hybrid Pandina</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>70</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>13450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>286</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/286/Fiat+Panda</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Panda</model>
+    <version>1.0 Hybrid Pandina</version>
+    <year>2025</year>
+    <registration>2025-05</registration>
+    <mileage_km>17000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>70</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>13950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>329</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/329/Fiat+Panda</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>Panda</model>
+    <version>1.0 Hybrid City</version>
+    <year>2022</year>
+    <registration>2022-05</registration>
+    <mileage_km>85000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>70</power_hp>
+    <seats>5</seats>
+    <body_type>Citadino</body_type>
+    <body_type_code>VLP_Cbr</body_type_code>
+    <price_eur>8990</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>240</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/240/Ford+Focus</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Focus</model>
+    <version>1.0 EcoBoost MHEV ST-Line</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>45000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>19490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>56</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/56/Ford+Focus+SW</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Focus SW</model>
+    <version>1.0 EcoBoost MHEV ST-Line</version>
+    <year>2024</year>
+    <registration>2024-09</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>283</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/283/Ford+Focus+SW</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Focus SW</model>
+    <version>1.0 EcoBoost MHEV ST-Line</version>
+    <year>2024</year>
+    <registration>2024-10</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>53</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/53/Ford+Puma</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Puma</model>
+    <version>1.0 EcoBoost mHEV ST-Line</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>234</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/234/Ford+Puma</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Puma</model>
+    <version>1.0 EcoBoost mHEV ST-Line</version>
+    <year>2025</year>
+    <registration>2025-01</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>264</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/264/Ford+Puma</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Puma</model>
+    <version>1.0 EcoBoost mHEV ST-Line</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>57</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/57/Ford+Tourneo+Courier</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Tourneo Courier</model>
+    <version>1.0 EcoBoost Titanium</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Combi / 9 lugares</body_type>
+    <body_type_code>VLP_Combi</body_type_code>
+    <price_eur>22450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>236</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/236/Ford+Tourneo+Courier</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Tourneo Courier</model>
+    <version>1.0 EcoBoost Trend</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>10000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Combi / 9 lugares</body_type>
+    <body_type_code>VLP_Combi</body_type_code>
+    <price_eur>21950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>326</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/326/Ford+Tourneo+Courier</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Tourneo Courier</model>
+    <version>1.0 EcoBoost Titanium</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>Monovolume</body_type>
+    <body_type_code>VLP_Mnvl</body_type_code>
+    <price_eur>22450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>74</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/74/Ford+Transit</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Transit</model>
+    <version>330 2.0 TDCi Trend 9 Lugares</version>
+    <year>2024</year>
+    <registration>2024-08</registration>
+    <mileage_km>62000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>130</power_hp>
+    <seats>9</seats>
+    <body_type>Combi / 9 lugares</body_type>
+    <body_type_code>VLP_Combi</body_type_code>
+    <price_eur>39950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>310</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/310/Ford+Transit</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Ford</make>
+    <model>Transit</model>
+    <version>Courier</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>2</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>17950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>279</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/279/Isuzu+D-Max</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Isuzu</make>
+    <model>D-Max</model>
+    <version>1.9 Ddi CD 4WD L</version>
+    <year>2024</year>
+    <registration>2024-06</registration>
+    <mileage_km>60000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>164</power_hp>
+    <seats>5</seats>
+    <body_type>Todo-o-terreno</body_type>
+    <body_type_code>VLP_TT</body_type_code>
+    <price_eur>36490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>49</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/49/Kia+Stonic</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Kia</make>
+    <model>Stonic</model>
+    <version>1.2 MPi Dynamic</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>79</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>314</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/314/Kia+Stonic</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Kia</make>
+    <model>Stonic</model>
+    <version>1.2 MPi Dynamic</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>22000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>79</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>284</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/284/Mercedes-Benz+A+250</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250</model>
+    <version>e</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>34500</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>299</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/299/Mercedes-Benz+A+250</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250</model>
+    <version>e AMG</version>
+    <year>2024</year>
+    <registration>2024</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>38450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>189</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/189/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e AMG</version>
+    <year>2024</year>
+    <registration>2024-10</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>38450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>277</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/277/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e AMG</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>38450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>297</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/297/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e AMG</version>
+    <year>2024</year>
+    <registration>2024-09</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>39950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>298</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e</version>
+    <year>2025</year>
+    <registration>2025</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>38450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>343</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/343/Mercedes-Benz+C+300</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>C 300</model>
+    <version>e AMG Line</version>
+    <year>2025</year>
+    <registration>2025-08</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>313</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>56950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>336</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/336/MG+HS</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>MG</make>
+    <model>HS</model>
+    <version>1.5 Plug-in Hybrid Luxury</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>272</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>33950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>328</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/328/MG+ZS</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>MG</make>
+    <model>ZS</model>
+    <version>1.0 T-GDI Luxury</version>
+    <year>2022</year>
+    <registration>2022-11</registration>
+    <mileage_km>77000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>111</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>15950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>324</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/324/Nissan+Juke</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Nissan</make>
+    <model>Juke</model>
+    <version>1.0 DIG-T N-Design</version>
+    <year>2024</year>
+    <registration>2024-10</registration>
+    <mileage_km>31000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>114</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>44</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/44/Nissan+Qashqai</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Nissan</make>
+    <model>Qashqai</model>
+    <version>1.3 DIG-T N-Connecta LED</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>27450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>45</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/45/Nissan+Qashqai</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Nissan</make>
+    <model>Qashqai</model>
+    <version>1.3 DIG-T N-Connecta LED</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>27490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>323</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/323/Nissan+Qashqai</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Nissan</make>
+    <model>Qashqai</model>
+    <version>1.3 DIG-T N-Connecta LED</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>26000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>27450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>327</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/327/Nissan+Qashqai</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Nissan</make>
+    <model>Qashqai</model>
+    <version>1.3 DIG-T Advance Xtronic</version>
+    <year>2025</year>
+    <registration>2025-01</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>158</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>28950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>134</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/134/Opel+Corsa</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <version>1.5 D Elegance</version>
+    <year>2023</year>
+    <registration>2023-10</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>170</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/170/Opel+Corsa</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <version>1.5 D Elegance</version>
+    <year>2023</year>
+    <registration>2023-10</registration>
+    <mileage_km>47000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>172</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/172/Opel+Corsa</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <version>1.5 D Elegance</version>
+    <year>2023</year>
+    <registration>2023-10</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>97</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/97/Opel+Mokka</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Mokka</model>
+    <version>1.5 D Elegance</version>
+    <year>2024</year>
+    <registration>2024-02</registration>
+    <mileage_km>65000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>129</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/129/Opel+Mokka</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Mokka</model>
+    <version>1.5 D Elegance</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>65000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>164</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/164/Opel+Mokka</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Mokka</model>
+    <version>1.5 D Elegance</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>65000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>322</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/322/Opel+Mokka</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Mokka</model>
+    <version>1.5 D Elegance</version>
+    <year>2023</year>
+    <registration>2023-10</registration>
+    <mileage_km>71000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>110</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>20450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>12</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/12/Opel+Movano</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Movano</model>
+    <version>2.2 D 9 Lugares</version>
+    <year>2023</year>
+    <registration>2023-09</registration>
+    <mileage_km>75000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>9</seats>
+    <body_type>Combi / 9 lugares</body_type>
+    <body_type_code>VLP_Combi</body_type_code>
+    <price_eur>31950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>291</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/291/Opel+Movano</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Opel</make>
+    <model>Movano</model>
+    <version>Movano Chassis Cabine Simples + Frio</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>29000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>165</power_hp>
+    <seats>3</seats>
+    <body_type>Caixa frigorífica</body_type>
+    <body_type_code>VLM_CxFrg</body_type_code>
+    <price_eur>44950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>319</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/319/Opel+Movano</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Opel</make>
+    <model>Movano</model>
+    <version>Heavy L4H3</version>
+    <year>2024</year>
+    <registration>2024-09</registration>
+    <mileage_km>61000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>180</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>31450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>345</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/345/Opel+Movano</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Opel</make>
+    <model>Movano</model>
+    <version>Cabine Simples + Frio</version>
+    <year>2024</year>
+    <registration>2024-06</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>165</power_hp>
+    <seats>3</seats>
+    <body_type>Caixa frigorífica</body_type>
+    <body_type_code>Caixa Frigorifica</body_type_code>
+    <price_eur>41950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>84</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/84/Opel+Vivaro</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Vivaro</model>
+    <version>1.5 9 Lugares</version>
+    <year>2023</year>
+    <registration>2023-12</registration>
+    <mileage_km>108000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>9</seats>
+    <body_type>Monovolume</body_type>
+    <body_type_code>VLP_Mnvl</body_type_code>
+    <price_eur>34950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>98</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/98/Opel+Vivaro</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Opel</make>
+    <model>Vivaro</model>
+    <version>1.5 CDTi L3H1 9 Lugares</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>9</seats>
+    <body_type>Monovolume</body_type>
+    <body_type_code>VLP_Mnvl</body_type_code>
+    <price_eur>37950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>40</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/40/Peugeot+2008</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>2008</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>312</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/312/Peugeot+2008</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>2008</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>313</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/313/Peugeot+2008</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>2008</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>33000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>316</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/316/Peugeot+2008</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>2008</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>31000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>37</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/37/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.2 PureTech Active Pack</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>101</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>38</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/38/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>101</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>17490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>281</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/281/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.2 PureTech Allure</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>32000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>101</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>17490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>282</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/282/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.2 PureTech Active Pack</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>101</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>342</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/342/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.2 Hybrid Allure e-DCS6</version>
+    <year>2024</year>
+    <registration>2024-09</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>101</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>18950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>346</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/346/Peugeot+208</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>208</model>
+    <version>1.5 BlueHDi Active Pack</version>
+    <year>2022</year>
+    <registration>2022-01</registration>
+    <mileage_km>86400</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>13950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>80</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/80/Peugeot+308</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>308</model>
+    <version>1.5 BlueHDi Active Pack EAT8</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>130</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>23950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>171</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/171/Peugeot+308</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>308</model>
+    <version>1.5 BlueHDi Active EAT8</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>130</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>23950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>344</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/344/Peugeot+508+SW</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>508 SW</model>
+    <version>1.5 BlueHDi GT Pack EAT8</version>
+    <year>2023</year>
+    <registration>2023-06</registration>
+    <mileage_km>61000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>130</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>21950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>158</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/158/Peugeot+Boxer</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Peugeot</make>
+    <model>Boxer</model>
+    <version>2.2 BlueHDi 330 L1H1</version>
+    <year>2023</year>
+    <registration>2023-11</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>120</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>24950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>105</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/105/Peugeot+Partner</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Peugeot</make>
+    <model>Partner</model>
+    <version>1.5 BlueHDi Longa</version>
+    <year>2024</year>
+    <registration>2024-06</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>102</power_hp>
+    <seats>2</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>17950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>16</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/16/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>1.0 TCe Evolution</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>90</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16990</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>33</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/33/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>Evolution TCE</version>
+    <year>2024</year>
+    <registration>2024-10</registration>
+    <mileage_km>34000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>90</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16990</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>34</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/34/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>1.5 Blue dCi Evolution</version>
+    <year>2025</year>
+    <registration>2025-01</registration>
+    <mileage_km>32000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>21490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>106</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/106/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>1.5 Blue dCi Evolution</version>
+    <year>2025</year>
+    <registration>2025-01</registration>
+    <mileage_km>31000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>21490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>259</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/259/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>1.5 Blue dCi Evolution</version>
+    <year>2025</year>
+    <registration>2025-01</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>21490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>331</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/331/Renault+Clio</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Renault</make>
+    <model>Clio</model>
+    <version>1.0 TCe Evolution</version>
+    <year>2024</year>
+    <registration>2024-11</registration>
+    <mileage_km>38000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>90</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>16990</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>173</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/173/Renault+Master</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Renault</make>
+    <model>Master</model>
+    <version>2.3 dCi L4 3.5T CD RD</version>
+    <year>2024</year>
+    <registration>2024-06</registration>
+    <mileage_km>50000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>163</power_hp>
+    <seats>3</seats>
+    <body_type>Comercial ligeiro</body_type>
+    <body_type_code>VLM</body_type_code>
+    <price_eur>33950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>290</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/290/Renault+Master</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Renault</make>
+    <model>Master</model>
+    <version>Contentor Plataforma</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>75000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>163</power_hp>
+    <seats>3</seats>
+    <body_type>Caixa fechada</body_type>
+    <body_type_code>VLM_CxFch</body_type_code>
+    <price_eur>38450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>295</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/295/Renault+Master</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Renault</make>
+    <model>Master</model>
+    <version>Cab. Dupla 7 Lugares Caixa Aberta</version>
+    <year>2023</year>
+    <registration>2023-10</registration>
+    <mileage_km>90000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>165</power_hp>
+    <seats>7</seats>
+    <body_type>Caixa aberta</body_type>
+    <body_type_code>VLM_CxAbr</body_type_code>
+    <price_eur>33950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>25</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/25/Seat+Ibiza</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Seat</make>
+    <model>Ibiza</model>
+    <version>1.0 TSI FR</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>18450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>334</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/334/SEAT+Leon</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon</model>
+    <version>2.0 TDI Style</version>
+    <year>2025</year>
+    <registration>2025-10</registration>
+    <mileage_km>29000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>26450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>339</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/339/SEAT+Leon</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon</model>
+    <version>2.0 TDI Style</version>
+    <year>2025</year>
+    <registration>2025-10</registration>
+    <mileage_km>32000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <price_eur>26450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>252</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/252/SEAT+Leon+ST</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon ST</model>
+    <version>2.0 TDI Style</version>
+    <year>2025</year>
+    <registration>2025-08</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>25950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>340</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/340/SEAT+Leon+ST</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon ST</model>
+    <version>2.0 TDI Style</version>
+    <year>2025</year>
+    <registration>2025-08</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Carrinha</body_type>
+    <body_type_code>VLP_STW</body_type_code>
+    <price_eur>25950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>18</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/18/Skoda+Fabia</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Skoda</make>
+    <model>Fabia</model>
+    <version>1.0 TSI DSG</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>116</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>19450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>21</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/21/Skoda+Kamiq</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Skoda</make>
+    <model>Kamiq</model>
+    <version>1.0 TSI DSG</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>20000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>116</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <price_eur>21950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>19</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/19/Skoda+Scala</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Skoda</make>
+    <model>Scala</model>
+    <version>1.0 TSI DSG</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>17000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>116</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>341</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/341/Skoda+Scala</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Skoda</make>
+    <model>Scala</model>
+    <version>1.0 TSI DSG</version>
+    <year>2024</year>
+    <registration>2024-05</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>116</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>315</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/315/Skoda+Scala</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Skoda</make>
+    <model>Scala</model>
+    <version>1.0 TSI DSG</version>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>116</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>20950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>257</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/257/Volkswagen+Crafter</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Volkswagen</make>
+    <model>Crafter</model>
+    <version>50 2.0 TDI CD L3</version>
+    <year>2024</year>
+    <registration>2024-01</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>140</power_hp>
+    <seats>3</seats>
+    <body_type>Comercial ligeiro</body_type>
+    <body_type_code>VLM</body_type_code>
+    <price_eur>41950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+</vehicles>
