@@ -1,49 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt/viaturas" generated="2026-08-07T14:11:27Z" count="107">
-  <vehicle>
-    <vehicle_id>349</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/349/Audi+A6</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Audi</make>
-    <model>A6</model>
-    <version>50 TFSIe quattro S tronic</version>
-    <year>2025</year>
-    <registration>2025-10</registration>
-    <mileage_km>40000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>299</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur/>
-    <price_on_request>true</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/349/P202608061508079501.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>332</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/332/Audi+A6+Avant</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Audi</make>
-    <model>A6 Avant</model>
-    <version>55 TFSIe quattro S line S tronic</version>
-    <year>2021</year>
-    <registration>2021-10</registration>
-    <mileage_km>113000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>367</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>37490</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/332/P202607141137353533.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-07T16:30:22Z" count="88">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -60,120 +16,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>28450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/300/P202603121229075329.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>199</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/199/BMW+320</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>320</model>
-    <version>e Auto</version>
-    <year>2024</year>
-    <registration>2024-04</registration>
-    <mileage_km>60000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>34950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/199/P202603121606059420.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>205</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/205/BMW+320</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>320</model>
-    <version>e Pack Desportivo M Auto</version>
-    <year>2024</year>
-    <registration>2024-02</registration>
-    <mileage_km>95000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>39450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/205/P202603121224484934.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>216</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/216/BMW+320</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>320</model>
-    <version>e Pack Desportivo M Auto</version>
-    <year>2024</year>
-    <registration>2024-05</registration>
-    <mileage_km>52000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>41950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/216/P202603121227458026.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>276</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/276/BMW+320</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>320</model>
-    <version>e Pack Desportivo M Auto</version>
-    <year>2024</year>
-    <registration>2024-05</registration>
-    <mileage_km>66000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>41950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/276/P202603121430258642.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>278</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/278/BMW+320</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>320</model>
-    <version>e Pack Desportivo M Auto</version>
-    <year>2024</year>
-    <registration>2024-05</registration>
-    <mileage_km>60000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>41950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/278/P202603121233356335.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603121229075329.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603121229075329.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149494220.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149497721.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149501922.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149506023.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149514424.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149523125.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149542228.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/202603041146321887.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149522826.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -192,32 +51,23 @@
     <seats>5</seats>
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
+    <color>Preto</color>
     <price_eur>57950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/321/P202604231639476601.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>338</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/338/BMW+X1</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>BMW</make>
-    <model>X1</model>
-    <version>xDrive25e</version>
-    <year>2026</year>
-    <registration>2026</registration>
-    <mileage_km>15000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>245</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <price_eur>49950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/338/P202607281142015901.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231639476601.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231639476601.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640167603.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640278204.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640278305.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640497009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640386906.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640384407.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640491808.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640163202.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231642134811.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -236,10 +86,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/262/P202603121753487819.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/262/N202603121753487819.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/N202603121753487819.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210835001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210836002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210836003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210837004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210837005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210837006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210838007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210838008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/262/20260204210838009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -258,10 +121,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/265/P202603121758521817.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/265/N202603121758521817.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/N202603121758521817.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210859001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210859002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210900003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210900004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210900005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210901006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210901007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210901008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/265/20260204210902009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -280,32 +156,23 @@
     <seats>5</seats>
     <body_type>Citadino</body_type>
     <body_type_code>VLP_Ctd</body_type_code>
+    <color>Preto</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/311/P202603201033245908.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>347</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/347/Citroen+C3</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Citroen</make>
-    <model>C3</model>
-    <version>1.2 Hybrid Plus e-DSC6</version>
-    <year>2026</year>
-    <registration>2026</registration>
-    <mileage_km>15000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>110</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <price_eur>23950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/347/P202607291233346401.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201033245908.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201033245908.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181700391413.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181700207201.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201132322810.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181700048609.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659556102.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659592906.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659583805.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659567303.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201132324609.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -324,32 +191,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/333/P202607151656407701.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>348</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/348/Cupra+Formentor</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Cupra</make>
-    <model>Formentor</model>
-    <version>1.5 e-Hybrid DSG</version>
-    <year>2026</year>
-    <registration>2026</registration>
-    <mileage_km>8000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>204</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <price_eur/>
-    <price_on_request>true</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/348/P202608061432002121.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151656407701.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151656407701.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658199617.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658161208.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658162106.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658183814.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658158602.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658177010.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658182413.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658175812.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658172011.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -368,10 +226,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/337/P202607281138193325.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281138193325.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281138193325.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114435002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114449904.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114447905.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114446006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114452213.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114451811.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114454212.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114454809.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281114465914.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -390,10 +261,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>14950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/174/P202603131114285424.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202603131114285424.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202603131114285424.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124315001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124316002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124316003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124316004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124317005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124317006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124317007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124318008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124318009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -412,10 +296,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/5/P202607141618308624.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/5/N202607141618308624.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/N202607141618308624.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -434,10 +331,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Azul Claro</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/191/P202607141629537820.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/191/N202607141629537820.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/N202607141629537820.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124328001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124328002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124329003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124329004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124331008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124331009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -456,10 +366,23 @@
     <seats>3</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/206/P202603301524109512.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/206/N202603301524109512.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/N202603301524109512.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124406001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124406002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124407003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124407004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124407005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124408006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124408007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124408008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124409009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -478,10 +401,23 @@
     <seats>3</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/193/P202606300951456118.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/193/N202606300951456118.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/N202606300951456118.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124329001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124329002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124329003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124330004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124330005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124330006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124331007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124331008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/193/20251112124331009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -500,10 +436,23 @@
     <seats>9</seats>
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
+    <color>Branco</color>
     <price_eur>36950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/197/P202606291756461119.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/197/N202606291756461119.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/N202606291756461119.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124330001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124331002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124331003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124332004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124332005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124336016.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124332006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124332007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/197/20251112124333008.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -522,10 +471,23 @@
     <seats>7</seats>
     <body_type>Caixa basculante</body_type>
     <body_type_code>VLM_CxBsc</body_type_code>
+    <color>Branco</color>
     <price_eur>36950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Reservado</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/200/P202604071537542018.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/200/N202604071537542018.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/N202604071537542018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124332001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124332002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124335009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -544,10 +506,23 @@
     <seats>3</seats>
     <body_type>Caixa fechada</body_type>
     <body_type_code>VLM_CxFch</body_type_code>
+    <color>Branco</color>
     <price_eur>45000</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/218/20251112124411000.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124411000.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124411000.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124411001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124412002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124412003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124412004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124414009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -566,10 +541,22 @@
     <seats>2</seats>
     <body_type>Furgão combi</body_type>
     <body_type_code>VLM_Combi</body_type_code>
+    <color>Branco</color>
     <price_eur>13450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/186/P202606291734486910.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/186/N202606291734486910.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/N202606291734486910.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124325001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124325002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327008.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -588,10 +575,23 @@
     <seats>5</seats>
     <body_type>Citadino</body_type>
     <body_type_code>VLP_Ctd</body_type_code>
+    <color>Branco</color>
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/62/P202603131529498923.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/62/N202603131529498923.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/N202603131529498923.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124117001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124117002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124117003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124118004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124119005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124120006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124121007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124121008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124121009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -610,10 +610,23 @@
     <seats>5</seats>
     <body_type>Citadino</body_type>
     <body_type_code>VLP_Ctd</body_type_code>
+    <color>Amarelo</color>
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/65/P202603201445262421.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/65/N202603201445262421.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/N202603201445262421.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124118001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124119002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124120003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124120004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124121005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124121006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124122007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124122008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124123009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -632,10 +645,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Azul</color>
     <price_eur>13450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/237/P202603251202348022.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/237/N202603251202348022.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/N202603251202348022.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210722001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -654,10 +680,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Verde Escuro</color>
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/286/P202603251425366417.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/286/N202603251425366417.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/N202603251425366417.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154211003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154211004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154211005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154211006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -676,10 +715,23 @@
     <seats>5</seats>
     <body_type>Citadino</body_type>
     <body_type_code>VLP_Cbr</body_type_code>
+    <color>Preto</color>
     <price_eur>8990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/329/P202606181236586910.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236586910.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236586910.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236397302.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236408403.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236403104.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236413906.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236425607.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236424409.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236426908.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236411705.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181238359710.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -698,10 +750,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>19490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/240/P202607141709572002.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141709572002.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141709572002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141713592703.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141713599104.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141714002107.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141713596802.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141713597005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141714003008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141714003509.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141714011912.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141714005906.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -720,10 +785,23 @@
     <seats>5</seats>
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
+    <color>Preto</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/56/P202606171749004912.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/56/N202606171749004912.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/N202606171749004912.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124114001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124114002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124114003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124114004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124114005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124115006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124115007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124115008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/56/20251112124115009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -742,10 +820,23 @@
     <seats>5</seats>
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
+    <color>Branco</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/283/P202603261205351729.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/283/N202603261205351729.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/N202603261205351729.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154138001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154138002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154138003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154139004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154139005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154139006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154140007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154140008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/283/20260223154140009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -764,10 +855,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/53/P202606251504349230.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/53/N202606251504349230.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/N202606251504349230.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124112001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124113002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124113003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124113004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124114005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124114006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124114007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124115008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/53/20251112124115009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -786,10 +890,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Verde Claro</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/234/P202606251450591822.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/234/N202606251450591822.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/N202606251450591822.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210701001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210702002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210702003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210702004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210703005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210703006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210703007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210704008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/234/20260204210704009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -808,10 +925,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/264/P202606171624384633.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/264/N202606171624384633.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/N202606171624384633.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210848001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210848002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210848003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210849004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210849005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210849006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210850007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210850008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/264/20260204210850009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -830,10 +960,23 @@
     <seats>5</seats>
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
+    <color>Verde Claro</color>
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/57/P202603261122275417.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/57/N202603261122275417.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/N202603261122275417.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124114001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124115002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124115003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124115004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124116005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124116006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124117007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124117008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/57/20251112124117009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -852,10 +995,23 @@
     <seats>5</seats>
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
+    <color>Branco</color>
     <price_eur>21950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/236/P202603261124085322.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/236/N202603261124085322.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/N202603261124085322.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210716001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210717002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210717003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210717004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210717005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210718006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210718007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210718008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/236/20260204210719009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -874,10 +1030,23 @@
     <seats>5</seats>
     <body_type>Monovolume</body_type>
     <body_type_code>VLP_Mnvl</body_type_code>
+    <color>Cinzento</color>
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/326/P202605141216345919.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141216345919.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141216345919.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208468818.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208465117.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208457816.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208421302.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208433705.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208429603.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208432804.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208461619.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/326/N202605141208444111.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -896,10 +1065,23 @@
     <seats>9</seats>
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
+    <color>Preto</color>
     <price_eur>39950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/74/P202606300933305027.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/74/N202606300933305027.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/N202606300933305027.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124122001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124123002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124123003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124124004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124125005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124125006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124126007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124127008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124127009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -918,10 +1100,23 @@
     <seats>2</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/310/P202603191559368425.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603191559368425.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603191559368425.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644447027.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644439226.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644422625.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644417224.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644409923.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644366119.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644388321.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644367918.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644349517.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -940,10 +1135,23 @@
     <seats>5</seats>
     <body_type>Todo-o-terreno</body_type>
     <body_type_code>VLP_TT</body_type_code>
+    <color>Branco</color>
     <price_eur>36490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/279/P202604231137108921.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/279/N202604231137108921.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/N202604231137108921.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211028001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211029002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211029003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211030004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211030005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211030006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211031007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211031008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211032009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -962,10 +1170,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Azul</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/49/P202603201424263534.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/49/N202603201424263534.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/N202603201424263534.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -984,164 +1205,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/314/P202603201410422123.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>284</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/284/Mercedes-Benz+A+250</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250</model>
-    <version>e</version>
-    <year>2025</year>
-    <registration>2025-03</registration>
-    <mileage_km>55000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <price_eur>34500</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/284/P202603231156232751.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>299</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/299/Mercedes-Benz+A+250</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250</model>
-    <version>e AMG</version>
-    <year>2024</year>
-    <registration>2024</registration>
-    <mileage_km>30000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <price_eur>38450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/299/P202606291649414935.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>189</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/189/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e AMG</version>
-    <year>2024</year>
-    <registration>2024-10</registration>
-    <mileage_km>25000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <price_eur>38450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/189/P202607031227091635.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>277</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/277/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e AMG</version>
-    <year>2025</year>
-    <registration>2025-02</registration>
-    <mileage_km>25000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <price_eur>38450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/277/P202607021637478037.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>297</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/297/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e AMG</version>
-    <year>2024</year>
-    <registration>2024-09</registration>
-    <mileage_km>55000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <price_eur>39950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/297/P202606291651239251.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>298</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e</version>
-    <year>2025</year>
-    <registration>2025</registration>
-    <mileage_km>20000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <price_eur>38450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/298/P202607021624559833.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>343</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/343/Mercedes-Benz+C+300</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>C 300</model>
-    <version>e AMG Line</version>
-    <year>2025</year>
-    <registration>2025-08</registration>
-    <mileage_km>30000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>313</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <price_eur>56950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/343/P202607281811174901.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201410422123.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201410422123.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201101205932.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100367728.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100398931.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100354026.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100176807.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100135503.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100337924.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100352327.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100159506.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1160,10 +1240,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/336/P202607221452475425.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221452475425.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221452475425.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447107802.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447095501.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447109003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447142819.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447148421.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447143018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447146720.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447131916.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447121610.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1182,10 +1275,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
     <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/328/P202606180957192401.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957192401.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957192401.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957442228.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957404615.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957393407.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957433325.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957388106.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957394108.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957448931.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957449129.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957389504.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1204,10 +1310,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/324/P202605061730174101.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061730174101.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061730174101.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731066703.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731076105.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731069902.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731085708.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731076704.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731079806.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731074807.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731094212.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731096915.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1226,10 +1345,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Azul</color>
     <price_eur>27450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/44/P202607061501352527.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/44/N202607061501352527.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/N202607061501352527.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124109002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124108001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124109003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124109004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124110005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124110006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124110007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124111008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124111009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1248,10 +1380,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>27490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/45/P202603271114317225.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/45/N202603271114317225.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/N202603271114317225.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124109001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124109002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124109003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124110004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124110005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124110006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124111007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124111008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124111009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1270,10 +1415,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Azul</color>
     <price_eur>27450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/323/P202605061548144201.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061548144201.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061548144201.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549328803.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061550471322.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549322004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549334805.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549363320.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549368221.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549361018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549337306.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549329702.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1292,10 +1450,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Azul</color>
     <price_eur>28950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/327/P202606111619011101.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619011101.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619011101.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619352220.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619349419.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619346418.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619314902.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619344815.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619345116.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619334714.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619333113.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619347317.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1314,10 +1485,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/134/P202603261444119323.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/134/N202603261444119323.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/N202603261444119323.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124238004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124238005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124239006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124239007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124240008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124240009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1336,10 +1520,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/170/P202603251429008426.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/170/N202603251429008426.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/N202603251429008426.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124313001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124313002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124313003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124314004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124314005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124314006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1358,10 +1555,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/172/P202603270916212528.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/172/N202603270916212528.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/N202603270916212528.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124314001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124314002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124315003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124315004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124317008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124317009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1380,10 +1590,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/97/P202607021709313316.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124154001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124158013.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124158014.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1402,10 +1625,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/129/P202604151554307425.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151554307425.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151554307425.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553397419.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553401020.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553416221.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553415222.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553427123.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553429424.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/20251112124236005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/20251112124238010.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/129/20251112124238012.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1424,10 +1660,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Vermelho</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/164/P202603231740585625.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124310001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124312004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1446,10 +1695,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>20450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/322/P202605061520085001.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520085001.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520085001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520406802.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520416804.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520406903.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520414205.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520418407.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520429508.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520422309.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520421610.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520426011.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1468,10 +1730,23 @@
     <seats>9</seats>
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
+    <color>Branco</color>
     <price_eur>31950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/12/P202607061639142229.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/12/N202607061639142229.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/N202607061639142229.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123926001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123927002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123927003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123928004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123928005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123929006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123929007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123930008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123930009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1490,10 +1765,23 @@
     <seats>3</seats>
     <body_type>Caixa frigorífica</body_type>
     <body_type_code>VLM_CxFrg</body_type_code>
+    <color>Branco</color>
     <price_eur>44950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/291/P202606301033245419.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/291/N202606301033245419.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/N202606301033245419.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1512,32 +1800,23 @@
     <seats>3</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>31450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/319/P202604221055106601.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>345</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/345/Opel+Movano</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Opel</make>
-    <model>Movano</model>
-    <version>Cabine Simples + Frio</version>
-    <year>2024</year>
-    <registration>2024-06</registration>
-    <mileage_km>40000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>165</power_hp>
-    <seats>3</seats>
-    <body_type>Caixa frigorífica</body_type>
-    <body_type_code>Caixa Frigorifica</body_type_code>
-    <price_eur>41950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/345/P202607291149456301.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221055106601.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221055106601.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056151505.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056047203.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056256306.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056148604.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056265407.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056367408.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056377009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056479510.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/319/N202604221056482211.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1556,10 +1835,23 @@
     <seats>9</seats>
     <body_type>Monovolume</body_type>
     <body_type_code>VLP_Mnvl</body_type_code>
+    <color>Branco</color>
     <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/84/P202607141415002725.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/84/N202607141415002725.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/N202607141415002725.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124145001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124145002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124146003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124146004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124147005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124147006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124148007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124148008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/84/20251112124149009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1578,10 +1870,23 @@
     <seats>9</seats>
     <body_type>Monovolume</body_type>
     <body_type_code>VLP_Mnvl</body_type_code>
+    <color>Preto</color>
     <price_eur>37950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/98/P202607061718151122.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/98/N202607061718151122.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/N202607061718151122.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124155001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124155002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124156003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124156004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124156005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124157006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124157007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124157008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124158009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1600,10 +1905,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/40/P202603251700145736.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/40/N202603251700145736.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/N202603251700145736.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124049001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124050002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124050003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124051004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124051005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124051006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124052007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124052008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/40/20251112124052009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1622,10 +1940,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/312/P202603201232524022.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603201232524022.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603201232524022.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714377953.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714292744.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714298343.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714317646.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714255439.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714227136.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714218035.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714217234.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/312/N202603181714201033.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1644,10 +1975,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/313/P202603201204267822.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603201204267822.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603201204267822.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816389236.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816286824.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816321728.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816352233.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816274623.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816214317.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816212216.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816177412.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816189513.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1666,10 +2010,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Branco</color>
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/316/P202603251520383801.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251520383801.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251520383801.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521257702.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521264604.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521278005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521284706.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521289607.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521269403.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521299408.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521292109.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521307810.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1688,10 +2045,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/37/P202603261153551030.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/37/N202603261153551030.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/N202603261153551030.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124048001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124048002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124049003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124049004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124049005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124050006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124050007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124051008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/37/20251112124051009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1710,10 +2080,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>17490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/38/P202606171527413531.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/38/N202606171527413531.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/N202606171527413531.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124048001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124049002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124049003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124049004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124050005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124050006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124051007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124051008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/38/20251112124051009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1732,10 +2115,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento prata</color>
     <price_eur>17490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/281/P202607031219552223.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/281/N202607031219552223.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/N202607031219552223.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154124001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154124002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154125003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154125004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154125005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154126006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154126007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154126008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/281/20260223154127009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1754,10 +2150,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/282/P202607021620428923.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/282/N202607021620428923.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/N202607021620428923.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154132001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154132002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154132003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154133004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154133005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154133006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154134007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154134008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/282/20260223154134009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1776,10 +2185,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/342/P202607281600242301.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600242301.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600242301.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600242302.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600251703.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600255704.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600258205.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600256006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600253107.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600256808.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600253309.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600281721.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1798,10 +2220,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/346/P202607291215117901.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291215117901.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291215117901.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216448502.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216477319.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216472217.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216443204.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216455705.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216459807.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216449203.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216467115.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216463614.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1820,10 +2255,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/80/P202607061629356827.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/80/N202607061629356827.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/N202607061629356827.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124142001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124143002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124143003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124144004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124144005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124145006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124145007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124146008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124146009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1842,32 +2290,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/171/P202607061129238625.jpg</image>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>344</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/344/Peugeot+508+SW</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Peugeot</make>
-    <model>508 SW</model>
-    <version>1.5 BlueHDi GT Pack EAT8</version>
-    <year>2023</year>
-    <registration>2023-06</registration>
-    <mileage_km>61000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>130</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <price_eur>21950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/344/P202607291113351425.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/171/N202607061129238625.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/N202607061129238625.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124316009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1886,10 +2325,23 @@
     <seats>3</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/158/P202604271026548317.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/158/N202604271026548317.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/N202604271026548317.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/N202604271033445217.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124307002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124307003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124308005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124309006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124309007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124309008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124309009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/158/20251112124310010.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1908,10 +2360,23 @@
     <seats>2</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/105/P202607061510544916.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124201009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1930,10 +2395,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/16/P202606301006464814.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/16/N202606301006464814.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/N202606301006464814.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123929001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123929002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123930003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123930004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123930005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123931006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123931007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123931008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123932009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1952,10 +2430,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/33/P202603231431316529.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/33/N202603231431316529.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/N202603231431316529.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124046001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124046002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124046003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124047004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124047005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124047006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124047007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124048008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/33/20251112124048009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1974,10 +2465,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Vermelho</color>
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/34/P202606301023343720.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/34/N202606301023343720.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/N202606301023343720.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124046001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124047002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124047003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124047004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124048005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124048006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124048007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124049008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124049009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -1996,10 +2500,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/106/P202603231201514922.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603231201514922.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603231201514922.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041349546803.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041349564806.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041349573607.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041349558304.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041349547202.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041350086420.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041350079419.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041350095621.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/106/N202603041352309821.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2018,10 +2535,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Azul</color>
     <price_eur>21490</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/259/P202607031214387623.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/259/N202607031214387623.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/N202607031214387623.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210828001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210828002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210828003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210829004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210829005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210829006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210830007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210830008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/259/20260204210830009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2040,10 +2570,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Azul</color>
     <price_eur>16990</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/331/P202607021759518923.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021759518923.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021759518923.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758228501.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758235402.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758233203.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758231704.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758231705.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758243606.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758249807.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758243808.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021758248709.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2062,10 +2605,23 @@
     <seats>3</seats>
     <body_type>Comercial ligeiro</body_type>
     <body_type_code>VLM</body_type_code>
+    <color>Branco</color>
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/173/P202606171636487018.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124316004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124316005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124317006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124317007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124317008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124318009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2084,10 +2640,23 @@
     <seats>3</seats>
     <body_type>Caixa fechada</body_type>
     <body_type_code>VLM_CxFch</body_type_code>
+    <color>Branco</color>
     <price_eur>38450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/290/P202607061520189523.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/290/N202607061520189523.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/N202607061520189523.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100933001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100933002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100934003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100934004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100934005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100935006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100935007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100936008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/290/20260227100936009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2106,10 +2675,23 @@
     <seats>7</seats>
     <body_type>Caixa aberta</body_type>
     <body_type_code>VLM_CxAbr</body_type_code>
+    <color>Branco</color>
     <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/295/P202607141145257317.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/295/N202607141145257317.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/N202607141145257317.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421573354.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421571270.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421581112.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421582463.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421597427.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031421597719.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031422001936.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031422003090.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/295/202603031422012358.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2128,10 +2710,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>18450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/25/P202606221123596932.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/25/N202606221123596932.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/N202606221123596932.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124042001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124042002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124042003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124043004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124043005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124043006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124044007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124044008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/25/20251112124044009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2150,10 +2745,23 @@
     <seats>5</seats>
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
+    <color>Cinzento</color>
     <price_eur>26450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/334/P202607151718159326.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151718159326.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151718159326.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711555703.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711564305.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711558302.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711553301.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711581724.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711594925.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711588523.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711592226.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711589021.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2172,10 +2780,23 @@
     <seats>5</seats>
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
+    <color>Preto</color>
     <price_eur>26450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/339/P202607281221531226.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281221531226.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281221531226.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215106703.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281217582825.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281217173125.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215116506.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215132316.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215124813.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215129115.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215112707.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215128609.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2194,10 +2815,23 @@
     <seats>5</seats>
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
+    <color>Preto</color>
     <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/252/P202606181008578631.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/252/N202606181008578631.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/N202606181008578631.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210751001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210751002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210751003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210752004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210752005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210752006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210753007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210753008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/252/20260204210753009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2216,10 +2850,23 @@
     <seats>5</seats>
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
+    <color>Cinzento</color>
     <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/340/P202607281245494401.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281245494401.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281245494401.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411058003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411057502.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411053804.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411077216.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411074818.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411074517.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411087519.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411078013.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411072712.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2238,10 +2885,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>19450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/18/P202607061554557935.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/18/N202607061554557935.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/N202607061554557935.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124039001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124039002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124039003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124040004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124040005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124040006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124041007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124041008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/18/20251112124041009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2260,10 +2920,23 @@
     <seats>5</seats>
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
     <price_eur>21950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/21/P202607061613431730.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/21/N202607061613431730.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/N202607061613431730.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124040001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124040002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124041003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124041004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124041005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124042006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124042007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124043008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/21/20251112124043009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2282,10 +2955,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/19/P202607141642099828.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/19/N202607141642099828.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/N202607141642099828.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124040003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124040004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124040005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124040006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124041007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124041008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124041009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2304,10 +2990,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Branco</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/341/P202607281453135301.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281453135301.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281453135301.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521298102.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521294303.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521299704.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521293905.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521306506.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521306808.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521303007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521326721.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521304810.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2326,10 +3025,23 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Preto</color>
     <price_eur>20950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/315/20260323181923_md.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819233844.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819233844.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819236257.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819246776.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819249001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819247695.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819246168.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819257778.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819255021.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819256262.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819265225.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
@@ -2348,10 +3060,23 @@
     <seats>3</seats>
     <body_type>Comercial ligeiro</body_type>
     <body_type_code>VLM</body_type_code>
+    <color>Branco</color>
     <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <image>https://valpimotor.pt/imagens_viaturas/257/P202606171613076125.jpg</image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/257/N202606171613076125.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/N202606171613076125.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210812001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210813002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210813003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210814004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210814005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210814006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210815007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210815008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210815009.jpg</image>
+    </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
 </vehicles>
