@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-10T07:49:12Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-10T15:03:14Z" count="88">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -1598,14 +1598,14 @@
     <images>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124154001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155002.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155003.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155004.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124156008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124200019.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124158013.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124158014.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124158015.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124159018.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -1626,7 +1626,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Preto</color>
-    <price_eur>20950</price_eur>
+    <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151554307425.jpg</cover_image>
@@ -1661,7 +1661,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Vermelho</color>
-    <price_eur>20950</price_eur>
+    <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</cover_image>
@@ -1696,7 +1696,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Cinzento</color>
-    <price_eur>20450</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520085001.jpg</cover_image>
