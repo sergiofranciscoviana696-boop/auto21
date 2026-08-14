@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-13T15:01:30Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-14T07:38:08Z" count="89">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -499,7 +499,7 @@
     <version>Maxi 35 ML 2.2 Multijet 180cv PLATAFORMA ELEVATÓRIA</version>
     <year>2024</year>
     <registration>2024-01</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>85000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>180</power_hp>
@@ -507,7 +507,7 @@
     <body_type>Caixa fechada</body_type>
     <body_type_code>VLM_CxFch</body_type_code>
     <color>Branco</color>
-    <price_eur>45000</price_eur>
+    <price_eur>41950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124411000.jpg</cover_image>
@@ -3041,6 +3041,41 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819255021.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819256262.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/315/202603231819265225.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>154</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/154/Toyota+Proace</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Toyota</make>
+    <model>Proace</model>
+    <version>City Comfort L2</version>
+    <year>2024</year>
+    <registration>2024-07</registration>
+    <mileage_km>70000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
+    <price_eur>17490</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/154/N202603270951354416.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/N202603270951354416.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305001.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124306004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124306005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124308009.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
