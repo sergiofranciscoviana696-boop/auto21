@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-20T06:52:42Z" count="89">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-20T14:39:53Z" count="88">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -2201,41 +2201,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600256808.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600253309.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/342/N202607281600281721.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>346</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/346/Peugeot+208</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Peugeot</make>
-    <model>208</model>
-    <version>1.5 BlueHDi Active Pack</version>
-    <year>2022</year>
-    <registration>2022-01</registration>
-    <mileage_km>86400</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>102</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <color>Cinzento</color>
-    <price_eur>13950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291215117901.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291215117901.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216448502.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216477319.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216472217.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216443204.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216455705.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216459807.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216449203.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216467115.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/346/N202607291216463614.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
