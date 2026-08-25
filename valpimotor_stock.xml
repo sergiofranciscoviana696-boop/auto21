@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-25T06:55:23Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-25T14:50:50Z" count="86">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -195,9 +195,9 @@
     <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151656407701.jpg</cover_image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202608251351213023.jpg</cover_image>
     <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151656407701.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202608251351213023.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658199617.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658161208.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658162106.jpg</image>
@@ -1260,41 +1260,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>328</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/328/MG+ZS</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>MG</make>
-    <model>ZS</model>
-    <version>1.0 T-GDI Luxury</version>
-    <year>2022</year>
-    <registration>2022-11</registration>
-    <mileage_km>77000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>111</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Preto</color>
-    <price_eur>15950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957192401.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957192401.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957442228.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957404615.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957393407.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957433325.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957388106.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957394108.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957448931.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957449129.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/328/N202606180957389504.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>324</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/324/Nissan+Juke</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1338,7 +1303,7 @@
     <version>1.3 DIG-T N-Connecta LED</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>30000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>140</power_hp>
@@ -1373,7 +1338,7 @@
     <version>1.3 DIG-T N-Connecta LED</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>30000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>140</power_hp>
@@ -1400,41 +1365,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>323</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/323/Nissan+Qashqai</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Nissan</make>
-    <model>Qashqai</model>
-    <version>1.3 DIG-T N-Connecta LED</version>
-    <year>2025</year>
-    <registration>2025-02</registration>
-    <mileage_km>26000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>140</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Azul</color>
-    <price_eur>27450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061548144201.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061548144201.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549328803.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061550471322.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549322004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549334805.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549363320.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549368221.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549361018.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549337306.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/323/N202605061549329702.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>327</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/327/Nissan+Qashqai</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1443,7 +1373,7 @@
     <version>1.3 DIG-T Advance Xtronic</version>
     <year>2025</year>
     <registration>2025-01</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>158</power_hp>
