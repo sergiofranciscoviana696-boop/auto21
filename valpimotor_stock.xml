@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-25T14:50:50Z" count="86">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-08-26T06:56:03Z" count="84">
   <vehicle>
     <vehicle_id>300</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
@@ -1400,41 +1400,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>134</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/134/Opel+Corsa</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Opel</make>
-    <model>Corsa</model>
-    <version>1.5 D Elegance</version>
-    <year>2023</year>
-    <registration>2023-10</registration>
-    <mileage_km>55000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>102</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <color>Preto</color>
-    <price_eur>16950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/134/N202603261444119323.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/N202603261444119323.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124237003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124238004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124238005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124239006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124239007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124240008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/134/20251112124240009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>170</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/170/Opel+Corsa</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1466,41 +1431,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/170/20251112124315009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>172</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/172/Opel+Corsa</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Opel</make>
-    <model>Corsa</model>
-    <version>1.5 D Elegance</version>
-    <year>2023</year>
-    <registration>2023-10</registration>
-    <mileage_km>40000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>102</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <color>Branco</color>
-    <price_eur>16950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/172/N202603270916212528.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/N202603270916212528.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124314001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124314002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124315003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124315004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124316007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124317008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/172/20251112124317009.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
