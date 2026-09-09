@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-08T17:50:19Z" count="90">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-09T17:42:51Z" count="89">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -3076,41 +3076,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521303007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521326721.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/341/N202607281521304810.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>154</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/154/Toyota+Proace</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Toyota</make>
-    <model>Proace</model>
-    <version>City Comfort L2</version>
-    <year>2024</year>
-    <registration>2024-07</registration>
-    <mileage_km>70000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>100</power_hp>
-    <seats>3</seats>
-    <body_type>Furgão</body_type>
-    <body_type_code>VLM_frg</body_type_code>
-    <color>Branco</color>
-    <price_eur>17490</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/154/N202603270951354416.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/N202603270951354416.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124305003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124306004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124306005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124307008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/154/20251112124308009.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
