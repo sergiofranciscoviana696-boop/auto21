@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-11T10:55:44Z" count="89">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-11T17:38:48Z" count="89">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -370,9 +370,9 @@
     <price_eur>14950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202603131114285424.jpg</cover_image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202609111207408424.jpg</cover_image>
     <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202603131114285424.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202609111207408424.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124315001.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124316002.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124316003.jpg</image>
@@ -1056,9 +1056,9 @@
     <make>Ford</make>
     <model>Tourneo Courier</model>
     <version>1.0 EcoBoost Titanium</version>
-    <year>2024</year>
-    <registration>2024-12</registration>
-    <mileage_km>30000</mileage_km>
+    <year>2025</year>
+    <registration>2025-03</registration>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>125</power_hp>
@@ -1093,7 +1093,7 @@
     <version>1.0 EcoBoost Trend</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>10000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>125</power_hp>
@@ -1128,7 +1128,7 @@
     <version>1.0 EcoBoost Titanium</version>
     <year>2024</year>
     <registration>2024-12</registration>
-    <mileage_km>30000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>125</power_hp>
