@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-15T11:25:11Z" count="89">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-15T18:02:54Z" count="87">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -1256,76 +1256,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211031007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211031008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211032009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>49</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/49/Kia+Stonic</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Kia</make>
-    <model>Stonic</model>
-    <version>1.2 MPi Dynamic</version>
-    <year>2025</year>
-    <registration>2025-02</registration>
-    <mileage_km>20000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>79</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Azul</color>
-    <price_eur>16950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/49/N202603201424263534.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/N202603201424263534.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124111003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124112006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/49/20251112124113009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>314</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/314/Kia+Stonic</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Kia</make>
-    <model>Stonic</model>
-    <version>1.2 MPi Dynamic</version>
-    <year>2025</year>
-    <registration>2025-02</registration>
-    <mileage_km>22000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>79</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Cinzento</color>
-    <price_eur>16950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201410422123.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201410422123.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201101205932.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100367728.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100398931.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100354026.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100176807.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100135503.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100337924.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100352327.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/314/N202603201100159506.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
