@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-17T11:19:03Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-17T18:02:40Z" count="88">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -670,7 +670,7 @@
     <segment>Ligeiro de Passageiros</segment>
     <make>Fiat</make>
     <model>Panda</model>
-    <version>Pandina 1.0 Hybrid Icon</version>
+    <version>Pandina 1.0 Hybrid</version>
     <year>2025</year>
     <registration>2025-03</registration>
     <mileage_km>25000</mileage_km>
@@ -1828,7 +1828,7 @@
     <version>Movano Chassis Cabine Simples + Frio</version>
     <year>2024</year>
     <registration>2024-05</registration>
-    <mileage_km>29000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>165</power_hp>
@@ -2248,7 +2248,7 @@
     <version>1.2 Hybrid Allure e-DCS6</version>
     <year>2024</year>
     <registration>2024-09</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>101</power_hp>
@@ -2353,7 +2353,7 @@
     <version>2.2 BlueHDi 330 L1H1</version>
     <year>2023</year>
     <registration>2023-11</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>57000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>120</power_hp>
