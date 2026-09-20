@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-19T10:36:03Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-20T10:58:51Z" count="88">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -79,7 +79,7 @@
     <version>e Pack Desportivo M</version>
     <year>2025</year>
     <registration>2025-05</registration>
-    <mileage_km>40000</mileage_km>
+    <mileage_km>48000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>299</power_hp>
@@ -1303,7 +1303,7 @@
     <version>e</version>
     <year>2025</year>
     <registration>2025-03</registration>
-    <mileage_km>55000</mileage_km>
+    <mileage_km>60000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>218</power_hp>
@@ -1311,7 +1311,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Preto</color>
-    <price_eur>34500</price_eur>
+    <price_eur>32950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/284/N202603231156232751.jpg</cover_image>
@@ -1338,7 +1338,7 @@
     <version>e AMG</version>
     <year>2024</year>
     <registration>2024</registration>
-    <mileage_km>30000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>218</power_hp>
@@ -1346,7 +1346,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Preto</color>
-    <price_eur>38450</price_eur>
+    <price_eur>33950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/299/N202606291649414935.jpg</cover_image>
@@ -1373,7 +1373,7 @@
     <version>e AMG</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>40000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>218</power_hp>
@@ -1381,7 +1381,7 @@
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
     <color>Preto</color>
-    <price_eur>38450</price_eur>
+    <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/277/N202607021637478037.jpg</cover_image>
@@ -1416,7 +1416,7 @@
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
     <color>Cinzento</color>
-    <price_eur>39950</price_eur>
+    <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202606291651239251.jpg</cover_image>
@@ -1443,7 +1443,7 @@
     <version>e</version>
     <year>2025</year>
     <registration>2025</registration>
-    <mileage_km>20000</mileage_km>
+    <mileage_km>45000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>218</power_hp>
@@ -1451,7 +1451,7 @@
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
     <color>Preto</color>
-    <price_eur>38450</price_eur>
+    <price_eur>33500</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</cover_image>
@@ -2598,7 +2598,7 @@
     <version>1.0 TCe Evolution</version>
     <year>2024</year>
     <registration>2024-11</registration>
-    <mileage_km>38000</mileage_km>
+    <mileage_km>45000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>90</power_hp>
@@ -2606,7 +2606,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Azul</color>
-    <price_eur>16990</price_eur>
+    <price_eur>16450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/331/N202607021759518923.jpg</cover_image>
