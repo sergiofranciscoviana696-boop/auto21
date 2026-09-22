@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-22T11:15:42Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-22T18:00:15Z" count="91">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -32,6 +32,41 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/350/N202608141626398425.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/350/N202608141626387319.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/350/N202608141626386818.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>354</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/354/Audi+A5+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Audi</make>
+    <model>A5 Limousine</model>
+    <version>e-hybrid quattro</version>
+    <year>2025</year>
+    <registration>2025-10</registration>
+    <mileage_km>65000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>299</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <color>Preto</color>
+    <price_eur>49950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059246501.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059246501.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059251602.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059259903.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059258804.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059257005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059261306.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059266107.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059264508.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059266209.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059277510.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -312,6 +347,41 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658182413.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658175812.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658172011.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>355</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/355/Citroen+C4-X</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Citroen</make>
+    <model>C4-X</model>
+    <version>1.5 BlueHDi Plus EAT8</version>
+    <year>2025</year>
+    <registration>2025-04</registration>
+    <mileage_km>35000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>131</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <color>Cinzento</color>
+    <price_eur>24950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111517034321.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111517034321.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111135008018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111135002620.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111132584802.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111132596803.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111133004905.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111133002604.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111133016406.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111133027007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111133077513.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -2796,6 +2866,40 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215129115.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215112707.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215128609.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>353</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/353/SEAT+Leon</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon</model>
+    <version>1.4 e-Hybrid FR DSG</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>60000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>204</power_hp>
+    <seats>5</seats>
+    <body_type>Hatchback</body_type>
+    <body_type_code>VLP_Htckb</body_type_code>
+    <price_eur>24950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091653288923.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091653288923.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648225702.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648225801.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648236604.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648247807.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648266217.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648259511.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648269318.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648272720.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/353/N202609091648255615.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
