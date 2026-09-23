@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-23T11:08:14Z" count="91">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-23T18:19:56Z" count="83">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -192,7 +192,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Branco</color>
-    <price_eur>16950</price_eur>
+    <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/262/N202603121753487819.jpg</cover_image>
@@ -219,7 +219,7 @@
     <version>1.5 BlueHDi Plus</version>
     <year>2024</year>
     <registration>2024-07</registration>
-    <mileage_km>55000</mileage_km>
+    <mileage_km>60000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>102</power_hp>
@@ -227,7 +227,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>16950</price_eur>
+    <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/265/N202603121758521817.jpg</cover_image>
@@ -254,7 +254,7 @@
     <version>1.5 BlueHDi Plus</version>
     <year>2024</year>
     <registration>2024-07</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>60000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>102</power_hp>
@@ -262,7 +262,7 @@
     <body_type>Citadino</body_type>
     <body_type_code>VLP_Ctd</body_type_code>
     <color>Preto</color>
-    <price_eur>16950</price_eur>
+    <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201033245908.jpg</cover_image>
@@ -561,6 +561,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>357</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/357/Fiat+Doblo</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Doblo</model>
+    <version>1.5 BlueHDi Longa</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>55000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission></transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
+    <price_eur>17950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555537903.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555531602.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555533104.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555568815.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555565514.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555551511.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555567016.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555544907.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555548708.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>193</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/193/Fiat+Ducato</url>
     <segment>Ligeiro de Mercadorias</segment>
@@ -631,41 +666,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>200</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/200/Fiat+Ducato</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Fiat</make>
-    <model>Ducato</model>
-    <version>Cabine Dupla 35L 2.2 Multijet BASCULANTE</version>
-    <year>2024</year>
-    <registration>2024-06</registration>
-    <mileage_km>55000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>140</power_hp>
-    <seats>7</seats>
-    <body_type>Caixa basculante</body_type>
-    <body_type_code>VLM_CxBsc</body_type_code>
-    <color>Branco</color>
-    <price_eur>36950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Reservado</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/200/N202604071537542018.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/N202604071537542018.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124332001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124332002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124333005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124334008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/200/20251112124335009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>218</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/218/Fiat+Ducato</url>
     <segment>Ligeiro de Mercadorias</segment>
@@ -697,40 +697,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124413008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/218/20251112124414009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>186</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/186/Fiat+Fiorino</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Fiat</make>
-    <model>Fiorino</model>
-    <version>1.3 M-Jet</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>45000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>95</power_hp>
-    <seats>2</seats>
-    <body_type>Furgão combi</body_type>
-    <body_type_code>VLM_Combi</body_type_code>
-    <color>Branco</color>
-    <price_eur>13450</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/186/N202606291734486910.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/N202606291734486910.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124325001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124325002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124326005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/186/20251112124327008.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -875,41 +841,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>329</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/329/Fiat+Panda</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Fiat</make>
-    <model>Panda</model>
-    <version>1.0 Hybrid City</version>
-    <year>2022</year>
-    <registration>2022-05</registration>
-    <mileage_km>85000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>70</power_hp>
-    <seats>5</seats>
-    <body_type>Citadino</body_type>
-    <body_type_code>VLP_Cbr</body_type_code>
-    <color>Preto</color>
-    <price_eur>8990</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236586910.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236586910.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236397302.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236408403.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236403104.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236413906.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236425607.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236424409.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236426908.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181236411705.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/329/N202606181238359710.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>240</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/240/Ford+Focus</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1031,7 +962,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Branco</color>
-    <price_eur>19950</price_eur>
+    <price_eur>19650</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/53/N202606251504349230.jpg</cover_image>
@@ -1066,7 +997,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Verde Claro</color>
-    <price_eur>19950</price_eur>
+    <price_eur>19650</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/234/N202606251450591822.jpg</cover_image>
@@ -1101,7 +1032,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Cinzento</color>
-    <price_eur>19950</price_eur>
+    <price_eur>19450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/264/N202606171624384633.jpg</cover_image>
@@ -1470,41 +1401,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>297</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/297/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e AMG</version>
-    <year>2024</year>
-    <registration>2024-09</registration>
-    <mileage_km>55000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <color>Cinzento</color>
-    <price_eur>34950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202606291651239251.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202606291651239251.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031608168002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617195805.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617186103.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617206907.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617234214.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617233213.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617247815.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617221112.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/297/N202603031617192906.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>298</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1540,41 +1436,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>336</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/336/MG+HS</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>MG</make>
-    <model>HS</model>
-    <version>1.5 Plug-in Hybrid Luxury</version>
-    <year>2025</year>
-    <registration>2025-02</registration>
-    <mileage_km>40000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>272</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Branco</color>
-    <price_eur>30290</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221452475425.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221452475425.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447107802.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447095501.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447109003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447142819.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447148421.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447143018.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447146720.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447131916.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/336/N202607221447121610.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>324</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/324/Nissan+Juke</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1583,7 +1444,7 @@
     <version>1.0 DIG-T N-Design</version>
     <year>2024</year>
     <registration>2024-10</registration>
-    <mileage_km>31000</mileage_km>
+    <mileage_km>40000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>114</power_hp>
@@ -1591,7 +1452,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Cinzento</color>
-    <price_eur>19950</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061730174101.jpg</cover_image>
@@ -1680,41 +1541,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>327</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/327/Nissan+Qashqai</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Nissan</make>
-    <model>Qashqai</model>
-    <version>1.3 DIG-T Advance Xtronic</version>
-    <year>2025</year>
-    <registration>2025-01</registration>
-    <mileage_km>40000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>158</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Azul</color>
-    <price_eur>28950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619011101.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619011101.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619352220.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619349419.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619346418.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619314902.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619344815.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619345116.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619334714.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619333113.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/327/N202606111619347317.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>97</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/97/Opel+Mokka</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1723,7 +1549,7 @@
     <version>1.5 D Elegance</version>
     <year>2024</year>
     <registration>2024-02</registration>
-    <mileage_km>65000</mileage_km>
+    <mileage_km>75000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
@@ -1731,7 +1557,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Branco</color>
-    <price_eur>19950</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</cover_image>
@@ -1758,7 +1584,7 @@
     <version>1.5 D Elegance</version>
     <year>2024</year>
     <registration>2024-01</registration>
-    <mileage_km>65000</mileage_km>
+    <mileage_km>75000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
@@ -1766,7 +1592,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Preto</color>
-    <price_eur>19950</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151554307425.jpg</cover_image>
@@ -1793,7 +1619,7 @@
     <version>1.5 D Elegance</version>
     <year>2024</year>
     <registration>2024-01</registration>
-    <mileage_km>65000</mileage_km>
+    <mileage_km>75000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
@@ -1801,7 +1627,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Vermelho</color>
-    <price_eur>19950</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</cover_image>
@@ -1826,8 +1652,8 @@
     <make>Opel</make>
     <model>Mokka</model>
     <version>1.5 D Elegance</version>
-    <year>2023</year>
-    <registration>2023-10</registration>
+    <year>2024</year>
+    <registration>2024-01</registration>
     <mileage_km>71000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
@@ -2135,41 +1961,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>316</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/316/Peugeot+2008</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Peugeot</make>
-    <model>2008</model>
-    <version>1.2 PureTech Allure</version>
-    <year>2024</year>
-    <registration>2024-12</registration>
-    <mileage_km>31000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>102</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Branco</color>
-    <price_eur>19950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251520383801.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251520383801.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521257702.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521264604.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521278005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521284706.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521289607.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521269403.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521299408.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521292109.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/316/N202603251521307810.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>37</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/37/Peugeot+208</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -2345,76 +2136,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>80</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/80/Peugeot+308</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Peugeot</make>
-    <model>308</model>
-    <version>1.5 BlueHDi Active Pack EAT8</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>50000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>130</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <color>Preto</color>
-    <price_eur>23950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/80/N202607061629356827.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/N202607061629356827.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124142001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124143002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124143003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124144004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124144005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124145006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124145007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124146008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/80/20251112124146009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>171</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/171/Peugeot+308</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Peugeot</make>
-    <model>308</model>
-    <version>1.5 BlueHDi Active EAT8</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>50000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>130</power_hp>
-    <seats>5</seats>
-    <body_type>Hatchback</body_type>
-    <body_type_code>VLP_Htckb</body_type_code>
-    <color>Cinzento</color>
-    <price_eur>23950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/171/N202607061129238625.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/N202607061129238625.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124316009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>158</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/158/Peugeot+Boxer</url>
     <segment>Ligeiro de Mercadorias</segment>
@@ -2466,7 +2187,7 @@
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
-    <price_eur>17950</price_eur>
+    <price_eur>17740</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</cover_image>
@@ -2885,6 +2606,7 @@
     <seats>5</seats>
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
+    <color>Cinzento prata</color>
     <price_eur>24950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
