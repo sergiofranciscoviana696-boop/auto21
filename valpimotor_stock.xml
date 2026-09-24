@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-23T18:19:56Z" count="83">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-09-24T11:24:51Z" count="82">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -452,41 +452,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124317007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124318008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/174/20251112124318009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>5</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/5/Fiat+600</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Fiat</make>
-    <model>600</model>
-    <version>1.2 Hybrid</version>
-    <year>2025</year>
-    <registration>2025-06</registration>
-    <mileage_km>25000</mileage_km>
-    <fuel_type>Gasolina</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>110</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Branco</color>
-    <price_eur>20950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/5/N202607141618308624.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/N202607141618308624.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123722003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123723006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/5/20251112123724009.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
