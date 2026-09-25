@@ -1,0 +1,28 @@
+{
+  "canvas": {"w": 1080, "h": 1080},
+  "car_zone": {"x": 0, "y": 0, "w": 1080, "h": 810, "anchor": "center", "shadow": false, "fit": "cover"},
+  "overlay": null,
+  "texts": [
+    {"id": "txt_title", "field": "title", "x": 60, "y": 830, "w": 960, "h": 70,
+     "font_family": "Open Sans", "font_weight": 700, "font_file": "OpenSans-Bold.ttf",
+     "size": 52, "min_size": 36, "color": "#FFFFFF", "align": "left", "valign": "middle",
+     "letter_spacing": 0, "line_height": 1.2, "uppercase": false},
+    {"id": "txt_fuel", "field": "fuel", "x": 60, "y": 916, "w": 520, "h": 46,
+     "font_family": "Open Sans", "font_weight": 600, "font_file": "OpenSans-SemiBold.ttf",
+     "size": 32, "min_size": 28, "color": "#5BC2E7", "align": "left", "valign": "middle",
+     "letter_spacing": 0, "line_height": 1.2, "uppercase": false},
+    {"id": "txt_price", "field": "price", "x": 600, "y": 912, "w": 420, "h": 104,
+     "font_family": "Open Sans", "font_weight": 800, "font_file": "OpenSans-ExtraBold.ttf",
+     "size": 80, "min_size": 64, "color": "#FFFFFF", "align": "right", "valign": "middle",
+     "letter_spacing": 0, "line_height": 1.2, "uppercase": false},
+    {"id": "txt_km", "field": "km", "x": 152, "y": 970, "w": 428, "h": 42,
+     "font_family": "Open Sans", "font_weight": 400, "font_file": "OpenSans-Regular.ttf",
+     "size": 28, "min_size": 24, "color": "#C9D6E8", "align": "left", "valign": "middle",
+     "letter_spacing": 0, "line_height": 1.2, "uppercase": false},
+    {"id": "txt_year", "field": "year", "x": 60, "y": 970, "w": 80, "h": 42,
+     "font_family": "Open Sans", "font_weight": 400, "font_file": "OpenSans-Regular.ttf",
+     "size": 28, "min_size": 28, "color": "#C9D6E8", "align": "left", "valign": "middle",
+     "letter_spacing": 0, "line_height": 1.2, "uppercase": false}
+  ],
+  "draw_order": ["bg", "car", "overlay", "txt_title", "txt_fuel", "txt_price", "txt_km", "txt_year"]
+}
