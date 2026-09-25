@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Gera o feed XML de stock da Valpi Motor cruzando DUAS fontes por id:
+Gera DOIS feeds a partir das mesmas fontes (cruzadas por id):
   1) Pagina /viaturas  -> campos estruturados (potencia, lugares, carrocaria, combustivel, preco...)
-  2) Feed XML do Meta  -> galeria completa de imagens + cor exterior
-Viaturas que nao tenham galeria (nem no Meta, nem no mapa manual) FICAM DE FORA.
-Para essas, preenche 'imagens_extra.json' a mao (id -> lista de URLs; a 1a e a capa).
+  2) Feed XML do Meta  -> galeria completa de imagens + cor exterior + transmissao
+
+Saidas:
+  valpimotor_stock.xml -> auto.pt (inalterado: so viaturas com galeria completa)
+  meta_vehicles.xml    -> catalogo automovel da Meta (formato igual ao do AUTO21,
+                          com body_style/fuel_type/drivetrain corretos e custom_label_0)
+                          Inclui tambem as viaturas sem galeria, usando a miniatura da pagina.
 
 Uso:  python build_feed.py                      (le tudo online)
       python build_feed.py pagina.html          (pagina local + Meta online)
@@ -26,6 +30,7 @@ META_URL = "https://auto21.pt/valpi/filesxml/facebook_loja_auto_v2.xml"
 BASE = "https://www.valpimotor.pt/site1/"
 MAP_FILE = "imagens_extra.json"
 OUT = "valpimotor_stock.xml"
+META_OUT = "meta_vehicles.xml"
 
 MESES = {"jan": 1, "fev": 2, "mar": 3, "abr": 4, "mai": 5, "jun": 6,
          "jul": 7, "ago": 8, "set": 9, "out": 10, "nov": 11, "dez": 12}
@@ -39,6 +44,19 @@ CARROCARIA = {
     "VLM": "Comercial ligeiro", "Caixa Frigorifica": "Caixa frigorífica",
 }
 SEGMENTO = {"VLP": "Ligeiro de Passageiros", "VLM": "Ligeiro de Mercadorias"}
+
+# ---------- Meta ----------
+DEALER = {
+    "addr1": "Av. Joaquim Ribeiro da Mota 256 Gandra", "city": "Paredes",
+    "region": "Porto", "postal_code": "4585-166", "country": "PT",
+    "lat": "41.18867484187807", "lng": "-8.442489057671049",
+}
+META_BODY = {
+    "VLP_Htckb": "HATCHBACK", "VLP_Sdn": "SEDAN", "VLP_STW": "WAGON",
+    "VLP_SUV": "SUV", "VLP_Ctd": "SMALL_CAR", "VLP_Cbr": "SMALL_CAR",
+    "VLP_Mnvl": "MPV", "VLP_TT": "PICKUP",
+}
+META_MIN_RATIO = 0.5   # nao sobrescreve o feed Meta se cair mais de 50% face ao anterior
 
 
 def fetch(url):
@@ -84,6 +102,14 @@ def parse_page(html):
                 if sp:
                     reg_txt = sp.get_text(strip=True)
                 break
+        # miniatura da listagem (usada so no feed Meta, para carros sem galeria)
+        # CONFIRMA: a imagem do cartao tem "imagens_viaturas" no src/data-src?
+        thumb = ""
+        for im in item.find_all("img"):
+            src = im.get("data-src") or im.get("src") or ""
+            if "imagens_viaturas" in src:
+                thumb = urljoin(BASE, src)
+                break
         try:
             preco = int(d("preco") or "0")
         except ValueError:
@@ -97,6 +123,7 @@ def parse_page(html):
             "combustivel": d("combustivel2") or FUEL_FALLBACK.get(d("combustivel"), d("combustivel")),
             "trans": d("transmissao"), "hp": d("hp"), "lugares": d("lugares"),
             "tipo": tipo, "carro": CARROCARIA.get(tipo, tipo), "preco": preco,
+            "thumb": thumb,
             "estado": "Reservado" if (item.select_one(".extra-field") and
                                       item.select_one(".extra-field").get_text(strip=True) == "Reservado")
                       else "Disponível",
@@ -120,7 +147,9 @@ def parse_meta(xml_text):
                 imgs.append(u.text.strip())
         col_el = lst.find("exterior_color")
         color = (col_el.text or "").strip() if col_el is not None and col_el.text else ""
-        out[vid] = {"images": imgs, "color": color}
+        tr_el = lst.find("transmission")
+        trans = (tr_el.text or "").strip() if tr_el is not None and tr_el.text else ""
+        out[vid] = {"images": imgs, "color": color, "trans": trans}
     return out
 
 
@@ -183,6 +212,134 @@ def to_xml(vehicles):
     return "\n".join(L) + "\n"
 
 
+# ---------- mapeamento Meta ----------
+def to_int(s):
+    digits = re.sub(r"\D", "", str(s or ""))
+    return int(digits) if digits else 0
+
+
+def meta_body(tipo, seats):
+    if seats >= 9:
+        return "MINIBUS"
+    if tipo == "VLP_Combi":           # "Combi" com menos de 9 lugares (ex.: Tourneo Courier)
+        return "MPV"
+    if tipo in ("VLM_frg", "VLM_Combi"):
+        return "VAN"
+    if tipo.startswith("VLM") or tipo == "Caixa Frigorifica":
+        return "TRUCK"
+    return META_BODY.get(tipo, "OTHER")
+
+
+def meta_fuel(txt):
+    t = (txt or "").lower()
+    if "plug" in t:
+        return "PLUGIN_HYBRID"
+    if "híbrido" in t or "hibrido" in t:
+        return "HYBRID"
+    if "diesel" in t:
+        return "DIESEL"
+    if "gasolina" in t:
+        return "GASOLINE"
+    if "tric" in t:
+        return "ELECTRIC"
+    return "OTHER"
+
+
+def meta_trans(txt, fallback=""):
+    t = (txt or "").lower()
+    if "autom" in t:
+        return "AUTOMATIC"
+    if "manual" in t:
+        return "MANUAL"
+    fb = (fallback or "").upper()
+    return fb if fb in ("AUTOMATIC", "MANUAL") else "OTHER"
+
+
+def meta_drivetrain(versao):
+    v = (versao or "").lower()
+    if re.search(r"4x4|4wd", v):
+        return "4X4"
+    if re.search(r"quattro|xdrive|4motion|awd|allgrip|4matic", v):
+        return "AWD"
+    return "FWD"
+
+
+def meta_date(reg, ano):
+    m = re.match(r"(\d{4})(?:-(\d{1,2}))?", reg or "") or re.match(r"(\d{4})", ano or "")
+    if not m:
+        return ""
+    mes = int(m.group(2)) if m.lastindex and m.lastindex >= 2 and m.group(2) else 1
+    return "%s-%02d-01" % (m.group(1), mes)
+
+
+def meta_group(v, seats):
+    if v["seccao"] == "VLM" or seats >= 9 or "d-max" in v["modelo"].lower():
+        return "comercial"
+    return "passageiros"
+
+
+def to_meta_xml(vehicles):
+    def e(x):
+        return escape(str(x))
+    L = ['<?xml version="1.0" encoding="UTF-8"?>', "<listings>",
+         "<title>Valpi Motor - Stock</title>",
+         '<link rel="self" href="https://www.valpimotor.pt"/>']
+    for v in vehicles:
+        seats = to_int(v["lugares"])
+        title = " ".join(x for x in (v["marca"], v["modelo"], v["versao"]) if x).strip()
+        kms = to_int(v["kms"])
+        desc_bits = [title, v["ano"], ("{:,}".format(kms).replace(",", " ") + " km") if kms else "",
+                     v["combustivel"], v["trans"]]
+        desc = " · ".join(b for b in desc_bits if b)
+        L.append("<listing>")
+        L.append("<vehicle_id>%s</vehicle_id>" % e(v["id"]))
+        L.append("<vehicle_offer_id>%s</vehicle_offer_id>" % e(v["id"]))
+        L.append("<title>%s</title>" % e(title))
+        L.append("<description>%s</description>" % e(desc))
+        L.append("<url>%s</url>" % e(v["url"]))
+        L.append("<make>%s</make>" % e(v["marca"]))
+        L.append("<model>%s</model>" % e(v["modelo"]))
+        L.append("<year>%s</year>" % e(v["ano"]))
+        L.append("<mileage><value>%d</value><unit>KM</unit></mileage>" % kms)
+        for u in v["images"][:20]:
+            L.append("<image><url>%s</url><tag>Exterior</tag></image>" % e(u))
+        L.append("<body_style>%s</body_style>" % meta_body(v["tipo"], seats))
+        L.append("<fuel_type>%s</fuel_type>" % meta_fuel(v["combustivel"]))
+        L.append("<transmission>%s</transmission>" % meta_trans(v["trans"], v.get("trans_fb")))
+        L.append("<drivetrain>%s</drivetrain>" % meta_drivetrain(v["versao"]))
+        if v.get("color"):
+            L.append("<exterior_color>%s</exterior_color>" % e(v["color"]))
+        L.append("<condition>EXCELLENT</condition>")
+        L.append("<price>%d EUR</price>" % v["preco"])
+        L.append('<address format="simple">'
+                 '<component name="addr1">%s</component>'
+                 '<component name="city">%s</component>'
+                 '<component name="region">%s</component>'
+                 '<component name="postal_code">%s</component>'
+                 '<component name="country">%s</component></address>'
+                 % (e(DEALER["addr1"]), e(DEALER["city"]), e(DEALER["region"]),
+                    e(DEALER["postal_code"]), e(DEALER["country"])))
+        L.append("<latitude>%s</latitude>" % DEALER["lat"])
+        L.append("<longitude>%s</longitude>" % DEALER["lng"])
+        L.append("<availability>AVAILABLE</availability>")
+        dt = meta_date(v["registration"], v["ano"])
+        if dt:
+            L.append("<date_first_on_lot>%s</date_first_on_lot>" % dt)
+        L.append("<state_of_vehicle>USED</state_of_vehicle>")
+        L.append("<dealer_id>1</dealer_id>")
+        L.append("<custom_label_0>%s</custom_label_0>" % meta_group(v, seats))
+        L.append("</listing>")
+    L.append("</listings>")
+    return "\n".join(L) + "\n"
+
+
+def previous_count(path, tag):
+    if not os.path.exists(path):
+        return 0
+    with open(path, encoding="utf-8") as f:
+        return f.read().count("<%s>" % tag)
+
+
 def main():
     args = sys.argv[1:]
     if len(args) >= 2:
@@ -201,6 +358,7 @@ def main():
     meta = parse_meta(meta_xml)
     manual = load_manual()
 
+    # ---------- feed auto.pt (comportamento original) ----------
     incluidas, sem_galeria = [], []
     for rec in page:
         vid = rec["id"]
@@ -220,12 +378,36 @@ def main():
         for r in sem_galeria:
             print("   id %-4s  %s %s %s" % (r["id"], r["marca"], r["modelo"], r["versao"]))
 
-    if not incluidas:
-        raise SystemExit("\nERRO: 0 viaturas com galeria. Nao publico feed vazio (verifica o feed Meta / o mapa).")
+    # valpimotor_stock.xml ja nao tem consumidor (auto.pt nao usa): nunca bloqueia o feed Meta
+    if incluidas:
+        with open(OUT, "w", encoding="utf-8") as f:
+            f.write(to_xml(incluidas))
+        print("\nOK: %d viaturas -> %s" % (len(incluidas), OUT))
+    else:
+        print("::warning::0 viaturas com galeria — %s nao atualizado (verifica o feed do AUTO21)." % OUT)
 
-    with open(OUT, "w", encoding="utf-8") as f:
-        f.write(to_xml(incluidas))
-    print("\nOK: %d viaturas -> %s" % (len(incluidas), OUT))
+    # ---------- feed Meta ----------
+    meta_recs, so_miniatura = [], []
+    for rec in page:
+        if rec["estado"] != "Disponível" or rec["preco"] <= 0:
+            continue                      # reservados e sem preco nao vao para anuncios
+        m = meta.get(rec["id"], {})
+        imgs = manual.get(rec["id"]) or m.get("images") or ([rec["thumb"]] if rec.get("thumb") else [])
+        if not imgs:
+            continue
+        if not (manual.get(rec["id"]) or m.get("images")):
+            so_miniatura.append(rec["id"])
+        meta_recs.append(dict(rec, images=imgs, color=m.get("color", ""), trans_fb=m.get("trans", "")))
+
+    prev = previous_count(META_OUT, "listing")
+    if not meta_recs or (prev and len(meta_recs) < prev * META_MIN_RATIO):
+        print("::error::Feed Meta NAO atualizado: %d viaturas (anterior %d). Mantive o ficheiro antigo."
+              % (len(meta_recs), prev))
+        return
+    with open(META_OUT, "w", encoding="utf-8") as f:
+        f.write(to_meta_xml(meta_recs))
+    print("OK: %d viaturas -> %s (so com miniatura: %s)"
+          % (len(meta_recs), META_OUT, ", ".join(so_miniatura) or "nenhuma"))
 
 
 if __name__ == "__main__":
