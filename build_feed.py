@@ -25,6 +25,12 @@ from urllib.parse import urljoin
 from xml.sax.saxutils import escape
 from bs4 import BeautifulSoup
 
+try:
+    import covers
+except Exception as _e:          # sem template/ ou sem Pillow: feed continua sem capas
+    covers = None
+    print('::warning::capas desativadas (%s)' % _e)
+
 PAGE_URL = "https://www.valpimotor.pt/viaturas"
 META_URL = "https://auto21.pt/valpi/filesxml/facebook_loja_auto_v2.xml"
 BASE = "https://www.valpimotor.pt/site1/"
@@ -278,6 +284,21 @@ def meta_group(v, seats):
     return "passageiros"
 
 
+def fuel_label(txt):
+    t = (txt or "").lower()
+    if "plug" in t:
+        return "Híbrido Plug-in"
+    if "híbrido" in t or "hibrido" in t:
+        return "Híbrido"
+    if "diesel" in t:
+        return "Diesel"
+    if "gasolina" in t:
+        return "Gasolina"
+    if "tric" in t:
+        return "Elétrico"
+    return ""
+
+
 def to_meta_xml(vehicles):
     def e(x):
         return escape(str(x))
@@ -286,9 +307,11 @@ def to_meta_xml(vehicles):
          '<link rel="self" href="https://www.valpimotor.pt"/>']
     for v in vehicles:
         seats = to_int(v["lugares"])
-        title = " ".join(x for x in (v["marca"], v["modelo"], v["versao"]) if x).strip()
+        base = " ".join(x for x in (v["marca"], v["modelo"], v["versao"]) if x).strip()
+        fuel = fuel_label(v["combustivel"])
+        title = "%s · %s" % (base, fuel) if fuel else base
         kms = to_int(v["kms"])
-        desc_bits = [title, v["ano"], ("{:,}".format(kms).replace(",", " ") + " km") if kms else "",
+        desc_bits = [base, v["ano"], ("{:,}".format(kms).replace(",", " ") + " km") if kms else "",
                      v["combustivel"], v["trans"]]
         desc = " · ".join(b for b in desc_bits if b)
         L.append("<listing>")
@@ -398,6 +421,12 @@ def main():
         if not (manual.get(rec["id"]) or m.get("images")):
             so_miniatura.append(rec["id"])
         meta_recs.append(dict(rec, images=imgs, color=m.get("color", ""), trans_fb=m.get("trans", "")))
+
+    if covers:
+        try:
+            covers.attach(meta_recs)
+        except Exception as e:
+            print("::warning::capas falharam, feed segue sem capas (%s)" % e)
 
     prev = previous_count(META_OUT, "listing")
     if not meta_recs or (prev and len(meta_recs) < prev * META_MIN_RATIO):

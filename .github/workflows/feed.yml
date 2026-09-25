@@ -7,6 +7,10 @@ on:
 permissions:
   contents: write             # necessario para o bot fazer commit do XML
 
+concurrency:
+  group: feed-${{ github.ref }}
+  cancel-in-progress: false   # nunca correm duas execucoes em simultaneo no mesmo branch
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,15 +22,18 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependencias
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pillow
 
       - name: Gerar o feed
         run: python build_feed.py
+
       - name: Commit se o stock mudou
         run: |
           git config user.name  "valpi-feed-bot"
           git config user.email "actions@users.noreply.github.com"
           git add valpimotor_stock.xml
           [ -f meta_vehicles.xml ] && git add meta_vehicles.xml
+          [ -d covers ] && git add -A covers
           git diff --staged --quiet || git commit -m "Stock automatico ($(date -u +'%F %T') UTC)"
+          git pull --rebase
           git push
