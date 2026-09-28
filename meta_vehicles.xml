@@ -37,6 +37,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>13 000 km</custom_label_2>
+<custom_label_3>39.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>351</vehicle_id>
@@ -73,6 +76,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>14 000 km</custom_label_2>
+<custom_label_3>56.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>354</vehicle_id>
@@ -109,6 +115,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>65 000 km</custom_label_2>
+<custom_label_3>49.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>349</vehicle_id>
@@ -145,6 +154,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>69.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>300</vehicle_id>
@@ -181,6 +193,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>20 000 km</custom_label_2>
+<custom_label_3>28.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>205</vehicle_id>
@@ -217,6 +232,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>99 000 km</custom_label_2>
+<custom_label_3>37.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>321</vehicle_id>
@@ -253,6 +271,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>48 000 km</custom_label_2>
+<custom_label_3>57.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>338</vehicle_id>
@@ -289,6 +310,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>15 000 km</custom_label_2>
+<custom_label_3>49.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>262</vehicle_id>
@@ -325,6 +349,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>58 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>265</vehicle_id>
@@ -361,6 +388,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>311</vehicle_id>
@@ -397,6 +427,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>347</vehicle_id>
@@ -433,6 +466,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>15 000 km</custom_label_2>
+<custom_label_3>23.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>333</vehicle_id>
@@ -469,6 +505,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>22.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>355</vehicle_id>
@@ -505,6 +544,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>348</vehicle_id>
@@ -541,6 +583,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>15 000 km</custom_label_2>
+<custom_label_3>39.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>337</vehicle_id>
@@ -577,6 +622,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>174</vehicle_id>
@@ -613,6 +661,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>14.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>191</vehicle_id>
@@ -649,6 +700,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>206</vehicle_id>
@@ -685,6 +739,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>357</vehicle_id>
@@ -721,6 +778,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>55 000 km</custom_label_2>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>193</vehicle_id>
@@ -757,6 +817,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>64 000 km</custom_label_2>
+<custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>197</vehicle_id>
@@ -793,6 +856,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>36.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>218</vehicle_id>
@@ -829,6 +895,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>85 000 km</custom_label_2>
+<custom_label_3>41.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>62</vehicle_id>
@@ -865,6 +934,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>65</vehicle_id>
@@ -901,6 +973,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>237</vehicle_id>
@@ -937,6 +1012,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>13.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>286</vehicle_id>
@@ -973,6 +1051,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>240</vehicle_id>
@@ -1009,6 +1090,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>19.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>56</vehicle_id>
@@ -1045,6 +1129,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>283</vehicle_id>
@@ -1081,6 +1168,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>53</vehicle_id>
@@ -1117,6 +1207,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>19.650 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>234</vehicle_id>
@@ -1153,6 +1246,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>19.650 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>264</vehicle_id>
@@ -1189,6 +1285,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>19.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>320</vehicle_id>
@@ -1225,6 +1324,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>19.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>57</vehicle_id>
@@ -1261,6 +1363,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>22.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>236</vehicle_id>
@@ -1297,6 +1402,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>21.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>326</vehicle_id>
@@ -1333,6 +1441,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>22.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>74</vehicle_id>
@@ -1369,6 +1480,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>62 000 km</custom_label_2>
+<custom_label_3>39.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>310</vehicle_id>
@@ -1405,6 +1519,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>279</vehicle_id>
@@ -1441,6 +1558,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>36.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>314</vehicle_id>
@@ -1477,6 +1597,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>284</vehicle_id>
@@ -1513,6 +1636,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>32.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>299</vehicle_id>
@@ -1549,6 +1675,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>33.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>189</vehicle_id>
@@ -1585,6 +1714,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>277</vehicle_id>
@@ -1621,6 +1753,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>298</vehicle_id>
@@ -1657,6 +1792,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>33.500 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>343</vehicle_id>
@@ -1693,6 +1831,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>52.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>324</vehicle_id>
@@ -1729,6 +1870,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>44</vehicle_id>
@@ -1765,6 +1909,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>27.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>45</vehicle_id>
@@ -1801,6 +1948,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>27.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>97</vehicle_id>
@@ -1837,6 +1987,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>75 000 km</custom_label_2>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>129</vehicle_id>
@@ -1873,6 +2026,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>75 000 km</custom_label_2>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>164</vehicle_id>
@@ -1909,6 +2065,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>75 000 km</custom_label_2>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>322</vehicle_id>
@@ -1945,6 +2104,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>71 000 km</custom_label_2>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>12</vehicle_id>
@@ -1981,6 +2143,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>75 000 km</custom_label_2>
+<custom_label_3>31.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>291</vehicle_id>
@@ -2017,6 +2182,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>44.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>319</vehicle_id>
@@ -2053,6 +2221,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>61 000 km</custom_label_2>
+<custom_label_3>31.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>84</vehicle_id>
@@ -2089,6 +2260,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>108 000 km</custom_label_2>
+<custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>98</vehicle_id>
@@ -2125,6 +2299,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>37.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>40</vehicle_id>
@@ -2161,6 +2338,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>312</vehicle_id>
@@ -2197,6 +2377,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>313</vehicle_id>
@@ -2233,6 +2416,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>33 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>37</vehicle_id>
@@ -2269,6 +2455,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>38</vehicle_id>
@@ -2305,6 +2494,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>17.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>281</vehicle_id>
@@ -2341,6 +2533,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>32 000 km</custom_label_2>
+<custom_label_3>17.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>282</vehicle_id>
@@ -2377,6 +2572,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>158</vehicle_id>
@@ -2413,6 +2611,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>57 000 km</custom_label_2>
+<custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>105</vehicle_id>
@@ -2449,6 +2650,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>17.740 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>16</vehicle_id>
@@ -2485,6 +2689,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>16.990 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>33</vehicle_id>
@@ -2521,6 +2728,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>34 000 km</custom_label_2>
+<custom_label_3>16.990 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>34</vehicle_id>
@@ -2557,6 +2767,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>32 000 km</custom_label_2>
+<custom_label_3>21.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>106</vehicle_id>
@@ -2593,6 +2806,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>31 000 km</custom_label_2>
+<custom_label_3>21.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>259</vehicle_id>
@@ -2629,6 +2845,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>35 000 km</custom_label_2>
+<custom_label_3>21.490 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>331</vehicle_id>
@@ -2665,6 +2884,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>16.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>173</vehicle_id>
@@ -2701,6 +2923,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>33.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>290</vehicle_id>
@@ -2737,6 +2962,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>75 000 km</custom_label_2>
+<custom_label_3>38.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>295</vehicle_id>
@@ -2773,6 +3001,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>90 000 km</custom_label_2>
+<custom_label_3>33.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>334</vehicle_id>
@@ -2809,6 +3040,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>29 000 km</custom_label_2>
+<custom_label_3>26.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>339</vehicle_id>
@@ -2845,6 +3079,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>32 000 km</custom_label_2>
+<custom_label_3>26.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>352</vehicle_id>
@@ -2881,6 +3118,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>15 000 km</custom_label_2>
+<custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>353</vehicle_id>
@@ -2917,6 +3157,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>252</vehicle_id>
@@ -2953,6 +3196,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>340</vehicle_id>
@@ -2989,6 +3235,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>18</vehicle_id>
@@ -3025,6 +3274,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>19.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>21</vehicle_id>
@@ -3061,6 +3313,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>21.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>19</vehicle_id>
@@ -3097,6 +3352,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>315</vehicle_id>
@@ -3133,6 +3391,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>341</vehicle_id>
@@ -3169,6 +3430,9 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>257</vehicle_id>
@@ -3205,5 +3469,8 @@
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>41.950 €</custom_label_3>
 </listing>
 </listings>
