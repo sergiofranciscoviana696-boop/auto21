@@ -6,7 +6,7 @@
 <vehicle_id>350</vehicle_id>
 <vehicle_offer_id>350</vehicle_offer_id>
 <title>Audi A3 Sportback 40 TFSIe Advanced</title>
-<description>Audi A3 Sportback 40 TFSIe Advanced · 2026 · 13 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A3 Sportback 40 TFSIe Advanced · 2026 · 13 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
 <make>Audi</make>
 <model>A3 Sportback</model>
@@ -42,17 +42,27 @@
 <vehicle_id>351</vehicle_id>
 <vehicle_offer_id>351</vehicle_offer_id>
 <title>Audi A5 Limousine e-hybrid quattro</title>
-<description>Audi A5 Limousine e-hybrid quattro · 2026 · 14 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A5 Limousine e-hybrid quattro · 2026 · 14 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/351/Audi+A5+Limousine</url>
 <make>Audi</make>
 <model>A5 Limousine</model>
 <year>2026</year>
 <mileage><value>14000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/351/P202608141719496501.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141719496501.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141721349802.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723108504.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723104006.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723104507.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723151527.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723145825.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723154928.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723142924.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723154926.jpg</url><tag>Exterior</tag></image>
 <body_style>SEDAN</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
 <drivetrain>AWD</drivetrain>
+<exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
 <price>56450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -68,7 +78,7 @@
 <vehicle_id>354</vehicle_id>
 <vehicle_offer_id>354</vehicle_offer_id>
 <title>Audi A5 Limousine e-hybrid quattro</title>
-<description>Audi A5 Limousine e-hybrid quattro · 2025 · 65 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A5 Limousine e-hybrid quattro · 2025 · 65 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/354/Audi+A5+Limousine</url>
 <make>Audi</make>
 <model>A5 Limousine</model>
@@ -104,13 +114,13 @@
 <vehicle_id>349</vehicle_id>
 <vehicle_offer_id>349</vehicle_offer_id>
 <title>Audi A6 50 TFSIe quattro S tronic</title>
-<description>Audi A6 50 TFSIe quattro S tronic · 2025 · 40 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A6 50 TFSIe quattro S tronic · 2025 · 40 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/349/Audi+A6</url>
 <make>Audi</make>
 <model>A6</model>
 <year>2025</year>
 <mileage><value>40000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/349/P202608061508079501.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/349/N202608061508079501.jpg</url><tag>Exterior</tag></image>
 <body_style>WAGON</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
@@ -166,17 +176,27 @@
 <vehicle_id>205</vehicle_id>
 <vehicle_offer_id>205</vehicle_offer_id>
 <title>BMW 320 e Pack Desportivo M Auto</title>
-<description>BMW 320 e Pack Desportivo M Auto · 2024 · 99 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>BMW 320 e Pack Desportivo M Auto · 2024 · 99 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/205/BMW+320</url>
 <make>BMW</make>
 <model>320</model>
 <year>2024</year>
 <mileage><value>99000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/205/P202603121224484934.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/N202603121224484934.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124406001.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124406002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124406003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124407004.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124407005.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124407006.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124407007.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124408008.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124408009.jpg</url><tag>Exterior</tag></image>
 <body_style>WAGON</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
-<drivetrain>FWD</drivetrain>
+<drivetrain>RWD</drivetrain>
+<exterior_color>Azul</exterior_color>
 <condition>EXCELLENT</condition>
 <price>37450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -192,7 +212,7 @@
 <vehicle_id>321</vehicle_id>
 <vehicle_offer_id>321</vehicle_offer_id>
 <title>BMW 530 e Pack Desportivo M</title>
-<description>BMW 530 e Pack Desportivo M · 2025 · 48 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>BMW 530 e Pack Desportivo M · 2025 · 48 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/321/BMW+530</url>
 <make>BMW</make>
 <model>530</model>
@@ -211,7 +231,7 @@
 <body_style>WAGON</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
-<drivetrain>FWD</drivetrain>
+<drivetrain>RWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
 <price>57950 EUR</price>
@@ -228,7 +248,7 @@
 <vehicle_id>338</vehicle_id>
 <vehicle_offer_id>338</vehicle_offer_id>
 <title>BMW X1 xDrive25e</title>
-<description>BMW X1 xDrive25e · 2026 · 15 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>BMW X1 xDrive25e · 2026 · 15 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/338/BMW+X1</url>
 <make>BMW</make>
 <model>X1</model>
@@ -352,7 +372,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659583805.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603181659567303.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/311/N202603201132324609.jpg</url><tag>Exterior</tag></image>
-<body_style>SMALL_CAR</body_style>
+<body_style>HATCHBACK</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
@@ -480,13 +500,13 @@
 <vehicle_id>348</vehicle_id>
 <vehicle_offer_id>348</vehicle_offer_id>
 <title>Cupra Formentor 1.5 e-Hybrid DSG</title>
-<description>Cupra Formentor 1.5 e-Hybrid DSG · 2026 · 15 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Cupra Formentor 1.5 e-Hybrid DSG · 2026 · 15 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/348/Cupra+Formentor</url>
 <make>Cupra</make>
 <model>Formentor</model>
 <year>2026</year>
 <mileage><value>15000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/348/P202608061432002121.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/348/N202608061432002121.jpg</url><tag>Exterior</tag></image>
 <body_style>SUV</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
@@ -882,7 +902,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724007.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724008.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724009.jpg</url><tag>Exterior</tag></image>
-<body_style>HATCHBACK</body_style>
+<body_style>SMALL_CAR</body_style>
 <fuel_type>GASOLINE</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
@@ -918,7 +938,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212007.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212008.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154212009.jpg</url><tag>Exterior</tag></image>
-<body_style>HATCHBACK</body_style>
+<body_style>SMALL_CAR</body_style>
 <fuel_type>GASOLINE</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
@@ -1160,7 +1180,7 @@
 <model>Puma</model>
 <year>2024</year>
 <mileage><value>35000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/320/P202604221816068101.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/320/N202604221816068101.jpg</url><tag>Exterior</tag></image>
 <body_style>SUV</body_style>
 <fuel_type>GASOLINE</fuel_type>
 <transmission>AUTOMATIC</transmission>
@@ -1327,7 +1347,7 @@
 <description>Ford Transit Courier · 2024 · 40 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/310/Ford+Transit</url>
 <make>Ford</make>
-<model>Transit</model>
+<model>Transit Courier</model>
 <year>2024</year>
 <mileage><value>40000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603191559368425.jpg</url><tag>Exterior</tag></image>
@@ -1432,7 +1452,7 @@
 <vehicle_id>284</vehicle_id>
 <vehicle_offer_id>284</vehicle_offer_id>
 <title>Mercedes-Benz A 250 e</title>
-<description>Mercedes-Benz A 250 e · 2025 · 60 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz A 250 e · 2025 · 60 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/284/Mercedes-Benz+A+250</url>
 <make>Mercedes-Benz</make>
 <model>A 250</model>
@@ -1468,7 +1488,7 @@
 <vehicle_id>299</vehicle_id>
 <vehicle_offer_id>299</vehicle_offer_id>
 <title>Mercedes-Benz A 250 e AMG</title>
-<description>Mercedes-Benz A 250 e AMG · 2024 · 50 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz A 250 e AMG · 2024 · 50 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/299/Mercedes-Benz+A+250</url>
 <make>Mercedes-Benz</make>
 <model>A 250</model>
@@ -1504,13 +1524,13 @@
 <vehicle_id>189</vehicle_id>
 <vehicle_offer_id>189</vehicle_offer_id>
 <title>Mercedes-Benz A 250 Limousine e AMG</title>
-<description>Mercedes-Benz A 250 Limousine e AMG · 2024 · 50 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz A 250 Limousine e AMG · 2024 · 50 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/189/Mercedes-Benz+A+250+Limousine</url>
 <make>Mercedes-Benz</make>
 <model>A 250 Limousine</model>
 <year>2024</year>
 <mileage><value>50000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/189/P202607031227091635.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/189/N202607031227091635.jpg</url><tag>Exterior</tag></image>
 <body_style>SEDAN</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
@@ -1530,7 +1550,7 @@
 <vehicle_id>277</vehicle_id>
 <vehicle_offer_id>277</vehicle_offer_id>
 <title>Mercedes-Benz A 250 Limousine e AMG</title>
-<description>Mercedes-Benz A 250 Limousine e AMG · 2025 · 40 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz A 250 Limousine e AMG · 2025 · 40 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/277/Mercedes-Benz+A+250+Limousine</url>
 <make>Mercedes-Benz</make>
 <model>A 250 Limousine</model>
@@ -1566,7 +1586,7 @@
 <vehicle_id>298</vehicle_id>
 <vehicle_offer_id>298</vehicle_offer_id>
 <title>Mercedes-Benz A 250 Limousine e</title>
-<description>Mercedes-Benz A 250 Limousine e · 2025 · 45 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz A 250 Limousine e · 2025 · 45 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
 <make>Mercedes-Benz</make>
 <model>A 250 Limousine</model>
@@ -1602,17 +1622,17 @@
 <vehicle_id>343</vehicle_id>
 <vehicle_offer_id>343</vehicle_offer_id>
 <title>Mercedes-Benz C 300 e AMG Line</title>
-<description>Mercedes-Benz C 300 e AMG Line · 2025 · 45 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>Mercedes-Benz C 300 e AMG Line · 2025 · 45 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/343/Mercedes-Benz+C+300</url>
 <make>Mercedes-Benz</make>
 <model>C 300</model>
 <year>2025</year>
 <mileage><value>45000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/343/P202607281811174901.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/343/N202607281811174901.jpg</url><tag>Exterior</tag></image>
 <body_style>SEDAN</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
-<drivetrain>FWD</drivetrain>
+<drivetrain>RWD</drivetrain>
 <condition>EXCELLENT</condition>
 <price>52950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -1915,8 +1935,8 @@
 <listing>
 <vehicle_id>291</vehicle_id>
 <vehicle_offer_id>291</vehicle_offer_id>
-<title>Opel Movano Movano Chassis Cabine Simples + Frio</title>
-<description>Opel Movano Movano Chassis Cabine Simples + Frio · 2024 · 50 000 km · Diesel · Manual</description>
+<title>Opel Movano Chassis Cabine Simples + Frio</title>
+<description>Opel Movano Chassis Cabine Simples + Frio · 2024 · 50 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/291/Opel+Movano</url>
 <make>Opel</make>
 <model>Movano</model>
@@ -2724,7 +2744,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711588523.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711592226.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/334/N202607151711589021.jpg</url><tag>Exterior</tag></image>
-<body_style>SEDAN</body_style>
+<body_style>HATCHBACK</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
@@ -2760,7 +2780,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215129115.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215112707.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/339/N202607281215128609.jpg</url><tag>Exterior</tag></image>
-<body_style>SEDAN</body_style>
+<body_style>HATCHBACK</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
@@ -2780,17 +2800,27 @@
 <vehicle_id>352</vehicle_id>
 <vehicle_offer_id>352</vehicle_offer_id>
 <title>SEAT Leon 1.5 TSI e-Hybrid Style DSG</title>
-<description>SEAT Leon 1.5 TSI e-Hybrid Style DSG · 2026 · 15 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>SEAT Leon 1.5 TSI e-Hybrid Style DSG · 2026 · 15 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/352/SEAT+Leon</url>
 <make>SEAT</make>
 <model>Leon</model>
 <year>2026</year>
 <mileage><value>15000</value><unit>KM</unit></mileage>
-<image><url>https://valpimotor.pt/imagens_viaturas/352/P202609091549234401.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091549234401.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550144003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550147704.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550142002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550178618.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550182120.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550187021.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550177517.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550158108.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/352/N202609091550162211.jpg</url><tag>Exterior</tag></image>
 <body_style>HATCHBACK</body_style>
 <fuel_type>PLUGIN_HYBRID</fuel_type>
 <transmission>AUTOMATIC</transmission>
 <drivetrain>FWD</drivetrain>
+<exterior_color>Azul</exterior_color>
 <condition>EXCELLENT</condition>
 <price>34950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -2806,7 +2836,7 @@
 <vehicle_id>353</vehicle_id>
 <vehicle_offer_id>353</vehicle_offer_id>
 <title>SEAT Leon 1.4 e-Hybrid FR DSG</title>
-<description>SEAT Leon 1.4 e-Hybrid FR DSG · 2024 · 60 000 km · Hibrido Plug-in (Gasolina) · Automática</description>
+<description>SEAT Leon 1.4 e-Hybrid FR DSG · 2024 · 60 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/353/SEAT+Leon</url>
 <make>SEAT</make>
 <model>Leon</model>
