@@ -7,8 +7,11 @@ Gera DOIS feeds a partir das mesmas fontes (cruzadas por id):
 Saidas:
   valpimotor_stock.xml -> sem consumidor atual; mantido com o comportamento original
                           (so viaturas com galeria completa)
-  meta_vehicles.xml    -> catalogo automovel da Meta (body_style/fuel_type/drivetrain corretos,
-                          custom_label_0 = passageiros | comercial)
+  meta_vehicles.xml    -> catalogo automovel da Meta (body_style/fuel_type/drivetrain corretos)
+                          custom_label_0 = passageiros | comercial   (segmentacao)
+                          custom_label_1 = combustivel em PT         (template: txt_fuel)
+                          custom_label_2 = km formatados "13 000 km" (template: txt_km)
+                          custom_label_3 = preco formatado "39.450 €" (template: txt_price)
 
 Imagens no feed Meta, por ordem de prioridade:
   1) galeria do feed AUTO21
@@ -81,6 +84,9 @@ RWD_RULES = (
     ("bmw", r"^[3-8]\d{2}\b|^m[3-8]\b|^i[4-7]\b"),              # Serie 3-8, M3-M8, i4-i7
     ("mercedes-benz", r"^(c|e|s|cls)\s?\d{2,3}\b"),             # Classe C/E/S, CLS
 )
+# Combustivel em PT para o texto da imagem (custom_label_1); chave = enum Meta
+FUEL_PT = {"GASOLINE": "Gasolina", "DIESEL": "Diesel", "HYBRID": "Híbrido",
+           "PLUGIN_HYBRID": "Híbrido Plug-in", "ELECTRIC": "Elétrico"}
 AUTO21_IMG = ("https://www.auto21.pt/", "https://auto21.pt/")
 META_MIN_RATIO = 0.5   # nao sobrescreve o feed Meta se cair mais de 50% face ao anterior
 
@@ -324,6 +330,23 @@ def meta_fuel(txt):
     return "OTHER"
 
 
+# ---------- textos para o template de imagem (custom labels) ----------
+def fuel_label(txt):
+    """Combustivel em PT; normaliza variantes como 'Híbrido Plug-in (Gasolina)'.
+    Fora dos 5 valores conhecidos, devolve o texto do site."""
+    return FUEL_PT.get(meta_fuel(txt), fuel_display(txt))
+
+
+def km_label(kms):
+    """13000 -> '13 000 km'"""
+    return "{:,}".format(kms).replace(",", " ") + " km"
+
+
+def price_label(preco):
+    """39450 -> '39.450 €'"""
+    return "{:,}".format(preco).replace(",", ".") + " €"
+
+
 def meta_trans(txt, fallback=""):
     t = (txt or "").lower()
     if "autom" in t:
@@ -371,7 +394,7 @@ def to_meta_xml(vehicles):
         seats = to_int(v["lugares"])
         title = " ".join(x for x in (v["marca"], v["modelo"], v["versao"]) if x).strip()
         kms = to_int(v["kms"])
-        desc_bits = [title, v["ano"], ("{:,}".format(kms).replace(",", " ") + " km") if kms else "",
+        desc_bits = [title, v["ano"], km_label(kms) if kms else "",
                      fuel_display(v["combustivel"]), v["trans"]]
         desc = " · ".join(b for b in desc_bits if b)
         L.append("<listing>")
@@ -411,6 +434,9 @@ def to_meta_xml(vehicles):
         L.append("<state_of_vehicle>USED</state_of_vehicle>")
         L.append("<dealer_id>1</dealer_id>")
         L.append("<custom_label_0>%s</custom_label_0>" % meta_group(v, seats))
+        L.append("<custom_label_1>%s</custom_label_1>" % e(fuel_label(v["combustivel"])))
+        L.append("<custom_label_2>%s</custom_label_2>" % e(km_label(kms)))
+        L.append("<custom_label_3>%s</custom_label_3>" % e(price_label(v["preco"])))
         L.append("</listing>")
     L.append("</listings>")
     return "\n".join(L) + "\n"
@@ -485,6 +511,11 @@ def main():
               % ", ".join(so_capa))
     if sem_fotos:
         print("::warning::Fora do feed Meta por falta de imagem valida: %s" % ", ".join(sem_fotos))
+
+    # combustiveis fora dos 5 valores do template (aparecem com o texto do site)
+    fora = sorted({fuel_label(r["combustivel"]) for r in meta_recs} - set(FUEL_PT.values()))
+    if fora:
+        print("::warning::Combustivel fora da lista do template (custom_label_1): %s" % ", ".join(fora))
 
     prev = previous_count(META_OUT, "listing")
     if not meta_recs or (prev and len(meta_recs) < prev * META_MIN_RATIO):
