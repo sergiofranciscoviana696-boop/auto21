@@ -1,14 +1,22 @@
 # -*- coding: utf-8 -*-
 """
 Gera DOIS feeds a partir das mesmas fontes (cruzadas por id):
-  1) Pagina /viaturas  -> campos estruturados (potencia, lugares, carrocaria, combustivel, preco...)
-  2) Feed XML do Meta  -> galeria completa de imagens + cor exterior + transmissao
+  1) Pagina /viaturas          -> campos estruturados (potencia, lugares, carrocaria, combustivel, preco...)
+  2) Feed XML do Meta (AUTO21) -> galeria completa de imagens + cor exterior + transmissao
 
 Saidas:
-  valpimotor_stock.xml -> auto.pt (inalterado: so viaturas com galeria completa)
-  meta_vehicles.xml    -> catalogo automovel da Meta (formato igual ao do AUTO21,
-                          com body_style/fuel_type/drivetrain corretos e custom_label_0)
-                          Inclui tambem as viaturas sem galeria, usando a miniatura da pagina.
+  valpimotor_stock.xml -> sem consumidor atual; mantido com o comportamento original
+                          (so viaturas com galeria completa)
+  meta_vehicles.xml    -> catalogo automovel da Meta (body_style/fuel_type/drivetrain corretos,
+                          custom_label_0 = passageiros | comercial)
+
+Imagens no feed Meta, por ordem de prioridade:
+  1) galeria do feed AUTO21
+  2) imagens_extra.json, aceitando so URLs do AUTO21
+  3) capa em resolucao total reconstruida a partir da miniatura da listagem
+     (P<ts>.jpg -> https://www.auto21.pt/valpi/imagens_viaturas/<id>/N<ts>.jpg),
+     so se esse URL responder com uma imagem
+  Sem nenhuma destas, a viatura fica fora do feed Meta. A miniatura nunca e usada.
 
 Uso:  python build_feed.py                      (le tudo online)
       python build_feed.py pagina.html          (pagina local + Meta online)
@@ -31,6 +39,7 @@ BASE = "https://www.valpimotor.pt/site1/"
 MAP_FILE = "imagens_extra.json"
 OUT = "valpimotor_stock.xml"
 META_OUT = "meta_vehicles.xml"
+UA = {"User-Agent": "ValpiFeedBot/1.0"}
 
 MESES = {"jan": 1, "fev": 2, "mar": 3, "abr": 4, "mai": 5, "jun": 6,
          "jul": 7, "ago": 8, "set": 9, "out": 10, "nov": 11, "dez": 12}
@@ -56,15 +65,51 @@ META_BODY = {
     "VLP_SUV": "SUV", "VLP_Ctd": "SMALL_CAR", "VLP_Cbr": "SMALL_CAR",
     "VLP_Mnvl": "MPV", "VLP_TT": "PICKUP",
 }
+# Correcoes de carrocaria para passageiros, por modelo (chave = modelo em minusculas, exato).
+# O ideal e corrigir o data-tipo no site; isto so evita inconsistencias entre viaturas iguais.
+MODEL_BODY_OVERRIDE = {
+    "leon": "HATCHBACK",      # site classifica alguns Leon (nao ST) como Berlina
+    "panda": "SMALL_CAR",     # uns como Citadino, outros como Hatchback
+    "c3": "HATCHBACK",        # idem
+}
+# Sub-modelos que o site mete no inicio da versao: (marca, modelo) -> palavras
+MODEL_SPLITS = {
+    ("ford", "transit"): ("Courier", "Custom", "Connect"),
+}
+# Tracao traseira por defeito (quando a versao nao indica xDrive/4MATIC)
+RWD_RULES = (
+    ("bmw", r"^[3-8]\d{2}\b|^m[3-8]\b|^i[4-7]\b"),              # Serie 3-8, M3-M8, i4-i7
+    ("mercedes-benz", r"^(c|e|s|cls)\s?\d{2,3}\b"),             # Classe C/E/S, CLS
+)
+AUTO21_IMG = ("https://www.auto21.pt/", "https://auto21.pt/")
 META_MIN_RATIO = 0.5   # nao sobrescreve o feed Meta se cair mais de 50% face ao anterior
 
 
 def fetch(url):
     import requests
-    r = requests.get(url, timeout=40, headers={"User-Agent": "ValpiFeedBot/1.0"})
+    r = requests.get(url, timeout=40, headers=UA)
     r.raise_for_status()
     r.encoding = "utf-8"
     return r.text
+
+
+_URL_CACHE = {}
+
+
+def url_ok(u):
+    """True se o URL responde 200 com Content-Type de imagem."""
+    if u in _URL_CACHE:
+        return _URL_CACHE[u]
+    ok = False
+    try:
+        import requests
+        r = requests.get(u, timeout=15, stream=True, headers=UA)
+        ok = r.status_code == 200 and r.headers.get("Content-Type", "").startswith("image")
+        r.close()
+    except Exception:
+        ok = False
+    _URL_CACHE[u] = ok
+    return ok
 
 
 def parse_registration(txt):
@@ -102,8 +147,7 @@ def parse_page(html):
                 if sp:
                     reg_txt = sp.get_text(strip=True)
                 break
-        # miniatura da listagem (usada so no feed Meta, para carros sem galeria)
-        # CONFIRMA: a imagem do cartao tem "imagens_viaturas" no src/data-src?
+        # miniatura da listagem: so serve para reconstruir a capa em resolucao total
         thumb = ""
         for im in item.find_all("img"):
             src = im.get("data-src") or im.get("src") or ""
@@ -115,6 +159,7 @@ def parse_page(html):
         except ValueError:
             preco = 0
         tipo = d("tipo")
+        extra = item.select_one(".extra-field")
         out.append({
             "id": vid, "url": url, "seccao": d("seccao"),
             "marca": marca, "modelo": modelo, "versao": d("versao"),
@@ -124,9 +169,7 @@ def parse_page(html):
             "trans": d("transmissao"), "hp": d("hp"), "lugares": d("lugares"),
             "tipo": tipo, "carro": CARROCARIA.get(tipo, tipo), "preco": preco,
             "thumb": thumb,
-            "estado": "Reservado" if (item.select_one(".extra-field") and
-                                      item.select_one(".extra-field").get_text(strip=True) == "Reservado")
-                      else "Disponível",
+            "estado": "Reservado" if (extra and extra.get_text(strip=True) == "Reservado") else "Disponível",
         })
     return out
 
@@ -218,7 +261,40 @@ def to_int(s):
     return int(digits) if digits else 0
 
 
-def meta_body(tipo, seats):
+def auto21_only(urls):
+    return [u for u in (urls or []) if u.startswith(AUTO21_IMG)]
+
+
+def thumb_to_full(thumb, vid):
+    """Miniatura P<ts>.<ext> da listagem -> N<ts>.<ext> em resolucao total no AUTO21."""
+    m = re.search(r"/imagens_viaturas/%s/P(\d+)\.(jpe?g|png|webp)" % re.escape(vid), thumb or "", re.I)
+    if not m:
+        return ""
+    return "https://www.auto21.pt/valpi/imagens_viaturas/%s/N%s.%s" % (vid, m.group(1), m.group(2).lower())
+
+
+def normalize_names(v):
+    """Corrige modelo/versao para o Meta: versao que repete o modelo e sub-modelos na versao."""
+    marca, modelo, versao = v["marca"].strip(), v["modelo"].strip(), v["versao"].strip()
+    # "Movano" + "Movano Chassis ..." -> "Movano" + "Chassis ..."
+    if modelo and versao.lower().startswith(modelo.lower() + " "):
+        versao = versao[len(modelo):].strip()
+    # "Transit" + "Courier ..." -> "Transit Courier" + "..."
+    subs = MODEL_SPLITS.get((marca.lower(), modelo.lower()), ())
+    if versao:
+        first, _, rest = versao.partition(" ")
+        if first in subs:
+            modelo, versao = "%s %s" % (modelo, first), rest.strip()
+    return dict(v, modelo=modelo, versao=versao)
+
+
+def fuel_display(txt):
+    t = txt or ""
+    return t.replace("Hibrido", "Híbrido").replace("Eletrico", "Elétrico")
+
+
+def meta_body(v, seats):
+    tipo = v["tipo"]
     if seats >= 9:
         return "MINIBUS"
     if tipo == "VLP_Combi":           # "Combi" com menos de 9 lugares (ex.: Tourneo Courier)
@@ -227,6 +303,9 @@ def meta_body(tipo, seats):
         return "VAN"
     if tipo.startswith("VLM") or tipo == "Caixa Frigorifica":
         return "TRUCK"
+    override = MODEL_BODY_OVERRIDE.get(v["modelo"].strip().lower())
+    if override and v["seccao"] == "VLP":
+        return override
     return META_BODY.get(tipo, "OTHER")
 
 
@@ -255,12 +334,16 @@ def meta_trans(txt, fallback=""):
     return fb if fb in ("AUTOMATIC", "MANUAL") else "OTHER"
 
 
-def meta_drivetrain(versao):
-    v = (versao or "").lower()
-    if re.search(r"4x4|4wd", v):
+def meta_drivetrain(marca, modelo, versao):
+    txt = ("%s %s" % (modelo, versao)).lower()
+    if re.search(r"4x4|4wd", txt):
         return "4X4"
-    if re.search(r"quattro|xdrive|4motion|awd|allgrip|4matic", v):
+    if re.search(r"quattro|xdrive|4motion|awd|allgrip|4matic|all4", txt):
         return "AWD"
+    mk, md = (marca or "").strip().lower(), (modelo or "").strip().lower()
+    for make, pat in RWD_RULES:
+        if mk == make and re.match(pat, md):
+            return "RWD"
     return "FWD"
 
 
@@ -289,7 +372,7 @@ def to_meta_xml(vehicles):
         title = " ".join(x for x in (v["marca"], v["modelo"], v["versao"]) if x).strip()
         kms = to_int(v["kms"])
         desc_bits = [title, v["ano"], ("{:,}".format(kms).replace(",", " ") + " km") if kms else "",
-                     v["combustivel"], v["trans"]]
+                     fuel_display(v["combustivel"]), v["trans"]]
         desc = " · ".join(b for b in desc_bits if b)
         L.append("<listing>")
         L.append("<vehicle_id>%s</vehicle_id>" % e(v["id"]))
@@ -303,10 +386,10 @@ def to_meta_xml(vehicles):
         L.append("<mileage><value>%d</value><unit>KM</unit></mileage>" % kms)
         for u in v["images"][:20]:
             L.append("<image><url>%s</url><tag>Exterior</tag></image>" % e(u))
-        L.append("<body_style>%s</body_style>" % meta_body(v["tipo"], seats))
+        L.append("<body_style>%s</body_style>" % meta_body(v, seats))
         L.append("<fuel_type>%s</fuel_type>" % meta_fuel(v["combustivel"]))
         L.append("<transmission>%s</transmission>" % meta_trans(v["trans"], v.get("trans_fb")))
-        L.append("<drivetrain>%s</drivetrain>" % meta_drivetrain(v["versao"]))
+        L.append("<drivetrain>%s</drivetrain>" % meta_drivetrain(v["marca"], v["modelo"], v["versao"]))
         if v.get("color"):
             L.append("<exterior_color>%s</exterior_color>" % e(v["color"]))
         L.append("<condition>EXCELLENT</condition>")
@@ -358,7 +441,7 @@ def main():
     meta = parse_meta(meta_xml)
     manual = load_manual()
 
-    # ---------- feed auto.pt (comportamento original) ----------
+    # ---------- valpimotor_stock.xml (comportamento original) ----------
     incluidas, sem_galeria = [], []
     for rec in page:
         vid = rec["id"]
@@ -366,38 +449,42 @@ def main():
         if not gallery:
             sem_galeria.append(rec)
             continue
-        rec["images"] = gallery
-        rec["cover"] = gallery[0]
-        rec["color"] = meta.get(vid, {}).get("color", "")
-        incluidas.append(rec)
+        incluidas.append(dict(rec, images=gallery, cover=gallery[0],
+                              color=meta.get(vid, {}).get("color", "")))
 
-    print("Na pagina: %d | Com galeria (incluidas): %d | Sem galeria (excluidas): %d"
+    print("Na pagina: %d | Com galeria: %d | Sem galeria: %d"
           % (len(page), len(incluidas), len(sem_galeria)))
-    if sem_galeria:
-        print("\n>> Viaturas SEM galeria — poe as imagens em %s para entrarem no feed:" % MAP_FILE)
-        for r in sem_galeria:
-            print("   id %-4s  %s %s %s" % (r["id"], r["marca"], r["modelo"], r["versao"]))
-
-    # valpimotor_stock.xml ja nao tem consumidor (auto.pt nao usa): nunca bloqueia o feed Meta
     if incluidas:
         with open(OUT, "w", encoding="utf-8") as f:
             f.write(to_xml(incluidas))
-        print("\nOK: %d viaturas -> %s" % (len(incluidas), OUT))
+        print("OK: %d viaturas -> %s" % (len(incluidas), OUT))
     else:
         print("::warning::0 viaturas com galeria — %s nao atualizado (verifica o feed do AUTO21)." % OUT)
 
-    # ---------- feed Meta ----------
-    meta_recs, so_miniatura = [], []
+    # ---------- meta_vehicles.xml ----------
+    meta_recs, so_capa, sem_fotos = [], [], []
     for rec in page:
         if rec["estado"] != "Disponível" or rec["preco"] <= 0:
             continue                      # reservados e sem preco nao vao para anuncios
-        m = meta.get(rec["id"], {})
-        imgs = manual.get(rec["id"]) or m.get("images") or ([rec["thumb"]] if rec.get("thumb") else [])
+        vid = rec["id"]
+        m = meta.get(vid, {})
+        imgs = auto21_only(m.get("images")) or auto21_only(manual.get(vid))
         if not imgs:
-            continue
-        if not (manual.get(rec["id"]) or m.get("images")):
-            so_miniatura.append(rec["id"])
-        meta_recs.append(dict(rec, images=imgs, color=m.get("color", ""), trans_fb=m.get("trans", "")))
+            full = thumb_to_full(rec.get("thumb"), vid)
+            if full and url_ok(full):
+                imgs = [full]
+                so_capa.append(vid)
+            else:
+                sem_fotos.append(vid)
+                continue
+        meta_recs.append(normalize_names(dict(rec, images=imgs, color=m.get("color", ""),
+                                              trans_fb=m.get("trans", ""))))
+
+    if so_capa:
+        print("::warning::So com capa (fora do feed AUTO21 — ver exportacao Facebook no backoffice): %s"
+              % ", ".join(so_capa))
+    if sem_fotos:
+        print("::warning::Fora do feed Meta por falta de imagem valida: %s" % ", ".join(sem_fotos))
 
     prev = previous_count(META_OUT, "listing")
     if not meta_recs or (prev and len(meta_recs) < prev * META_MIN_RATIO):
@@ -406,8 +493,8 @@ def main():
         return
     with open(META_OUT, "w", encoding="utf-8") as f:
         f.write(to_meta_xml(meta_recs))
-    print("OK: %d viaturas -> %s (so com miniatura: %s)"
-          % (len(meta_recs), META_OUT, ", ".join(so_miniatura) or "nenhuma"))
+    print("OK: %d viaturas -> %s (galeria AUTO21: %d | so capa: %d | excluidas: %d)"
+          % (len(meta_recs), META_OUT, len(meta_recs) - len(so_capa), len(so_capa), len(sem_fotos)))
 
 
 if __name__ == "__main__":
