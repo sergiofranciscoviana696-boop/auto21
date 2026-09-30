@@ -1836,45 +1836,6 @@
 <custom_label_3>52.950 €</custom_label_3>
 </listing>
 <listing>
-<vehicle_id>324</vehicle_id>
-<vehicle_offer_id>324</vehicle_offer_id>
-<title>Nissan Juke 1.0 DIG-T N-Design</title>
-<description>Nissan Juke 1.0 DIG-T N-Design · 2024 · 60 000 km · Gasolina · Manual</description>
-<url>https://www.valpimotor.pt/viaturas/324/Nissan+Juke</url>
-<make>Nissan</make>
-<model>Juke</model>
-<year>2024</year>
-<mileage><value>60000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061730174101.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731066703.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731076105.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731069902.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731085708.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731076704.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731079806.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731074807.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731094212.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/324/N202605061731096915.jpg</url><tag>Exterior</tag></image>
-<body_style>SUV</body_style>
-<fuel_type>GASOLINE</fuel_type>
-<transmission>MANUAL</transmission>
-<drivetrain>FWD</drivetrain>
-<exterior_color>Cinzento</exterior_color>
-<condition>EXCELLENT</condition>
-<price>18950 EUR</price>
-<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
-<latitude>41.18867484187807</latitude>
-<longitude>-8.442489057671049</longitude>
-<availability>AVAILABLE</availability>
-<date_first_on_lot>2024-10-01</date_first_on_lot>
-<state_of_vehicle>USED</state_of_vehicle>
-<dealer_id>1</dealer_id>
-<custom_label_0>passageiros</custom_label_0>
-<custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>60 000 km</custom_label_2>
-<custom_label_3>18.950 €</custom_label_3>
-</listing>
-<listing>
 <vehicle_id>44</vehicle_id>
 <vehicle_offer_id>44</vehicle_offer_id>
 <title>Nissan Qashqai 1.3 DIG-T N-Connecta LED</title>
