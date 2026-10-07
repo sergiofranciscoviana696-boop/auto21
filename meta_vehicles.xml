@@ -666,45 +666,6 @@
 <custom_label_3>14.950 €</custom_label_3>
 </listing>
 <listing>
-<vehicle_id>191</vehicle_id>
-<vehicle_offer_id>191</vehicle_offer_id>
-<title>Fiat 600 1.2 Hybrid</title>
-<description>Fiat 600 1.2 Hybrid · 2025 · 25 000 km · Gasolina · Automática</description>
-<url>https://www.valpimotor.pt/viaturas/191/Fiat+600</url>
-<make>Fiat</make>
-<model>600</model>
-<year>2025</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/N202607141629537820.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124328001.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124328002.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124329003.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124329004.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330005.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330006.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124330007.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124331008.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/191/20251112124331009.jpg</url><tag>Exterior</tag></image>
-<body_style>SUV</body_style>
-<fuel_type>GASOLINE</fuel_type>
-<transmission>AUTOMATIC</transmission>
-<drivetrain>FWD</drivetrain>
-<exterior_color>Azul Claro</exterior_color>
-<condition>EXCELLENT</condition>
-<price>20950 EUR</price>
-<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
-<latitude>41.18867484187807</latitude>
-<longitude>-8.442489057671049</longitude>
-<availability>AVAILABLE</availability>
-<date_first_on_lot>2025-04-01</date_first_on_lot>
-<state_of_vehicle>USED</state_of_vehicle>
-<dealer_id>1</dealer_id>
-<custom_label_0>passageiros</custom_label_0>
-<custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
-<custom_label_3>20.950 €</custom_label_3>
-</listing>
-<listing>
 <vehicle_id>206</vehicle_id>
 <vehicle_offer_id>206</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Curta Easy Pro</title>
@@ -3438,12 +3399,12 @@
 <vehicle_id>257</vehicle_id>
 <vehicle_offer_id>257</vehicle_offer_id>
 <title>Volkswagen Crafter 50 2.0 TDI CD L3</title>
-<description>Volkswagen Crafter 50 2.0 TDI CD L3 · 2024 · 40 000 km · Diesel · Manual</description>
+<description>Volkswagen Crafter 50 2.0 TDI CD L3 · 2024 · 80 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/257/Volkswagen+Crafter</url>
 <make>Volkswagen</make>
 <model>Crafter</model>
 <year>2024</year>
-<mileage><value>40000</value><unit>KM</unit></mileage>
+<mileage><value>80000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/257/N202606171613076125.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210812001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/257/20260204210813002.jpg</url><tag>Exterior</tag></image>
@@ -3460,7 +3421,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>41950 EUR</price>
+<price>40990 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -3470,7 +3431,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>40 000 km</custom_label_2>
-<custom_label_3>41.950 €</custom_label_3>
+<custom_label_2>80 000 km</custom_label_2>
+<custom_label_3>40.990 €</custom_label_3>
 </listing>
 </listings>
