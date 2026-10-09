@@ -2577,6 +2577,35 @@
 <custom_label_3>17.740 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>361</vehicle_id>
+<vehicle_offer_id>361</vehicle_offer_id>
+<title>Peugeot Partner Rifter</title>
+<description>Peugeot Partner Rifter · 2026 · 15 000 km · Gasolina · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/361/Peugeot+Partner</url>
+<make>Peugeot</make>
+<model>Partner</model>
+<year>2026</year>
+<mileage><value>15000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057258901.jpg</url><tag>Exterior</tag></image>
+<body_style>MPV</body_style>
+<fuel_type>GASOLINE</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<condition>EXCELLENT</condition>
+<price>24990 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2026-01-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>15 000 km</custom_label_2>
+<custom_label_3>24.990 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>16</vehicle_id>
 <vehicle_offer_id>16</vehicle_offer_id>
 <title>Renault Clio 1.0 TCe Evolution</title>
