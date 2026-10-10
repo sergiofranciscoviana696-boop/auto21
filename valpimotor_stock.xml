@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-10T12:11:10Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-10T18:20:23Z" count="88">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -1129,7 +1129,7 @@
     <version>1.0 EcoBoost MHEV ST-Line Aut.</version>
     <year>2024</year>
     <registration>2024-04</registration>
-    <mileage_km>35000</mileage_km>
+    <mileage_km>45000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>125</power_hp>
@@ -1137,7 +1137,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Preto</color>
-    <price_eur>19450</price_eur>
+    <price_eur>18450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/320/N202604221816068101.jpg</cover_image>
@@ -1471,6 +1471,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>298</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e</version>
+    <year>2025</year>
+    <registration>2025-02</registration>
+    <mileage_km>45000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <color>Preto</color>
+    <price_eur>33500</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713224905.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713343431.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713341130.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713351432.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713356433.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713229206.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>189</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/189/Mercedes-Benz+A+250+Limousine</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1537,41 +1572,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/277/20260204211009007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/277/20260204211009008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/277/20260204211009009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>298</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Mercedes-Benz</make>
-    <model>A 250 Limousine</model>
-    <version>e</version>
-    <year>2025</year>
-    <registration>2025</registration>
-    <mileage_km>45000</mileage_km>
-    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
-    <transmission>Automática</transmission>
-    <power_hp>218</power_hp>
-    <seats>5</seats>
-    <body_type>Berlina</body_type>
-    <body_type_code>VLP_Sdn</body_type_code>
-    <color>Preto</color>
-    <price_eur>33500</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713224905.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713343431.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713341130.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713351432.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713356433.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713229206.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -2529,7 +2529,7 @@
     <version>2.3 dCi L4 3.5T CD RD</version>
     <year>2024</year>
     <registration>2024-06</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>60000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>163</power_hp>
@@ -2537,7 +2537,7 @@
     <body_type>Comercial ligeiro</body_type>
     <body_type_code>VLM</body_type_code>
     <color>Branco</color>
-    <price_eur>33950</price_eur>
+    <price_eur>31947</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</cover_image>

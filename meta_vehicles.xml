@@ -1254,12 +1254,12 @@
 <vehicle_id>320</vehicle_id>
 <vehicle_offer_id>320</vehicle_offer_id>
 <title>Ford Puma 1.0 EcoBoost MHEV ST-Line Aut.</title>
-<description>Ford Puma 1.0 EcoBoost MHEV ST-Line Aut. · 2024 · 35 000 km · Gasolina · Automática</description>
+<description>Ford Puma 1.0 EcoBoost MHEV ST-Line Aut. · 2024 · 45 000 km · Gasolina · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/320/Ford+Puma</url>
 <make>Ford</make>
 <model>Puma</model>
 <year>2024</year>
-<mileage><value>35000</value><unit>KM</unit></mileage>
+<mileage><value>45000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/320/N202604221816068101.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/320/N202604221816588103.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/320/N202604221816587802.jpg</url><tag>Exterior</tag></image>
@@ -1276,7 +1276,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>19450 EUR</price>
+<price>18450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1286,8 +1286,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>35 000 km</custom_label_2>
-<custom_label_3>19.450 €</custom_label_3>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>18.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>57</vehicle_id>
@@ -1641,6 +1641,45 @@
 <custom_label_3>33.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>298</vehicle_id>
+<vehicle_offer_id>298</vehicle_offer_id>
+<title>Mercedes-Benz A 250 Limousine e</title>
+<description>Mercedes-Benz A 250 Limousine e · 2025 · 45 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
+<make>Mercedes-Benz</make>
+<model>A 250 Limousine</model>
+<year>2025</year>
+<mileage><value>45000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713224905.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713343431.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713341130.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713351432.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713356433.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713229206.jpg</url><tag>Exterior</tag></image>
+<body_style>SEDAN</body_style>
+<fuel_type>PLUGIN_HYBRID</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Preto</exterior_color>
+<condition>EXCELLENT</condition>
+<price>33500 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2025-02-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>33.500 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>189</vehicle_id>
 <vehicle_offer_id>189</vehicle_offer_id>
 <title>Mercedes-Benz A 250 Limousine e AMG</title>
@@ -1717,45 +1756,6 @@
 <custom_label_1>Híbrido Plug-in</custom_label_1>
 <custom_label_2>40 000 km</custom_label_2>
 <custom_label_3>34.950 €</custom_label_3>
-</listing>
-<listing>
-<vehicle_id>298</vehicle_id>
-<vehicle_offer_id>298</vehicle_offer_id>
-<title>Mercedes-Benz A 250 Limousine e</title>
-<description>Mercedes-Benz A 250 Limousine e · 2025 · 45 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
-<url>https://www.valpimotor.pt/viaturas/298/Mercedes-Benz+A+250+Limousine</url>
-<make>Mercedes-Benz</make>
-<model>A 250 Limousine</model>
-<year>2025</year>
-<mileage><value>45000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713224905.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713343431.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713341130.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713351432.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713356433.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713229206.jpg</url><tag>Exterior</tag></image>
-<body_style>SEDAN</body_style>
-<fuel_type>PLUGIN_HYBRID</fuel_type>
-<transmission>AUTOMATIC</transmission>
-<drivetrain>FWD</drivetrain>
-<exterior_color>Preto</exterior_color>
-<condition>EXCELLENT</condition>
-<price>33500 EUR</price>
-<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
-<latitude>41.18867484187807</latitude>
-<longitude>-8.442489057671049</longitude>
-<availability>AVAILABLE</availability>
-<date_first_on_lot>2025-01-01</date_first_on_lot>
-<state_of_vehicle>USED</state_of_vehicle>
-<dealer_id>1</dealer_id>
-<custom_label_0>passageiros</custom_label_0>
-<custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>45 000 km</custom_label_2>
-<custom_label_3>33.500 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>343</vehicle_id>
@@ -2843,12 +2843,12 @@
 <vehicle_id>173</vehicle_id>
 <vehicle_offer_id>173</vehicle_offer_id>
 <title>Renault Master 2.3 dCi L4 3.5T CD RD</title>
-<description>Renault Master 2.3 dCi L4 3.5T CD RD · 2024 · 50 000 km · Diesel · Manual</description>
+<description>Renault Master 2.3 dCi L4 3.5T CD RD · 2024 · 60 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/173/Renault+Master</url>
 <make>Renault</make>
 <model>Master</model>
 <year>2024</year>
-<mileage><value>50000</value><unit>KM</unit></mileage>
+<mileage><value>60000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315002.jpg</url><tag>Exterior</tag></image>
@@ -2865,7 +2865,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>33950 EUR</price>
+<price>31947 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2875,8 +2875,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>50 000 km</custom_label_2>
-<custom_label_3>33.950 €</custom_label_3>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>31.947 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>290</vehicle_id>
