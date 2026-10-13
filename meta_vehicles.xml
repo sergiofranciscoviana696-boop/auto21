@@ -162,12 +162,12 @@
 <vehicle_id>300</vehicle_id>
 <vehicle_offer_id>300</vehicle_offer_id>
 <title>BMW 116</title>
-<description>BMW 116 · 2025 · 20 000 km · Gasolina · Automática</description>
+<description>BMW 116 · 2025 · 30 000 km · Gasolina · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/300/BMW+116</url>
 <make>BMW</make>
 <model>116</model>
 <year>2025</year>
-<mileage><value>20000</value><unit>KM</unit></mileage>
+<mileage><value>30000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603121229075329.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149494220.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/300/N202603041149497721.jpg</url><tag>Exterior</tag></image>
@@ -194,7 +194,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>20 000 km</custom_label_2>
+<custom_label_2>30 000 km</custom_label_2>
 <custom_label_3>28.450 €</custom_label_3>
 </listing>
 <listing>
@@ -987,7 +987,7 @@
 <model>Panda</model>
 <year>2025</year>
 <mileage><value>25000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/N202610131224536517.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/N202610131225439917.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210002.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154211003.jpg</url><tag>Exterior</tag></image>
