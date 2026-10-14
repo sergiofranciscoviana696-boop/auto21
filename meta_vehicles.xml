@@ -1758,6 +1758,45 @@
 <custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>362</vehicle_id>
+<vehicle_offer_id>362</vehicle_offer_id>
+<title>Mercedes-Benz A 250 Limousine e AMG</title>
+<description>Mercedes-Benz A 250 Limousine e AMG · 2024 · 64 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/362/Mercedes-Benz+A+250+Limousine</url>
+<make>Mercedes-Benz</make>
+<model>A 250 Limousine</model>
+<year>2024</year>
+<mileage><value>64000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636361002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636562203.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636574605.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636574606.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636575704.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636581710.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636564602.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141639362721.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636586711.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636578707.jpg</url><tag>Exterior</tag></image>
+<body_style>SEDAN</body_style>
+<fuel_type>PLUGIN_HYBRID</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Cinzento</exterior_color>
+<condition>EXCELLENT</condition>
+<price>33950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2024-12-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Híbrido Plug-in</custom_label_1>
+<custom_label_2>64 000 km</custom_label_2>
+<custom_label_3>33.950 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>343</vehicle_id>
 <vehicle_offer_id>343</vehicle_offer_id>
 <title>Mercedes-Benz C 300 e AMG Line</title>
@@ -3113,6 +3152,45 @@
 <custom_label_3>24.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>359</vehicle_id>
+<vehicle_offer_id>359</vehicle_offer_id>
+<title>SEAT Leon 2.0 TDI Style</title>
+<description>SEAT Leon 2.0 TDI Style · 2025 · 30 000 km · Diesel · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/359/SEAT+Leon</url>
+<make>SEAT</make>
+<model>Leon</model>
+<year>2025</year>
+<mileage><value>30000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759049502.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759044305.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047803.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047204.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759059506.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759063411.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759071913.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759078614.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759057407.jpg</url><tag>Exterior</tag></image>
+<body_style>HATCHBACK</body_style>
+<fuel_type>DIESEL</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
+<condition>EXCELLENT</condition>
+<price>26450 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2025-08-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>26.450 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>252</vehicle_id>
 <vehicle_offer_id>252</vehicle_offer_id>
 <title>SEAT Leon ST 2.0 TDI Style</title>
@@ -3188,45 +3266,6 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>25 000 km</custom_label_2>
-<custom_label_3>25.950 €</custom_label_3>
-</listing>
-<listing>
-<vehicle_id>359</vehicle_id>
-<vehicle_offer_id>359</vehicle_offer_id>
-<title>SEAT Leon ST 2.0 TDI Style</title>
-<description>SEAT Leon ST 2.0 TDI Style · 2025 · 30 000 km · Diesel · Manual</description>
-<url>https://www.valpimotor.pt/viaturas/359/SEAT+Leon+ST</url>
-<make>SEAT</make>
-<model>Leon ST</model>
-<year>2025</year>
-<mileage><value>30000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759049502.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759044305.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047803.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047204.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759059506.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759063411.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759071913.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759078614.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759057407.jpg</url><tag>Exterior</tag></image>
-<body_style>WAGON</body_style>
-<fuel_type>DIESEL</fuel_type>
-<transmission>MANUAL</transmission>
-<drivetrain>FWD</drivetrain>
-<exterior_color>Branco</exterior_color>
-<condition>EXCELLENT</condition>
-<price>25950 EUR</price>
-<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
-<latitude>41.18867484187807</latitude>
-<longitude>-8.442489057671049</longitude>
-<availability>AVAILABLE</availability>
-<date_first_on_lot>2025-08-01</date_first_on_lot>
-<state_of_vehicle>USED</state_of_vehicle>
-<dealer_id>1</dealer_id>
-<custom_label_0>passageiros</custom_label_0>
-<custom_label_1>Diesel</custom_label_1>
-<custom_label_2>30 000 km</custom_label_2>
 <custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>

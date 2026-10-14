@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-14T11:30:00Z" count="88">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-14T18:23:55Z" count="89">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -1576,6 +1576,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>362</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/362/Mercedes-Benz+A+250+Limousine</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Mercedes-Benz</make>
+    <model>A 250 Limousine</model>
+    <version>e AMG</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>64000</mileage_km>
+    <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>218</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <color>Cinzento</color>
+    <price_eur>33950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636361002.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636361002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636562203.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636574605.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636574606.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636575704.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636581710.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636564602.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141639362721.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636586711.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/362/N202610141636578707.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>343</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/343/Mercedes-Benz+C+300</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -2766,6 +2801,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>359</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/359/SEAT+Leon</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>SEAT</make>
+    <model>Leon</model>
+    <version>2.0 TDI Style</version>
+    <year>2025</year>
+    <registration>2025-08</registration>
+    <mileage_km>30000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>115</power_hp>
+    <seats>5</seats>
+    <body_type>Berlina</body_type>
+    <body_type_code>VLP_Sdn</body_type_code>
+    <color>Branco</color>
+    <price_eur>26450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759049502.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759044305.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047803.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047204.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759059506.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759063411.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759071913.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759078614.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759057407.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>252</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/252/SEAT+Leon+ST</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -2832,41 +2902,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411087519.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411078013.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/340/N202607281411072712.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>359</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/359/SEAT+Leon+ST</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>SEAT</make>
-    <model>Leon ST</model>
-    <version>2.0 TDI Style</version>
-    <year>2025</year>
-    <registration>2025-08</registration>
-    <mileage_km>30000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>115</power_hp>
-    <seats>5</seats>
-    <body_type>Carrinha</body_type>
-    <body_type_code>VLP_STW</body_type_code>
-    <color>Branco</color>
-    <price_eur>25950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281758293901.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759049502.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759044305.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047803.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759047204.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759059506.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759063411.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759071913.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759078614.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/359/N202609281759057407.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
