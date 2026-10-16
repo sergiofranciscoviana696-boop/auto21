@@ -315,6 +315,35 @@
 <custom_label_3>49.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>364</vehicle_id>
+<vehicle_offer_id>364</vehicle_offer_id>
+<title>Citroen Berlingo Van M Carga Aumentada</title>
+<description>Citroen Berlingo Van M Carga Aumentada · 2026 · 7 000 km · Elétrico · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/364/Citroen+Berlingo</url>
+<make>Citroen</make>
+<model>Berlingo</model>
+<year>2026</year>
+<mileage><value>7000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635225301.jpg</url><tag>Exterior</tag></image>
+<body_style>VAN</body_style>
+<fuel_type>ELECTRIC</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<condition>EXCELLENT</condition>
+<price>25950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2026-05-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>comercial</custom_label_0>
+<custom_label_1>Elétrico</custom_label_1>
+<custom_label_2>7 000 km</custom_label_2>
+<custom_label_3>25.950 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>262</vehicle_id>
 <vehicle_offer_id>262</vehicle_offer_id>
 <title>Citroen C3 1.5 BlueHDi Plus</title>
