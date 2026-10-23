@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-23T11:17:18Z" count="90">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-23T18:11:20Z" count="91">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -1050,6 +1050,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>52</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/52/Ford+Puma</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Ford</make>
+    <model>Puma</model>
+    <version>1.0 EcoBoost MHEV ST-Line Aut.</version>
+    <year>2024</year>
+    <registration>2024-04</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>125</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <color>Cinzento</color>
+    <price_eur>19950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/52/N202606171540247130.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/N202606171540247130.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124112002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124112003.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113004.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113006.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113007.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114008.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114010.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>53</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/53/Ford+Puma</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -1524,9 +1559,9 @@
     <price_eur>33500</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</cover_image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202610231236166733.jpg</cover_image>
     <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202610231236166733.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</image>

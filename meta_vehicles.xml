@@ -1172,6 +1172,45 @@
 <custom_label_3>20.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>52</vehicle_id>
+<vehicle_offer_id>52</vehicle_offer_id>
+<title>Ford Puma 1.0 EcoBoost MHEV ST-Line Aut.</title>
+<description>Ford Puma 1.0 EcoBoost MHEV ST-Line Aut. · 2024 · 40 000 km · Gasolina · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/52/Ford+Puma</url>
+<make>Ford</make>
+<model>Puma</model>
+<year>2024</year>
+<mileage><value>40000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/N202606171540247130.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124112002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124112003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113004.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113005.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113006.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124113007.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114008.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114009.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/52/20251112124114010.jpg</url><tag>Exterior</tag></image>
+<body_style>SUV</body_style>
+<fuel_type>GASOLINE</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Cinzento</exterior_color>
+<condition>EXCELLENT</condition>
+<price>19950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2024-04-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>53</vehicle_id>
 <vehicle_offer_id>53</vehicle_offer_id>
 <title>Ford Puma 1.0 EcoBoost mHEV ST-Line</title>
@@ -1688,7 +1727,7 @@
 <model>A 250 Limousine</model>
 <year>2025</year>
 <mileage><value>45000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202607021624559833.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202610231236166733.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713235408.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031712513202.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/298/N202603031713156003.jpg</url><tag>Exterior</tag></image>
