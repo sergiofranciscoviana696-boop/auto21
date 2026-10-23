@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-22T18:25:10Z" count="89">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-23T11:17:18Z" count="90">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -277,6 +277,40 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281145316623.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281145305220.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281145299615.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>364</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/364/Citroen+Berlingo</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Citroen</make>
+    <model>Berlingo</model>
+    <version>Van M Carga Aumentada</version>
+    <year>2026</year>
+    <registration>2026-05</registration>
+    <mileage_km>7000</mileage_km>
+    <fuel_type>Eletrico</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>136</power_hp>
+    <seats>0</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <price_eur>25950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635225301.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635225301.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635529908.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635525606.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635524307.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161734097423.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161734093122.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635558120.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635555119.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635554018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/364/N202610161635532409.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -1315,9 +1349,9 @@
     <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603191559368425.jpg</cover_image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202610231018229926.jpg</cover_image>
     <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603191559368425.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202610231018229926.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644447027.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644439226.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644422625.jpg</image>
