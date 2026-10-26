@@ -338,6 +338,7 @@
 <fuel_type>ELECTRIC</fuel_type>
 <transmission>AUTOMATIC</transmission>
 <drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
 <price>25950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -1709,7 +1710,7 @@
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
 <availability>AVAILABLE</availability>
-<date_first_on_lot>2024-01-01</date_first_on_lot>
+<date_first_on_lot>2024-12-01</date_first_on_lot>
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
@@ -2703,10 +2704,20 @@
 <year>2026</year>
 <mileage><value>15000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057258901.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057485503.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057489702.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057496605.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057493206.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057514214.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057518715.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057522216.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057526617.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057496407.jpg</url><tag>Exterior</tag></image>
 <body_style>MPV</body_style>
 <fuel_type>GASOLINE</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
 <price>24990 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -2975,7 +2986,7 @@
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124317007.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124317008.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124318009.jpg</url><tag>Exterior</tag></image>
-<body_style>TRUCK</body_style>
+<body_style>VAN</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>

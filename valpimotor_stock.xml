@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-25T17:31:04Z" count="91">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-26T12:33:44Z" count="92">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -296,6 +296,7 @@
     <seats>0</seats>
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
     <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
@@ -1512,7 +1513,7 @@
     <model>A 250</model>
     <version>e AMG</version>
     <year>2024</year>
-    <registration>2024</registration>
+    <registration>2024-12</registration>
     <mileage_km>50000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
@@ -2415,6 +2416,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>361</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/361/Peugeot+Partner</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Peugeot</make>
+    <model>Partner</model>
+    <version>Rifter</version>
+    <year>2026</year>
+    <registration>2026</registration>
+    <mileage_km>15000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>5</seats>
+    <body_type>Monovolume</body_type>
+    <body_type_code>VLP_Mnvl</body_type_code>
+    <color>Branco</color>
+    <price_eur>24990</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057258901.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057258901.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057485503.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057489702.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057496605.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057493206.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057514214.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057518715.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057522216.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057526617.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057496407.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>16</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/16/Renault+Clio</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -2638,8 +2674,8 @@
     <transmission>Manual</transmission>
     <power_hp>163</power_hp>
     <seats>3</seats>
-    <body_type>Comercial ligeiro</body_type>
-    <body_type_code>VLM</body_type_code>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
     <price_eur>31947</price_eur>
     <price_on_request>false</price_on_request>
