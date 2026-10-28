@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-28T12:26:04Z" count="92">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-28T19:23:48Z" count="92">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -1392,11 +1392,11 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644439226.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644422625.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644417224.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644243906.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644306012.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644266108.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202610281640483318.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644409923.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644366119.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644388321.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644367918.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/310/N202603181644349517.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
