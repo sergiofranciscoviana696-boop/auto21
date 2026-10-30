@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-29T19:27:55Z" count="92">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-10-30T12:27:33Z" count="92">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -901,12 +901,12 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210722001.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723002.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723004.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723005.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723006.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724007.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724008.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210724010.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
