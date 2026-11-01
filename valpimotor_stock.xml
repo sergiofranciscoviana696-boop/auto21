@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-01T12:56:11Z" count="92">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-01T18:48:06Z" count="92">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -17,7 +17,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Branco</color>
-    <price_eur>39450</price_eur>
+    <price_eur>37540</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/350/N202608141626332201.jpg</cover_image>
@@ -44,7 +44,7 @@
     <version>e-hybrid quattro</version>
     <year>2026</year>
     <registration>2026</registration>
-    <mileage_km>14000</mileage_km>
+    <mileage_km>250000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>299</power_hp>
@@ -52,7 +52,7 @@
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
     <color>Preto</color>
-    <price_eur>56450</price_eur>
+    <price_eur>54950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141719496501.jpg</cover_image>
@@ -79,7 +79,7 @@
     <version>e-hybrid quattro</version>
     <year>2025</year>
     <registration>2025-10</registration>
-    <mileage_km>65000</mileage_km>
+    <mileage_km>70000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>299</power_hp>
@@ -122,7 +122,7 @@
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
     <color>Preto</color>
-    <price_eur>69950</price_eur>
+    <price_eur>61450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/349/N202608061508079501.jpg</cover_image>
@@ -184,7 +184,7 @@
     <version>e Pack Desportivo M Auto</version>
     <year>2024</year>
     <registration>2024-02</registration>
-    <mileage_km>99000</mileage_km>
+    <mileage_km>115000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>204</power_hp>
@@ -192,7 +192,7 @@
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
     <color>Azul</color>
-    <price_eur>37450</price_eur>
+    <price_eur>34950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/205/N202603121224484934.jpg</cover_image>
@@ -219,7 +219,7 @@
     <version>e Pack Desportivo M</version>
     <year>2025</year>
     <registration>2025-05</registration>
-    <mileage_km>48000</mileage_km>
+    <mileage_km>55000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>299</power_hp>
@@ -227,7 +227,7 @@
     <body_type>Carrinha</body_type>
     <body_type_code>VLP_STW</body_type_code>
     <color>Preto</color>
-    <price_eur>57950</price_eur>
+    <price_eur>54950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231639476601.jpg</cover_image>
@@ -254,7 +254,7 @@
     <version>xDrive25e</version>
     <year>2026</year>
     <registration>2026</registration>
-    <mileage_km>15000</mileage_km>
+    <mileage_km>20000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>245</power_hp>
@@ -262,7 +262,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Cinzento</color>
-    <price_eur>49950</price_eur>
+    <price_eur>47950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281142015901.jpg</cover_image>
@@ -429,7 +429,7 @@
     <version>1.2 Hybrid Plus e-DSC6</version>
     <year>2026</year>
     <registration>2026</registration>
-    <mileage_km>15000</mileage_km>
+    <mileage_km>20000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>110</power_hp>
@@ -437,7 +437,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>23950</price_eur>
+    <price_eur>22950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/347/N202607291233346401.jpg</cover_image>
@@ -464,7 +464,7 @@
     <version>1.5 BlueHDi Feel EAT8</version>
     <year>2025</year>
     <registration>2025-04</registration>
-    <mileage_km>35000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>131</power_hp>
@@ -472,7 +472,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Preto</color>
-    <price_eur>22450</price_eur>
+    <price_eur>21450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/333/N202608251351213023.jpg</cover_image>
@@ -499,7 +499,7 @@
     <version>1.5 BlueHDi Plus EAT8</version>
     <year>2025</year>
     <registration>2025-04</registration>
-    <mileage_km>35000</mileage_km>
+    <mileage_km>49000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>131</power_hp>
@@ -507,7 +507,7 @@
     <body_type>Berlina</body_type>
     <body_type_code>VLP_Sdn</body_type_code>
     <color>Cinzento</color>
-    <price_eur>24950</price_eur>
+    <price_eur>22450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111517034321.jpg</cover_image>
@@ -534,7 +534,7 @@
     <version>1.5 e-Hybrid DSG</version>
     <year>2026</year>
     <registration>2026</registration>
-    <mileage_km>15000</mileage_km>
+    <mileage_km>19000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>204</power_hp>
@@ -542,7 +542,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Azul</color>
-    <price_eur>39950</price_eur>
+    <price_eur>38950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/348/N202608061432002121.jpg</cover_image>
@@ -577,7 +577,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Branco</color>
-    <price_eur>24950</price_eur>
+    <price_eur>23950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/337/N202607281138193325.jpg</cover_image>
@@ -612,7 +612,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>14950</price_eur>
+    <price_eur>14540</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202609111207408424.jpg</cover_image>
@@ -639,7 +639,7 @@
     <version>1.5 BlueHDi Curta Easy Pro</version>
     <year>2024</year>
     <registration>2024-12</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>65000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>100</power_hp>
@@ -647,7 +647,7 @@
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
-    <price_eur>16950</price_eur>
+    <price_eur>16450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/206/N202603301524109512.jpg</cover_image>
@@ -674,7 +674,7 @@
     <version>1.5 BlueHDi Longa</version>
     <year>2024</year>
     <registration>2024-12</registration>
-    <mileage_km>55000</mileage_km>
+    <mileage_km>6000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission></transmission>
     <power_hp>100</power_hp>
@@ -682,7 +682,7 @@
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
-    <price_eur>17950</price_eur>
+    <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</cover_image>
@@ -962,7 +962,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Branco</color>
-    <price_eur>19490</price_eur>
+    <price_eur>18950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/240/N202607141709572002.jpg</cover_image>
@@ -1339,7 +1339,7 @@
     <version>330 2.0 TDCi Trend 9 Lugares</version>
     <year>2024</year>
     <registration>2024-08</registration>
-    <mileage_km>62000</mileage_km>
+    <mileage_km>78000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>130</power_hp>
@@ -1347,7 +1347,7 @@
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
     <color>Preto</color>
-    <price_eur>39950</price_eur>
+    <price_eur>36950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/74/N202606300933305027.jpg</cover_image>
@@ -1724,7 +1724,7 @@
     <version>1.3 DIG-T N-Connecta LED</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>40000</mileage_km>
+    <mileage_km>45000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>140</power_hp>
@@ -1732,7 +1732,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Azul</color>
-    <price_eur>27450</price_eur>
+    <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/44/N202607061501352527.jpg</cover_image>
@@ -1759,7 +1759,7 @@
     <version>1.3 DIG-T N-Connecta LED</version>
     <year>2025</year>
     <registration>2025-02</registration>
-    <mileage_km>40000</mileage_km>
+    <mileage_km>45000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>140</power_hp>
@@ -1767,7 +1767,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Cinzento</color>
-    <price_eur>27490</price_eur>
+    <price_eur>25950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/45/N202603271114317225.jpg</cover_image>
@@ -1802,7 +1802,7 @@
     <body_type>SUV</body_type>
     <body_type_code>VLP_SUV</body_type_code>
     <color>Branco</color>
-    <price_eur>18950</price_eur>
+    <price_eur>17950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</cover_image>
@@ -1934,7 +1934,7 @@
     <version>2.2 D 9 Lugares</version>
     <year>2023</year>
     <registration>2023-09</registration>
-    <mileage_km>75000</mileage_km>
+    <mileage_km>86000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>140</power_hp>
@@ -1942,7 +1942,7 @@
     <body_type>Combi / 9 lugares</body_type>
     <body_type_code>VLP_Combi</body_type_code>
     <color>Branco</color>
-    <price_eur>31950</price_eur>
+    <price_eur>28950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/12/N202607061639142229.jpg</cover_image>
@@ -2047,7 +2047,7 @@
     <body_type>Monovolume</body_type>
     <body_type_code>VLP_Mnvl</body_type_code>
     <color>Branco</color>
-    <price_eur>34950</price_eur>
+    <price_eur>28950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/84/N202607141415002725.jpg</cover_image>
@@ -2074,7 +2074,7 @@
     <version>1.5 CDTi L3H1 9 Lugares</version>
     <year>2024</year>
     <registration>2024-05</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>69000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>102</power_hp>
@@ -2082,7 +2082,7 @@
     <body_type>Monovolume</body_type>
     <body_type_code>VLP_Mnvl</body_type_code>
     <color>Preto</color>
-    <price_eur>37950</price_eur>
+    <price_eur>32950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/98/N202607061718151122.jpg</cover_image>
@@ -2389,7 +2389,7 @@
     <version>1.5 BlueHDi Longa</version>
     <year>2024</year>
     <registration>2024-06</registration>
-    <mileage_km>50000</mileage_km>
+    <mileage_km>65000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>102</power_hp>
@@ -2397,7 +2397,7 @@
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
-    <price_eur>17740</price_eur>
+    <price_eur>16950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</cover_image>
@@ -2459,7 +2459,7 @@
     <version>1.0 TCe Evolution</version>
     <year>2024</year>
     <registration>2024-11</registration>
-    <mileage_km>35000</mileage_km>
+    <mileage_km>40000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>90</power_hp>
@@ -2467,7 +2467,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>16990</price_eur>
+    <price_eur>15950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/16/N202606301006464814.jpg</cover_image>
@@ -2529,7 +2529,7 @@
     <version>1.5 Blue dCi Evolution</version>
     <year>2025</year>
     <registration>2025-01</registration>
-    <mileage_km>32000</mileage_km>
+    <mileage_km>50000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>100</power_hp>
@@ -2537,7 +2537,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Vermelho</color>
-    <price_eur>21490</price_eur>
+    <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/34/N202606301023343720.jpg</cover_image>
@@ -2669,7 +2669,7 @@
     <version>2.3 dCi L4 3.5T CD RD</version>
     <year>2024</year>
     <registration>2024-06</registration>
-    <mileage_km>60000</mileage_km>
+    <mileage_km>70000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>163</power_hp>
@@ -2677,7 +2677,7 @@
     <body_type>Furgão</body_type>
     <body_type_code>VLM_frg</body_type_code>
     <color>Branco</color>
-    <price_eur>31947</price_eur>
+    <price_eur>31950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</cover_image>
@@ -3089,7 +3089,7 @@
     <version>1.0 TSI DSG</version>
     <year>2024</year>
     <registration>2024-05</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>3000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>116</power_hp>
@@ -3097,7 +3097,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>20950</price_eur>
+    <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/19/N202607141642099828.jpg</cover_image>

@@ -28,7 +28,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>39450 EUR</price>
+<price>37540 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -39,18 +39,18 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
 <custom_label_2>13 000 km</custom_label_2>
-<custom_label_3>39.450 €</custom_label_3>
+<custom_label_3>37.540 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>351</vehicle_id>
 <vehicle_offer_id>351</vehicle_offer_id>
 <title>Audi A5 Limousine e-hybrid quattro</title>
-<description>Audi A5 Limousine e-hybrid quattro · 2026 · 14 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A5 Limousine e-hybrid quattro · 2026 · 250 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/351/Audi+A5+Limousine</url>
 <make>Audi</make>
 <model>A5 Limousine</model>
 <year>2026</year>
-<mileage><value>14000</value><unit>KM</unit></mileage>
+<mileage><value>250000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141719496501.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141721349802.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723108504.jpg</url><tag>Exterior</tag></image>
@@ -67,7 +67,7 @@
 <drivetrain>AWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>56450 EUR</price>
+<price>54950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -77,19 +77,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>14 000 km</custom_label_2>
-<custom_label_3>56.450 €</custom_label_3>
+<custom_label_2>250 000 km</custom_label_2>
+<custom_label_3>54.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>354</vehicle_id>
 <vehicle_offer_id>354</vehicle_offer_id>
 <title>Audi A5 Limousine e-hybrid quattro</title>
-<description>Audi A5 Limousine e-hybrid quattro · 2025 · 65 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A5 Limousine e-hybrid quattro · 2025 · 70 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/354/Audi+A5+Limousine</url>
 <make>Audi</make>
 <model>A5 Limousine</model>
 <year>2025</year>
-<mileage><value>65000</value><unit>KM</unit></mileage>
+<mileage><value>70000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/354/N202610271724586611.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059251602.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/354/N202609111059259903.jpg</url><tag>Exterior</tag></image>
@@ -116,7 +116,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>65 000 km</custom_label_2>
+<custom_label_2>70 000 km</custom_label_2>
 <custom_label_3>49.950 €</custom_label_3>
 </listing>
 <listing>
@@ -145,7 +145,7 @@
 <drivetrain>AWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>69950 EUR</price>
+<price>61450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -156,7 +156,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
 <custom_label_2>40 000 km</custom_label_2>
-<custom_label_3>69.950 €</custom_label_3>
+<custom_label_3>61.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>300</vehicle_id>
@@ -201,12 +201,12 @@
 <vehicle_id>205</vehicle_id>
 <vehicle_offer_id>205</vehicle_offer_id>
 <title>BMW 320 e Pack Desportivo M Auto</title>
-<description>BMW 320 e Pack Desportivo M Auto · 2024 · 99 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>BMW 320 e Pack Desportivo M Auto · 2024 · 115 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/205/BMW+320</url>
 <make>BMW</make>
 <model>320</model>
 <year>2024</year>
-<mileage><value>99000</value><unit>KM</unit></mileage>
+<mileage><value>115000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/N202603121224484934.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124406001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/205/20251112124406002.jpg</url><tag>Exterior</tag></image>
@@ -223,7 +223,7 @@
 <drivetrain>RWD</drivetrain>
 <exterior_color>Azul</exterior_color>
 <condition>EXCELLENT</condition>
-<price>37450 EUR</price>
+<price>34950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -233,19 +233,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>99 000 km</custom_label_2>
-<custom_label_3>37.450 €</custom_label_3>
+<custom_label_2>115 000 km</custom_label_2>
+<custom_label_3>34.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>321</vehicle_id>
 <vehicle_offer_id>321</vehicle_offer_id>
 <title>BMW 530 e Pack Desportivo M</title>
-<description>BMW 530 e Pack Desportivo M · 2025 · 48 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>BMW 530 e Pack Desportivo M · 2025 · 55 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/321/BMW+530</url>
 <make>BMW</make>
 <model>530</model>
 <year>2025</year>
-<mileage><value>48000</value><unit>KM</unit></mileage>
+<mileage><value>55000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231639476601.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640167603.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/321/N202604231640278204.jpg</url><tag>Exterior</tag></image>
@@ -262,7 +262,7 @@
 <drivetrain>RWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>57950 EUR</price>
+<price>54950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -272,19 +272,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>48 000 km</custom_label_2>
-<custom_label_3>57.950 €</custom_label_3>
+<custom_label_2>55 000 km</custom_label_2>
+<custom_label_3>54.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>338</vehicle_id>
 <vehicle_offer_id>338</vehicle_offer_id>
 <title>BMW X1 xDrive25e</title>
-<description>BMW X1 xDrive25e · 2026 · 15 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>BMW X1 xDrive25e · 2026 · 20 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/338/BMW+X1</url>
 <make>BMW</make>
 <model>X1</model>
 <year>2026</year>
-<mileage><value>15000</value><unit>KM</unit></mileage>
+<mileage><value>20000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281142015901.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281145278803.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/338/N202607281145275004.jpg</url><tag>Exterior</tag></image>
@@ -301,7 +301,7 @@
 <drivetrain>AWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>49950 EUR</price>
+<price>47950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -311,8 +311,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>15 000 km</custom_label_2>
-<custom_label_3>49.950 €</custom_label_3>
+<custom_label_2>20 000 km</custom_label_2>
+<custom_label_3>47.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>364</vehicle_id>
@@ -474,12 +474,12 @@
 <vehicle_id>347</vehicle_id>
 <vehicle_offer_id>347</vehicle_offer_id>
 <title>Citroen C3 1.2 Hybrid Plus e-DSC6</title>
-<description>Citroen C3 1.2 Hybrid Plus e-DSC6 · 2026 · 15 000 km · Gasolina · Automática</description>
+<description>Citroen C3 1.2 Hybrid Plus e-DSC6 · 2026 · 20 000 km · Gasolina · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/347/Citroen+C3</url>
 <make>Citroen</make>
 <model>C3</model>
 <year>2026</year>
-<mileage><value>15000</value><unit>KM</unit></mileage>
+<mileage><value>20000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/347/N202607291233346401.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/347/N202607291238275904.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/347/N202607291238277403.jpg</url><tag>Exterior</tag></image>
@@ -496,7 +496,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>23950 EUR</price>
+<price>22950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -506,19 +506,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>15 000 km</custom_label_2>
-<custom_label_3>23.950 €</custom_label_3>
+<custom_label_2>20 000 km</custom_label_2>
+<custom_label_3>22.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>333</vehicle_id>
 <vehicle_offer_id>333</vehicle_offer_id>
 <title>Citroen C4 1.5 BlueHDi Feel EAT8</title>
-<description>Citroen C4 1.5 BlueHDi Feel EAT8 · 2025 · 35 000 km · Diesel · Automática</description>
+<description>Citroen C4 1.5 BlueHDi Feel EAT8 · 2025 · 50 000 km · Diesel · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/333/Citroen+C4</url>
 <make>Citroen</make>
 <model>C4</model>
 <year>2025</year>
-<mileage><value>35000</value><unit>KM</unit></mileage>
+<mileage><value>50000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/333/N202608251351213023.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658199617.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/333/N202607151658161208.jpg</url><tag>Exterior</tag></image>
@@ -535,7 +535,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>22450 EUR</price>
+<price>21450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -545,19 +545,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>35 000 km</custom_label_2>
-<custom_label_3>22.450 €</custom_label_3>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>21.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>355</vehicle_id>
 <vehicle_offer_id>355</vehicle_offer_id>
 <title>Citroen C4-X 1.5 BlueHDi Plus EAT8</title>
-<description>Citroen C4-X 1.5 BlueHDi Plus EAT8 · 2025 · 35 000 km · Diesel · Automática</description>
+<description>Citroen C4-X 1.5 BlueHDi Plus EAT8 · 2025 · 49 000 km · Diesel · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/355/Citroen+C4-X</url>
 <make>Citroen</make>
 <model>C4-X</model>
 <year>2025</year>
-<mileage><value>35000</value><unit>KM</unit></mileage>
+<mileage><value>49000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111517034321.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111135008018.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/355/N202609111135002620.jpg</url><tag>Exterior</tag></image>
@@ -574,7 +574,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>24950 EUR</price>
+<price>22450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -584,19 +584,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>35 000 km</custom_label_2>
-<custom_label_3>24.950 €</custom_label_3>
+<custom_label_2>49 000 km</custom_label_2>
+<custom_label_3>22.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>348</vehicle_id>
 <vehicle_offer_id>348</vehicle_offer_id>
 <title>Cupra Formentor 1.5 e-Hybrid DSG</title>
-<description>Cupra Formentor 1.5 e-Hybrid DSG · 2026 · 15 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>Cupra Formentor 1.5 e-Hybrid DSG · 2026 · 19 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/348/Cupra+Formentor</url>
 <make>Cupra</make>
 <model>Formentor</model>
 <year>2026</year>
-<mileage><value>15000</value><unit>KM</unit></mileage>
+<mileage><value>19000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/348/N202608061432002121.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/348/N202608061419297202.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/348/N202608061419285801.jpg</url><tag>Exterior</tag></image>
@@ -613,7 +613,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Azul</exterior_color>
 <condition>EXCELLENT</condition>
-<price>39950 EUR</price>
+<price>38950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -623,8 +623,37 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>15 000 km</custom_label_2>
-<custom_label_3>39.950 €</custom_label_3>
+<custom_label_2>19 000 km</custom_label_2>
+<custom_label_3>38.950 €</custom_label_3>
+</listing>
+<listing>
+<vehicle_id>358</vehicle_id>
+<vehicle_offer_id>358</vehicle_offer_id>
+<title>Cupra Terramar 1.5 eTSI DSG</title>
+<description>Cupra Terramar 1.5 eTSI DSG · 2026 · 25 000 km · Gasolina · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/358/Cupra+Terramar</url>
+<make>Cupra</make>
+<model>Terramar</model>
+<year>2026</year>
+<mileage><value>25000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281640228401.jpg</url><tag>Exterior</tag></image>
+<body_style>SUV</body_style>
+<fuel_type>GASOLINE</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<condition>EXCELLENT</condition>
+<price>36450 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2026-01-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>25 000 km</custom_label_2>
+<custom_label_3>36.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>337</vehicle_id>
@@ -652,7 +681,7 @@
 <drivetrain>4X4</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>24950 EUR</price>
+<price>23950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -663,7 +692,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
 <custom_label_2>25 000 km</custom_label_2>
-<custom_label_3>24.950 €</custom_label_3>
+<custom_label_3>23.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>174</vehicle_id>
@@ -691,7 +720,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>14950 EUR</price>
+<price>14540 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -702,18 +731,18 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
 <custom_label_2>30 000 km</custom_label_2>
-<custom_label_3>14.950 €</custom_label_3>
+<custom_label_3>14.540 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>206</vehicle_id>
 <vehicle_offer_id>206</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Curta Easy Pro</title>
-<description>Fiat Doblo 1.5 BlueHDi Curta Easy Pro · 2024 · 50 000 km · Diesel · Manual</description>
+<description>Fiat Doblo 1.5 BlueHDi Curta Easy Pro · 2024 · 65 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/206/Fiat+Doblo</url>
 <make>Fiat</make>
 <model>Doblo</model>
 <year>2024</year>
-<mileage><value>50000</value><unit>KM</unit></mileage>
+<mileage><value>65000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/206/N202603301524109512.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124406001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/206/20251112124406002.jpg</url><tag>Exterior</tag></image>
@@ -730,7 +759,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>16950 EUR</price>
+<price>16450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -740,19 +769,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>50 000 km</custom_label_2>
-<custom_label_3>16.950 €</custom_label_3>
+<custom_label_2>65 000 km</custom_label_2>
+<custom_label_3>16.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>357</vehicle_id>
 <vehicle_offer_id>357</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Longa</title>
-<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 55 000 km · Diesel</description>
+<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 6 000 km · Diesel</description>
 <url>https://www.valpimotor.pt/viaturas/357/Fiat+Doblo</url>
 <make>Fiat</make>
 <model>Doblo</model>
 <year>2024</year>
-<mileage><value>55000</value><unit>KM</unit></mileage>
+<mileage><value>6000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555537903.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555531602.jpg</url><tag>Exterior</tag></image>
@@ -769,7 +798,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>17950 EUR</price>
+<price>16950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -779,8 +808,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>55 000 km</custom_label_2>
-<custom_label_3>17.950 €</custom_label_3>
+<custom_label_2>6 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>193</vehicle_id>
@@ -1081,7 +1110,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>19490 EUR</price>
+<price>18950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1092,7 +1121,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
 <custom_label_2>45 000 km</custom_label_2>
-<custom_label_3>19.490 €</custom_label_3>
+<custom_label_3>18.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>56</vehicle_id>
@@ -1488,12 +1517,12 @@
 <vehicle_id>74</vehicle_id>
 <vehicle_offer_id>74</vehicle_offer_id>
 <title>Ford Transit 330 2.0 TDCi Trend 9 Lugares</title>
-<description>Ford Transit 330 2.0 TDCi Trend 9 Lugares · 2024 · 62 000 km · Diesel · Manual</description>
+<description>Ford Transit 330 2.0 TDCi Trend 9 Lugares · 2024 · 78 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/74/Ford+Transit</url>
 <make>Ford</make>
 <model>Transit</model>
 <year>2024</year>
-<mileage><value>62000</value><unit>KM</unit></mileage>
+<mileage><value>78000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/74/N202606300933305027.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124122001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/74/20251112124123002.jpg</url><tag>Exterior</tag></image>
@@ -1510,7 +1539,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>39950 EUR</price>
+<price>36950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1520,8 +1549,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>62 000 km</custom_label_2>
-<custom_label_3>39.950 €</custom_label_3>
+<custom_label_2>78 000 km</custom_label_2>
+<custom_label_3>36.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>310</vehicle_id>
@@ -1917,12 +1946,12 @@
 <vehicle_id>44</vehicle_id>
 <vehicle_offer_id>44</vehicle_offer_id>
 <title>Nissan Qashqai 1.3 DIG-T N-Connecta LED</title>
-<description>Nissan Qashqai 1.3 DIG-T N-Connecta LED · 2025 · 40 000 km · Gasolina · Manual</description>
+<description>Nissan Qashqai 1.3 DIG-T N-Connecta LED · 2025 · 45 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/44/Nissan+Qashqai</url>
 <make>Nissan</make>
 <model>Qashqai</model>
 <year>2025</year>
-<mileage><value>40000</value><unit>KM</unit></mileage>
+<mileage><value>45000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/44/N202607061501352527.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124109002.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/44/20251112124108001.jpg</url><tag>Exterior</tag></image>
@@ -1939,7 +1968,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Azul</exterior_color>
 <condition>EXCELLENT</condition>
-<price>27450 EUR</price>
+<price>25950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1949,19 +1978,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>40 000 km</custom_label_2>
-<custom_label_3>27.450 €</custom_label_3>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>45</vehicle_id>
 <vehicle_offer_id>45</vehicle_offer_id>
 <title>Nissan Qashqai 1.3 DIG-T N-Connecta LED</title>
-<description>Nissan Qashqai 1.3 DIG-T N-Connecta LED · 2025 · 40 000 km · Gasolina · Manual</description>
+<description>Nissan Qashqai 1.3 DIG-T N-Connecta LED · 2025 · 45 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/45/Nissan+Qashqai</url>
 <make>Nissan</make>
 <model>Qashqai</model>
 <year>2025</year>
-<mileage><value>40000</value><unit>KM</unit></mileage>
+<mileage><value>45000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/45/N202603271114317225.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124109001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/45/20251112124109002.jpg</url><tag>Exterior</tag></image>
@@ -1978,7 +2007,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>27490 EUR</price>
+<price>25950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1988,8 +2017,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>40 000 km</custom_label_2>
-<custom_label_3>27.490 €</custom_label_3>
+<custom_label_2>45 000 km</custom_label_2>
+<custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>97</vehicle_id>
@@ -2017,7 +2046,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>18950 EUR</price>
+<price>17950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2028,7 +2057,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>75 000 km</custom_label_2>
-<custom_label_3>18.950 €</custom_label_3>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>129</vehicle_id>
@@ -2151,12 +2180,12 @@
 <vehicle_id>12</vehicle_id>
 <vehicle_offer_id>12</vehicle_offer_id>
 <title>Opel Movano 2.2 D 9 Lugares</title>
-<description>Opel Movano 2.2 D 9 Lugares · 2023 · 75 000 km · Diesel · Manual</description>
+<description>Opel Movano 2.2 D 9 Lugares · 2023 · 86 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/12/Opel+Movano</url>
 <make>Opel</make>
 <model>Movano</model>
 <year>2023</year>
-<mileage><value>75000</value><unit>KM</unit></mileage>
+<mileage><value>86000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/12/N202607061639142229.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123926001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/12/20251112123927002.jpg</url><tag>Exterior</tag></image>
@@ -2173,7 +2202,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>31950 EUR</price>
+<price>28950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2183,8 +2212,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>75 000 km</custom_label_2>
-<custom_label_3>31.950 €</custom_label_3>
+<custom_label_2>86 000 km</custom_label_2>
+<custom_label_3>28.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>291</vehicle_id>
@@ -2290,7 +2319,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>34950 EUR</price>
+<price>28950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2301,18 +2330,18 @@
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>108 000 km</custom_label_2>
-<custom_label_3>34.950 €</custom_label_3>
+<custom_label_3>28.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>98</vehicle_id>
 <vehicle_offer_id>98</vehicle_offer_id>
 <title>Opel Vivaro 1.5 CDTi L3H1 9 Lugares</title>
-<description>Opel Vivaro 1.5 CDTi L3H1 9 Lugares · 2024 · 50 000 km · Diesel · Manual</description>
+<description>Opel Vivaro 1.5 CDTi L3H1 9 Lugares · 2024 · 69 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/98/Opel+Vivaro</url>
 <make>Opel</make>
 <model>Vivaro</model>
 <year>2024</year>
-<mileage><value>50000</value><unit>KM</unit></mileage>
+<mileage><value>69000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/98/N202607061718151122.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124155001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/98/20251112124155002.jpg</url><tag>Exterior</tag></image>
@@ -2329,7 +2358,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>37950 EUR</price>
+<price>32950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2339,8 +2368,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>50 000 km</custom_label_2>
-<custom_label_3>37.950 €</custom_label_3>
+<custom_label_2>69 000 km</custom_label_2>
+<custom_label_3>32.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>40</vehicle_id>
@@ -2658,12 +2687,12 @@
 <vehicle_id>105</vehicle_id>
 <vehicle_offer_id>105</vehicle_offer_id>
 <title>Peugeot Partner 1.5 BlueHDi Longa</title>
-<description>Peugeot Partner 1.5 BlueHDi Longa · 2024 · 50 000 km · Diesel · Manual</description>
+<description>Peugeot Partner 1.5 BlueHDi Longa · 2024 · 65 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/105/Peugeot+Partner</url>
 <make>Peugeot</make>
 <model>Partner</model>
 <year>2024</year>
-<mileage><value>50000</value><unit>KM</unit></mileage>
+<mileage><value>65000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158002.jpg</url><tag>Exterior</tag></image>
@@ -2680,7 +2709,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>17740 EUR</price>
+<price>16950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2690,8 +2719,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>50 000 km</custom_label_2>
-<custom_label_3>17.740 €</custom_label_3>
+<custom_label_2>65 000 km</custom_label_2>
+<custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>361</vehicle_id>
@@ -2733,15 +2762,44 @@
 <custom_label_3>24.990 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>363</vehicle_id>
+<vehicle_offer_id>363</vehicle_offer_id>
+<title>Peugeot Partner 1.5 BlueHDi Curta</title>
+<description>Peugeot Partner 1.5 BlueHDi Curta · 2024 · 60 000 km · Diesel · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/363/Peugeot+Partner</url>
+<make>Peugeot</make>
+<model>Partner</model>
+<year>2024</year>
+<mileage><value>60000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</url><tag>Exterior</tag></image>
+<body_style>VAN</body_style>
+<fuel_type>DIESEL</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<condition>EXCELLENT</condition>
+<price>15950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2024-12-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>60 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>16</vehicle_id>
 <vehicle_offer_id>16</vehicle_offer_id>
 <title>Renault Clio 1.0 TCe Evolution</title>
-<description>Renault Clio 1.0 TCe Evolution · 2024 · 35 000 km · Gasolina · Manual</description>
+<description>Renault Clio 1.0 TCe Evolution · 2024 · 40 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/16/Renault+Clio</url>
 <make>Renault</make>
 <model>Clio</model>
 <year>2024</year>
-<mileage><value>35000</value><unit>KM</unit></mileage>
+<mileage><value>40000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/16/N202606301006464814.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123929001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/16/20251112123929002.jpg</url><tag>Exterior</tag></image>
@@ -2758,7 +2816,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>16990 EUR</price>
+<price>15950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2768,8 +2826,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>35 000 km</custom_label_2>
-<custom_label_3>16.990 €</custom_label_3>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>33</vehicle_id>
@@ -2814,12 +2872,12 @@
 <vehicle_id>34</vehicle_id>
 <vehicle_offer_id>34</vehicle_offer_id>
 <title>Renault Clio 1.5 Blue dCi Evolution</title>
-<description>Renault Clio 1.5 Blue dCi Evolution · 2025 · 32 000 km · Diesel · Manual</description>
+<description>Renault Clio 1.5 Blue dCi Evolution · 2025 · 50 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/34/Renault+Clio</url>
 <make>Renault</make>
 <model>Clio</model>
 <year>2025</year>
-<mileage><value>32000</value><unit>KM</unit></mileage>
+<mileage><value>50000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/34/N202606301023343720.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124046001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/34/20251112124047002.jpg</url><tag>Exterior</tag></image>
@@ -2836,7 +2894,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Vermelho</exterior_color>
 <condition>EXCELLENT</condition>
-<price>21490 EUR</price>
+<price>19950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2846,8 +2904,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>32 000 km</custom_label_2>
-<custom_label_3>21.490 €</custom_label_3>
+<custom_label_2>50 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>106</vehicle_id>
@@ -2970,12 +3028,12 @@
 <vehicle_id>173</vehicle_id>
 <vehicle_offer_id>173</vehicle_offer_id>
 <title>Renault Master 2.3 dCi L4 3.5T CD RD</title>
-<description>Renault Master 2.3 dCi L4 3.5T CD RD · 2024 · 60 000 km · Diesel · Manual</description>
+<description>Renault Master 2.3 dCi L4 3.5T CD RD · 2024 · 70 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/173/Renault+Master</url>
 <make>Renault</make>
 <model>Master</model>
 <year>2024</year>
-<mileage><value>60000</value><unit>KM</unit></mileage>
+<mileage><value>70000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/N202606171636487018.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/173/20251112124315002.jpg</url><tag>Exterior</tag></image>
@@ -2992,7 +3050,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>31947 EUR</price>
+<price>31950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -3002,8 +3060,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>60 000 km</custom_label_2>
-<custom_label_3>31.947 €</custom_label_3>
+<custom_label_2>70 000 km</custom_label_2>
+<custom_label_3>31.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>290</vehicle_id>
@@ -3438,12 +3496,12 @@
 <vehicle_id>19</vehicle_id>
 <vehicle_offer_id>19</vehicle_offer_id>
 <title>Skoda Scala 1.0 TSI DSG</title>
-<description>Skoda Scala 1.0 TSI DSG · 2024 · 25 000 km · Gasolina · Automática</description>
+<description>Skoda Scala 1.0 TSI DSG · 2024 · 3 000 km · Gasolina · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/19/Skoda+Scala</url>
 <make>Skoda</make>
 <model>Scala</model>
 <year>2024</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
+<mileage><value>3000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/N202607141642099828.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039002.jpg</url><tag>Exterior</tag></image>
@@ -3460,7 +3518,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>20950 EUR</price>
+<price>19950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -3470,8 +3528,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
-<custom_label_3>20.950 €</custom_label_3>
+<custom_label_2>3 000 km</custom_label_2>
+<custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>315</vehicle_id>
