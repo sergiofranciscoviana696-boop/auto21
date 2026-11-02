@@ -45,12 +45,12 @@
 <vehicle_id>351</vehicle_id>
 <vehicle_offer_id>351</vehicle_offer_id>
 <title>Audi A5 Limousine e-hybrid quattro</title>
-<description>Audi A5 Limousine e-hybrid quattro · 2026 · 250 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
+<description>Audi A5 Limousine e-hybrid quattro · 2026 · 25 000 km · Híbrido Plug-in (Gasolina) · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/351/Audi+A5+Limousine</url>
 <make>Audi</make>
 <model>A5 Limousine</model>
 <year>2026</year>
-<mileage><value>250000</value><unit>KM</unit></mileage>
+<mileage><value>25000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141719496501.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141721349802.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/351/N202608141723108504.jpg</url><tag>Exterior</tag></image>
@@ -77,7 +77,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Híbrido Plug-in</custom_label_1>
-<custom_label_2>250 000 km</custom_label_2>
+<custom_label_2>25 000 km</custom_label_2>
 <custom_label_3>54.950 €</custom_label_3>
 </listing>
 <listing>
@@ -637,10 +637,20 @@
 <year>2026</year>
 <mileage><value>25000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281640228401.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641139903.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641134504.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641148405.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641131802.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641145607.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281645004324.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641144608.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641205424.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641157609.jpg</url><tag>Exterior</tag></image>
 <body_style>SUV</body_style>
 <fuel_type>GASOLINE</fuel_type>
 <transmission>AUTOMATIC</transmission>
 <drivetrain>FWD</drivetrain>
+<exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
 <price>36450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -734,6 +744,45 @@
 <custom_label_3>14.540 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>366</vehicle_id>
+<vehicle_offer_id>366</vehicle_offer_id>
+<title>Fiat 500X 1.0 FireFly Cross</title>
+<description>Fiat 500X 1.0 FireFly Cross · 2023 · 40 000 km · Gasolina · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/366/Fiat+500X</url>
+<make>Fiat</make>
+<model>500X</model>
+<year>2023</year>
+<mileage><value>40000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231804491401.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805387104.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805388203.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805386205.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805419018.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805422821.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805438924.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805426422.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805421719.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805423420.jpg</url><tag>Exterior</tag></image>
+<body_style>SUV</body_style>
+<fuel_type>GASOLINE</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Preto</exterior_color>
+<condition>EXCELLENT</condition>
+<price>15950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2023-03-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>40 000 km</custom_label_2>
+<custom_label_3>15.950 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>206</vehicle_id>
 <vehicle_offer_id>206</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Curta Easy Pro</title>
@@ -776,12 +825,12 @@
 <vehicle_id>357</vehicle_id>
 <vehicle_offer_id>357</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Longa</title>
-<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 6 000 km · Diesel</description>
+<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 85 000 km · Diesel</description>
 <url>https://www.valpimotor.pt/viaturas/357/Fiat+Doblo</url>
 <make>Fiat</make>
 <model>Doblo</model>
 <year>2024</year>
-<mileage><value>6000</value><unit>KM</unit></mileage>
+<mileage><value>85000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555537903.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555531602.jpg</url><tag>Exterior</tag></image>
@@ -808,7 +857,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>6 000 km</custom_label_2>
+<custom_label_2>85 000 km</custom_label_2>
 <custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
@@ -932,12 +981,12 @@
 <vehicle_id>62</vehicle_id>
 <vehicle_offer_id>62</vehicle_offer_id>
 <title>Fiat Panda Pandina 1.0 Hybrid</title>
-<description>Fiat Panda Pandina 1.0 Hybrid · 2025 · 25 000 km · Gasolina · Manual</description>
+<description>Fiat Panda Pandina 1.0 Hybrid · 2025 · 35 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/62/Fiat+Panda</url>
 <make>Fiat</make>
 <model>Panda</model>
 <year>2025</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
+<mileage><value>35000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/62/N202603131529498923.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124117001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/62/20251112124117002.jpg</url><tag>Exterior</tag></image>
@@ -964,19 +1013,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
+<custom_label_2>35 000 km</custom_label_2>
 <custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>65</vehicle_id>
 <vehicle_offer_id>65</vehicle_offer_id>
 <title>Fiat Panda 1.0 Hybrid Pandina</title>
-<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 25 000 km · Gasolina · Manual</description>
+<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 35 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/65/Fiat+Panda</url>
 <make>Fiat</make>
 <model>Panda</model>
 <year>2025</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
+<mileage><value>35000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/65/N202603201445262421.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124118001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/65/20251112124119002.jpg</url><tag>Exterior</tag></image>
@@ -1003,19 +1052,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
+<custom_label_2>35 000 km</custom_label_2>
 <custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>237</vehicle_id>
 <vehicle_offer_id>237</vehicle_offer_id>
 <title>Fiat Panda 1.0 Hybrid Pandina</title>
-<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 25 000 km · Gasolina · Manual</description>
+<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 35 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/237/Fiat+Panda</url>
 <make>Fiat</make>
 <model>Panda</model>
 <year>2025</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
+<mileage><value>35000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/N202603251202348022.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210722001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/237/20260204210723002.jpg</url><tag>Exterior</tag></image>
@@ -1042,19 +1091,19 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
+<custom_label_2>35 000 km</custom_label_2>
 <custom_label_3>13.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>286</vehicle_id>
 <vehicle_offer_id>286</vehicle_offer_id>
 <title>Fiat Panda 1.0 Hybrid Pandina</title>
-<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 25 000 km · Gasolina · Manual</description>
+<description>Fiat Panda 1.0 Hybrid Pandina · 2025 · 35 000 km · Gasolina · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/286/Fiat+Panda</url>
 <make>Fiat</make>
 <model>Panda</model>
 <year>2025</year>
-<mileage><value>25000</value><unit>KM</unit></mileage>
+<mileage><value>35000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/N202610131225439917.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/286/20260223154210002.jpg</url><tag>Exterior</tag></image>
@@ -1081,7 +1130,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>25 000 km</custom_label_2>
+<custom_label_2>35 000 km</custom_label_2>
 <custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
@@ -1595,12 +1644,12 @@
 <vehicle_id>279</vehicle_id>
 <vehicle_offer_id>279</vehicle_offer_id>
 <title>Isuzu D-Max 1.9 Ddi CD 4WD L</title>
-<description>Isuzu D-Max 1.9 Ddi CD 4WD L · 2024 · 60 000 km · Diesel · Manual</description>
+<description>Isuzu D-Max 1.9 Ddi CD 4WD L · 2024 · 79 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/279/Isuzu+D-Max</url>
 <make>Isuzu</make>
 <model>D-Max</model>
 <year>2024</year>
-<mileage><value>60000</value><unit>KM</unit></mileage>
+<mileage><value>79000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/279/N202604231137108921.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211028001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/279/20260204211029002.jpg</url><tag>Exterior</tag></image>
@@ -1617,7 +1666,7 @@
 <drivetrain>4X4</drivetrain>
 <exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
-<price>36490 EUR</price>
+<price>34450 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -1627,8 +1676,8 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>60 000 km</custom_label_2>
-<custom_label_3>36.490 €</custom_label_3>
+<custom_label_2>79 000 km</custom_label_2>
+<custom_label_3>34.450 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>314</vehicle_id>
@@ -2772,10 +2821,20 @@
 <year>2024</year>
 <mileage><value>60000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715015213.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714586902.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714594903.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715032817.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715016112.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715017414.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715028515.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715035518.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715001209.jpg</url><tag>Exterior</tag></image>
 <body_style>VAN</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
 <price>15950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -3496,12 +3555,12 @@
 <vehicle_id>19</vehicle_id>
 <vehicle_offer_id>19</vehicle_offer_id>
 <title>Skoda Scala 1.0 TSI DSG</title>
-<description>Skoda Scala 1.0 TSI DSG · 2024 · 3 000 km · Gasolina · Automática</description>
+<description>Skoda Scala 1.0 TSI DSG · 2024 · 30 000 km · Gasolina · Automática</description>
 <url>https://www.valpimotor.pt/viaturas/19/Skoda+Scala</url>
 <make>Skoda</make>
 <model>Scala</model>
 <year>2024</year>
-<mileage><value>3000</value><unit>KM</unit></mileage>
+<mileage><value>30000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/N202607141642099828.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/19/20251112124039002.jpg</url><tag>Exterior</tag></image>
@@ -3528,7 +3587,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
-<custom_label_2>3 000 km</custom_label_2>
+<custom_label_2>30 000 km</custom_label_2>
 <custom_label_3>19.950 €</custom_label_3>
 </listing>
 <listing>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-01T18:48:06Z" count="92">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-02T15:13:53Z" count="95">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -44,7 +44,7 @@
     <version>e-hybrid quattro</version>
     <year>2026</year>
     <registration>2026</registration>
-    <mileage_km>250000</mileage_km>
+    <mileage_km>25000</mileage_km>
     <fuel_type>Hibrido Plug-in (Gasolina)</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>299</power_hp>
@@ -561,6 +561,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>358</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/358/Cupra+Terramar</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Cupra</make>
+    <model>Terramar</model>
+    <version>1.5 eTSI DSG</version>
+    <year>2026</year>
+    <registration>2026</registration>
+    <mileage_km>25000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Automática</transmission>
+    <power_hp>150</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
+    <price_eur>36450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281640228401.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281640228401.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641139903.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641134504.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641148405.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641131802.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641145607.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281645004324.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641144608.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641205424.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/358/N202609281641157609.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>337</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/337/Dacia+Duster</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -631,6 +666,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>366</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/366/Fiat+500X</url>
+    <segment>Ligeiro de Passageiros</segment>
+    <make>Fiat</make>
+    <model>500X</model>
+    <version>1.0 FireFly Cross</version>
+    <year>2023</year>
+    <registration>2023-03</registration>
+    <mileage_km>40000</mileage_km>
+    <fuel_type>Gasolina</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>120</power_hp>
+    <seats>5</seats>
+    <body_type>SUV</body_type>
+    <body_type_code>VLP_SUV</body_type_code>
+    <color>Preto</color>
+    <price_eur>15950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231804491401.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231804491401.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805387104.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805388203.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805386205.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805419018.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805422821.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805438924.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805426422.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805421719.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/366/N202610231805423420.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>206</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/206/Fiat+Doblo</url>
     <segment>Ligeiro de Mercadorias</segment>
@@ -674,7 +744,7 @@
     <version>1.5 BlueHDi Longa</version>
     <year>2024</year>
     <registration>2024-12</registration>
-    <mileage_km>6000</mileage_km>
+    <mileage_km>85000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission></transmission>
     <power_hp>100</power_hp>
@@ -814,7 +884,7 @@
     <version>Pandina 1.0 Hybrid</version>
     <year>2025</year>
     <registration>2025-03</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>70</power_hp>
@@ -849,7 +919,7 @@
     <version>1.0 Hybrid Pandina</version>
     <year>2025</year>
     <registration>2025-04</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>70</power_hp>
@@ -884,7 +954,7 @@
     <version>1.0 Hybrid Pandina</version>
     <year>2025</year>
     <registration>2025-04</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>70</power_hp>
@@ -919,7 +989,7 @@
     <version>1.0 Hybrid Pandina</version>
     <year>2025</year>
     <registration>2025-05</registration>
-    <mileage_km>25000</mileage_km>
+    <mileage_km>35000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>70</power_hp>
@@ -1409,7 +1479,7 @@
     <version>1.9 Ddi CD 4WD L</version>
     <year>2024</year>
     <registration>2024-06</registration>
-    <mileage_km>60000</mileage_km>
+    <mileage_km>79000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>164</power_hp>
@@ -1417,7 +1487,7 @@
     <body_type>Todo-o-terreno</body_type>
     <body_type_code>VLP_TT</body_type_code>
     <color>Branco</color>
-    <price_eur>36490</price_eur>
+    <price_eur>34450</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/279/N202604231137108921.jpg</cover_image>
@@ -2451,6 +2521,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>363</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/363/Peugeot+Partner</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Peugeot</make>
+    <model>Partner</model>
+    <version>1.5 BlueHDi Curta</version>
+    <year>2024</year>
+    <registration>2024-12</registration>
+    <mileage_km>60000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
+    <price_eur>15950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715015213.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714586902.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714594903.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715032817.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715016112.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715017414.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715028515.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715035518.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715001209.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>16</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/16/Renault+Clio</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -3089,7 +3194,7 @@
     <version>1.0 TSI DSG</version>
     <year>2024</year>
     <registration>2024-05</registration>
-    <mileage_km>3000</mileage_km>
+    <mileage_km>30000</mileage_km>
     <fuel_type>Gasolina</fuel_type>
     <transmission>Automática</transmission>
     <power_hp>116</power_hp>
