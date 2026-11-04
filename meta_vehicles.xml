@@ -2134,7 +2134,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Preto</exterior_color>
 <condition>EXCELLENT</condition>
-<price>18950 EUR</price>
+<price>17950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2145,7 +2145,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>75 000 km</custom_label_2>
-<custom_label_3>18.950 €</custom_label_3>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>164</vehicle_id>
@@ -2173,7 +2173,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Vermelho</exterior_color>
 <condition>EXCELLENT</condition>
-<price>18950 EUR</price>
+<price>17950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2184,7 +2184,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>75 000 km</custom_label_2>
-<custom_label_3>18.950 €</custom_label_3>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>322</vehicle_id>
@@ -2212,7 +2212,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>18950 EUR</price>
+<price>17950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -2223,7 +2223,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>71 000 km</custom_label_2>
-<custom_label_3>18.950 €</custom_label_3>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>12</vehicle_id>
