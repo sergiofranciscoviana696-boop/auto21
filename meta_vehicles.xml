@@ -2070,6 +2070,45 @@
 <custom_label_3>25.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>43</vehicle_id>
+<vehicle_offer_id>43</vehicle_offer_id>
+<title>Opel Corsa 1.2 T GS Line Aut.</title>
+<description>Opel Corsa 1.2 T GS Line Aut. · 2024 · 30 000 km · Gasolina · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/43/Opel+Corsa</url>
+<make>Opel</make>
+<model>Corsa</model>
+<year>2024</year>
+<mileage><value>30000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/N202603270935298629.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124108001.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124108002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124109003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124109004.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124109005.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124109006.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124110007.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124110008.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/43/20251112124110009.jpg</url><tag>Exterior</tag></image>
+<body_style>HATCHBACK</body_style>
+<fuel_type>GASOLINE</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Cinzento</exterior_color>
+<condition>EXCELLENT</condition>
+<price>18990 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2024-04-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Gasolina</custom_label_1>
+<custom_label_2>30 000 km</custom_label_2>
+<custom_label_3>18.990 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>97</vehicle_id>
 <vehicle_offer_id>97</vehicle_offer_id>
 <title>Opel Mokka 1.5 D Elegance</title>
