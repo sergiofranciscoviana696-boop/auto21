@@ -2775,12 +2775,12 @@
 <vehicle_id>105</vehicle_id>
 <vehicle_offer_id>105</vehicle_offer_id>
 <title>Peugeot Partner 1.5 BlueHDi Longa</title>
-<description>Peugeot Partner 1.5 BlueHDi Longa · 2024 · 65 000 km · Diesel · Manual</description>
+<description>Peugeot Partner 1.5 BlueHDi Longa · 2024 · 72 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/105/Peugeot+Partner</url>
 <make>Peugeot</make>
 <model>Partner</model>
 <year>2024</year>
-<mileage><value>65000</value><unit>KM</unit></mileage>
+<mileage><value>72000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158002.jpg</url><tag>Exterior</tag></image>
@@ -2807,7 +2807,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>65 000 km</custom_label_2>
+<custom_label_2>72 000 km</custom_label_2>
 <custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
@@ -2853,12 +2853,12 @@
 <vehicle_id>363</vehicle_id>
 <vehicle_offer_id>363</vehicle_offer_id>
 <title>Peugeot Partner 1.5 BlueHDi Curta</title>
-<description>Peugeot Partner 1.5 BlueHDi Curta · 2024 · 60 000 km · Diesel · Manual</description>
+<description>Peugeot Partner 1.5 BlueHDi Curta · 2024 · 78 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/363/Peugeot+Partner</url>
 <make>Peugeot</make>
 <model>Partner</model>
 <year>2024</year>
-<mileage><value>60000</value><unit>KM</unit></mileage>
+<mileage><value>78000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715015213.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714586902.jpg</url><tag>Exterior</tag></image>
@@ -2885,7 +2885,7 @@
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>60 000 km</custom_label_2>
+<custom_label_2>78 000 km</custom_label_2>
 <custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>

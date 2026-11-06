@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-06T13:58:43Z" count="96">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-06T20:23:20Z" count="96">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -2494,7 +2494,7 @@
     <version>1.5 BlueHDi Longa</version>
     <year>2024</year>
     <registration>2024-06</registration>
-    <mileage_km>65000</mileage_km>
+    <mileage_km>72000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>102</power_hp>
@@ -2564,7 +2564,7 @@
     <version>1.5 BlueHDi Curta</version>
     <year>2024</year>
     <registration>2024-12</registration>
-    <mileage_km>60000</mileage_km>
+    <mileage_km>78000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>100</power_hp>
