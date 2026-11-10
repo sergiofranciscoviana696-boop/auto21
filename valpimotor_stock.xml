@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-09T15:42:16Z" count="95">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-10T14:36:23Z" count="95">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -708,8 +708,8 @@
     <model>Doblo</model>
     <version>1.5 BlueHDi Longa</version>
     <year>2024</year>
-    <registration>2024-12</registration>
-    <mileage_km>85000</mileage_km>
+    <registration>2024-06</registration>
+    <mileage_km>56000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission></transmission>
     <power_hp>100</power_hp>

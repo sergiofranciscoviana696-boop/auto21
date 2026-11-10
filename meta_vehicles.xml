@@ -786,12 +786,12 @@
 <vehicle_id>357</vehicle_id>
 <vehicle_offer_id>357</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Longa</title>
-<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 85 000 km · Diesel</description>
+<description>Fiat Doblo 1.5 BlueHDi Longa · 2024 · 56 000 km · Diesel</description>
 <url>https://www.valpimotor.pt/viaturas/357/Fiat+Doblo</url>
 <make>Fiat</make>
 <model>Doblo</model>
 <year>2024</year>
-<mileage><value>85000</value><unit>KM</unit></mileage>
+<mileage><value>56000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555299201.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555537903.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555531602.jpg</url><tag>Exterior</tag></image>
@@ -813,12 +813,12 @@
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
 <availability>AVAILABLE</availability>
-<date_first_on_lot>2024-12-01</date_first_on_lot>
+<date_first_on_lot>2024-06-01</date_first_on_lot>
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>comercial</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>85 000 km</custom_label_2>
+<custom_label_2>56 000 km</custom_label_2>
 <custom_label_3>16.950 €</custom_label_3>
 </listing>
 <listing>
