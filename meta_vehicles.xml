@@ -2275,20 +2275,10 @@
 <year>2024</year>
 <mileage><value>50000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/N202606301033245419.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941001.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941002.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100941003.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942004.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942005.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100942006.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943007.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943008.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/291/20260227100943009.jpg</url><tag>Exterior</tag></image>
 <body_style>TRUCK</body_style>
 <fuel_type>DIESEL</fuel_type>
 <transmission>MANUAL</transmission>
 <drivetrain>FWD</drivetrain>
-<exterior_color>Branco</exterior_color>
 <condition>EXCELLENT</condition>
 <price>44950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
@@ -2692,6 +2682,45 @@
 <custom_label_1>Gasolina</custom_label_1>
 <custom_label_2>25 000 km</custom_label_2>
 <custom_label_3>16.950 €</custom_label_3>
+</listing>
+<listing>
+<vehicle_id>171</vehicle_id>
+<vehicle_offer_id>171</vehicle_offer_id>
+<title>Peugeot 308 1.5 BlueHDi Active EAT8</title>
+<description>Peugeot 308 1.5 BlueHDi Active EAT8 · 2024 · 79 000 km · Diesel · Automática</description>
+<url>https://www.valpimotor.pt/viaturas/171/Peugeot+308</url>
+<make>Peugeot</make>
+<model>308</model>
+<year>2024</year>
+<mileage><value>79000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/N202607061129238625.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313001.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124313002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314003.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314004.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124314005.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315006.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315007.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124315008.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/171/20251112124316009.jpg</url><tag>Exterior</tag></image>
+<body_style>HATCHBACK</body_style>
+<fuel_type>DIESEL</fuel_type>
+<transmission>AUTOMATIC</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Cinzento</exterior_color>
+<condition>EXCELLENT</condition>
+<price>19990 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2024-01-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>passageiros</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>79 000 km</custom_label_2>
+<custom_label_3>19.990 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>158</vehicle_id>
