@@ -744,6 +744,45 @@
 <custom_label_3>15.950 €</custom_label_3>
 </listing>
 <listing>
+<vehicle_id>368</vehicle_id>
+<vehicle_offer_id>368</vehicle_offer_id>
+<title>Fiat Doblo 1.5 BlueHDi Curta</title>
+<description>Fiat Doblo 1.5 BlueHDi Curta · 2025 · 36 000 km · Diesel · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/368/Fiat+Doblo</url>
+<make>Fiat</make>
+<model>Doblo</model>
+<year>2025</year>
+<mileage><value>36000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147069363_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147187521_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147192147_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147198865_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147209195_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147205736_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147218173_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147211666_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147224886_1200.jpeg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147241145_1200.jpeg</url><tag>Exterior</tag></image>
+<body_style>VAN</body_style>
+<fuel_type>DIESEL</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
+<condition>EXCELLENT</condition>
+<price>17450 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2025-07-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>36 000 km</custom_label_2>
+<custom_label_3>17.450 €</custom_label_3>
+</listing>
+<listing>
 <vehicle_id>206</vehicle_id>
 <vehicle_offer_id>206</vehicle_offer_id>
 <title>Fiat Doblo 1.5 BlueHDi Curta Easy Pro</title>
@@ -820,6 +859,45 @@
 <custom_label_1>Diesel</custom_label_1>
 <custom_label_2>56 000 km</custom_label_2>
 <custom_label_3>16.950 €</custom_label_3>
+</listing>
+<listing>
+<vehicle_id>369</vehicle_id>
+<vehicle_offer_id>369</vehicle_offer_id>
+<title>Fiat Doblo 1.5 BlueHDi Longa</title>
+<description>Fiat Doblo 1.5 BlueHDi Longa · 2025 · 34 000 km · Diesel · Manual</description>
+<url>https://www.valpimotor.pt/viaturas/369/Fiat+Doblo</url>
+<make>Fiat</make>
+<model>Doblo</model>
+<year>2025</year>
+<mileage><value>34000</value><unit>KM</unit></mileage>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120582101.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120583002.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120587503.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120591104.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120594005.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120597706.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120598607.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120595708.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120594009.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161121003310.jpg</url><tag>Exterior</tag></image>
+<body_style>VAN</body_style>
+<fuel_type>DIESEL</fuel_type>
+<transmission>MANUAL</transmission>
+<drivetrain>FWD</drivetrain>
+<exterior_color>Branco</exterior_color>
+<condition>EXCELLENT</condition>
+<price>17950 EUR</price>
+<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
+<latitude>41.18867484187807</latitude>
+<longitude>-8.442489057671049</longitude>
+<availability>AVAILABLE</availability>
+<date_first_on_lot>2025-07-01</date_first_on_lot>
+<state_of_vehicle>USED</state_of_vehicle>
+<dealer_id>1</dealer_id>
+<custom_label_0>comercial</custom_label_0>
+<custom_label_1>Diesel</custom_label_1>
+<custom_label_2>34 000 km</custom_label_2>
+<custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>193</vehicle_id>
@@ -2112,12 +2190,12 @@
 <vehicle_id>97</vehicle_id>
 <vehicle_offer_id>97</vehicle_offer_id>
 <title>Opel Mokka 1.5 D Elegance</title>
-<description>Opel Mokka 1.5 D Elegance · 2024 · 75 000 km · Diesel · Manual</description>
+<description>Opel Mokka 1.5 D Elegance · 2023 · 66 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/97/Opel+Mokka</url>
 <make>Opel</make>
 <model>Mokka</model>
-<year>2024</year>
-<mileage><value>75000</value><unit>KM</unit></mileage>
+<year>2023</year>
+<mileage><value>66000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/97/N202607021709313316.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124154001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/97/20251112124155003.jpg</url><tag>Exterior</tag></image>
@@ -2139,24 +2217,24 @@
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
 <availability>AVAILABLE</availability>
-<date_first_on_lot>2024-02-01</date_first_on_lot>
+<date_first_on_lot>2023-08-01</date_first_on_lot>
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>75 000 km</custom_label_2>
+<custom_label_2>66 000 km</custom_label_2>
 <custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>129</vehicle_id>
 <vehicle_offer_id>129</vehicle_offer_id>
 <title>Opel Mokka 1.5 D Elegance</title>
-<description>Opel Mokka 1.5 D Elegance · 2024 · 75 000 km · Diesel · Manual</description>
+<description>Opel Mokka 1.5 D Elegance · 2023 · 73 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/129/Opel+Mokka</url>
 <make>Opel</make>
 <model>Mokka</model>
-<year>2024</year>
-<mileage><value>75000</value><unit>KM</unit></mileage>
+<year>2023</year>
+<mileage><value>73000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151554307425.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553397419.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/129/N202604151553401020.jpg</url><tag>Exterior</tag></image>
@@ -2178,63 +2256,24 @@
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
 <availability>AVAILABLE</availability>
-<date_first_on_lot>2024-01-01</date_first_on_lot>
+<date_first_on_lot>2023-08-01</date_first_on_lot>
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>75 000 km</custom_label_2>
-<custom_label_3>17.950 €</custom_label_3>
-</listing>
-<listing>
-<vehicle_id>164</vehicle_id>
-<vehicle_offer_id>164</vehicle_offer_id>
-<title>Opel Mokka 1.5 D Elegance</title>
-<description>Opel Mokka 1.5 D Elegance · 2024 · 75 000 km · Diesel · Manual</description>
-<url>https://www.valpimotor.pt/viaturas/164/Opel+Mokka</url>
-<make>Opel</make>
-<model>Mokka</model>
-<year>2024</year>
-<mileage><value>75000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124310001.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311002.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311003.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124312004.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313005.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313006.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313007.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314008.jpg</url><tag>Exterior</tag></image>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314009.jpg</url><tag>Exterior</tag></image>
-<body_style>SUV</body_style>
-<fuel_type>DIESEL</fuel_type>
-<transmission>MANUAL</transmission>
-<drivetrain>FWD</drivetrain>
-<exterior_color>Vermelho</exterior_color>
-<condition>EXCELLENT</condition>
-<price>17950 EUR</price>
-<address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
-<latitude>41.18867484187807</latitude>
-<longitude>-8.442489057671049</longitude>
-<availability>AVAILABLE</availability>
-<date_first_on_lot>2024-01-01</date_first_on_lot>
-<state_of_vehicle>USED</state_of_vehicle>
-<dealer_id>1</dealer_id>
-<custom_label_0>passageiros</custom_label_0>
-<custom_label_1>Diesel</custom_label_1>
-<custom_label_2>75 000 km</custom_label_2>
+<custom_label_2>73 000 km</custom_label_2>
 <custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>322</vehicle_id>
 <vehicle_offer_id>322</vehicle_offer_id>
 <title>Opel Mokka 1.5 D Elegance</title>
-<description>Opel Mokka 1.5 D Elegance · 2024 · 71 000 km · Diesel · Manual</description>
+<description>Opel Mokka 1.5 D Elegance · 2023 · 53 000 km · Diesel · Manual</description>
 <url>https://www.valpimotor.pt/viaturas/322/Opel+Mokka</url>
 <make>Opel</make>
 <model>Mokka</model>
-<year>2024</year>
-<mileage><value>71000</value><unit>KM</unit></mileage>
+<year>2023</year>
+<mileage><value>53000</value><unit>KM</unit></mileage>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520085001.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520406802.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/322/N202605061520416804.jpg</url><tag>Exterior</tag></image>
@@ -2256,12 +2295,12 @@
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
 <availability>AVAILABLE</availability>
-<date_first_on_lot>2024-01-01</date_first_on_lot>
+<date_first_on_lot>2023-08-01</date_first_on_lot>
 <state_of_vehicle>USED</state_of_vehicle>
 <dealer_id>1</dealer_id>
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Diesel</custom_label_1>
-<custom_label_2>71 000 km</custom_label_2>
+<custom_label_2>53 000 km</custom_label_2>
 <custom_label_3>17.950 €</custom_label_3>
 </listing>
 <listing>

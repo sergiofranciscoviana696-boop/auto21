@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-16T15:17:13Z" count="96">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-17T15:43:34Z" count="97">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -666,6 +666,41 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
+    <vehicle_id>368</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/368/Fiat+Doblo</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Doblo</model>
+    <version>1.5 BlueHDi Curta</version>
+    <year>2025</year>
+    <registration>2025-07</registration>
+    <mileage_km>36000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
+    <price_eur>17450</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147069363_1200.jpeg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147069363_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147187521_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147192147_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147198865_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147209195_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147205736_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147218173_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147211666_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147224886_1200.jpeg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/368/202611101147241145_1200.jpeg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
     <vehicle_id>206</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/206/Fiat+Doblo</url>
     <segment>Ligeiro de Mercadorias</segment>
@@ -732,6 +767,41 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555567016.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555544907.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/357/N202609231555548708.jpg</image>
+    </images>
+    <dealer>Valpi Motor Gandra</dealer>
+  </vehicle>
+  <vehicle>
+    <vehicle_id>369</vehicle_id>
+    <url>https://www.valpimotor.pt/viaturas/369/Fiat+Doblo</url>
+    <segment>Ligeiro de Mercadorias</segment>
+    <make>Fiat</make>
+    <model>Doblo</model>
+    <version>1.5 BlueHDi Longa</version>
+    <year>2025</year>
+    <registration>2025-07</registration>
+    <mileage_km>34000</mileage_km>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Manual</transmission>
+    <power_hp>100</power_hp>
+    <seats>3</seats>
+    <body_type>Furgão</body_type>
+    <body_type_code>VLM_frg</body_type_code>
+    <color>Branco</color>
+    <price_eur>17950</price_eur>
+    <price_on_request>false</price_on_request>
+    <availability>Disponível</availability>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120582101.jpg</cover_image>
+    <images>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120582101.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120583002.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120587503.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120591104.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120594005.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120597706.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120598607.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120595708.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161120594009.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/369/N202611161121003310.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
@@ -1897,9 +1967,9 @@
     <make>Opel</make>
     <model>Mokka</model>
     <version>1.5 D Elegance</version>
-    <year>2024</year>
-    <registration>2024-02</registration>
-    <mileage_km>75000</mileage_km>
+    <year>2023</year>
+    <registration>2023-08</registration>
+    <mileage_km>66000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
@@ -1932,9 +2002,9 @@
     <make>Opel</make>
     <model>Mokka</model>
     <version>1.5 D Elegance</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>75000</mileage_km>
+    <year>2023</year>
+    <registration>2023-08</registration>
+    <mileage_km>73000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
@@ -1961,50 +2031,15 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>164</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/164/Opel+Mokka</url>
-    <segment>Ligeiro de Passageiros</segment>
-    <make>Opel</make>
-    <model>Mokka</model>
-    <version>1.5 D Elegance</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>75000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>110</power_hp>
-    <seats>5</seats>
-    <body_type>SUV</body_type>
-    <body_type_code>VLP_SUV</body_type_code>
-    <color>Vermelho</color>
-    <price_eur>17950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/N202603231740585625.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124310001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124311003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124312004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124313007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/164/20251112124314009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>322</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/322/Opel+Mokka</url>
     <segment>Ligeiro de Passageiros</segment>
     <make>Opel</make>
     <model>Mokka</model>
     <version>1.5 D Elegance</version>
-    <year>2024</year>
-    <registration>2024-01</registration>
-    <mileage_km>71000</mileage_km>
+    <year>2023</year>
+    <registration>2023-08</registration>
+    <mileage_km>53000</mileage_km>
     <fuel_type>Diesel</fuel_type>
     <transmission>Manual</transmission>
     <power_hp>110</power_hp>
