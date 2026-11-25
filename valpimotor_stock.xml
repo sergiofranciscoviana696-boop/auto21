@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-24T17:16:12Z" count="97">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-25T16:58:08Z" count="95">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -2521,41 +2521,6 @@
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
   <vehicle>
-    <vehicle_id>105</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/105/Peugeot+Partner</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Peugeot</make>
-    <model>Partner</model>
-    <version>1.5 BlueHDi Longa</version>
-    <year>2024</year>
-    <registration>2024-06</registration>
-    <mileage_km>72000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>102</power_hp>
-    <seats>2</seats>
-    <body_type>Furgão</body_type>
-    <body_type_code>VLM_frg</body_type_code>
-    <color>Branco</color>
-    <price_eur>16950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/N202607061510544916.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158001.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124158002.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159003.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159004.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124159005.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200006.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200007.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124200008.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/105/20251112124201009.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
     <vehicle_id>361</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/361/Peugeot+Partner</url>
     <segment>Ligeiro de Passageiros</segment>
@@ -2587,41 +2552,6 @@
       <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057522216.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057526617.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/361/N202610071057496407.jpg</image>
-    </images>
-    <dealer>Valpi Motor Gandra</dealer>
-  </vehicle>
-  <vehicle>
-    <vehicle_id>363</vehicle_id>
-    <url>https://www.valpimotor.pt/viaturas/363/Peugeot+Partner</url>
-    <segment>Ligeiro de Mercadorias</segment>
-    <make>Peugeot</make>
-    <model>Partner</model>
-    <version>1.5 BlueHDi Curta</version>
-    <year>2024</year>
-    <registration>2024-12</registration>
-    <mileage_km>78000</mileage_km>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Manual</transmission>
-    <power_hp>100</power_hp>
-    <seats>3</seats>
-    <body_type>Furgão</body_type>
-    <body_type_code>VLM_frg</body_type_code>
-    <color>Branco</color>
-    <price_eur>15950</price_eur>
-    <price_on_request>false</price_on_request>
-    <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</cover_image>
-    <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714355801.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715015213.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714586902.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151714594903.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715032817.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715016112.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715017414.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715028515.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715035518.jpg</image>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/363/N202610151715001209.jpg</image>
     </images>
     <dealer>Valpi Motor Gandra</dealer>
   </vehicle>
