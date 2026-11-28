@@ -691,7 +691,7 @@
 <drivetrain>FWD</drivetrain>
 <exterior_color>Cinzento</exterior_color>
 <condition>EXCELLENT</condition>
-<price>14540 EUR</price>
+<price>13950 EUR</price>
 <address format="simple"><component name="addr1">Av. Joaquim Ribeiro da Mota 256 Gandra</component><component name="city">Paredes</component><component name="region">Porto</component><component name="postal_code">4585-166</component><component name="country">PT</component></address>
 <latitude>41.18867484187807</latitude>
 <longitude>-8.442489057671049</longitude>
@@ -702,7 +702,7 @@
 <custom_label_0>passageiros</custom_label_0>
 <custom_label_1>Gasolina</custom_label_1>
 <custom_label_2>30 000 km</custom_label_2>
-<custom_label_3>14.540 €</custom_label_3>
+<custom_label_3>13.950 €</custom_label_3>
 </listing>
 <listing>
 <vehicle_id>366</vehicle_id>
@@ -2576,7 +2576,7 @@
 <model>2008</model>
 <year>2024</year>
 <mileage><value>33000</value><unit>KM</unit></mileage>
-<image><url>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603201204267822.jpg</url><tag>Exterior</tag></image>
+<image><url>https://www.auto21.pt/valpi/imagens_viaturas/313/202611261238371709_1200.jpeg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816389236.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816286824.jpg</url><tag>Exterior</tag></image>
 <image><url>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816321728.jpg</url><tag>Exterior</tag></image>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-25T16:58:08Z" count="95">
+<vehicles source="valpimotor.pt + feed Meta" generated="2026-11-28T15:17:01Z" count="95">
   <vehicle>
     <vehicle_id>350</vehicle_id>
     <url>https://www.valpimotor.pt/viaturas/350/Audi+A3+Sportback</url>
@@ -612,7 +612,7 @@
     <body_type>Hatchback</body_type>
     <body_type_code>VLP_Htckb</body_type_code>
     <color>Cinzento</color>
-    <price_eur>14540</price_eur>
+    <price_eur>13950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
     <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/174/N202609111207408424.jpg</cover_image>
@@ -2295,9 +2295,9 @@
     <price_eur>19950</price_eur>
     <price_on_request>false</price_on_request>
     <availability>Disponível</availability>
-    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603201204267822.jpg</cover_image>
+    <cover_image>https://www.auto21.pt/valpi/imagens_viaturas/313/202611261238371709_1200.jpeg</cover_image>
     <images>
-      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603201204267822.jpg</image>
+      <image>https://www.auto21.pt/valpi/imagens_viaturas/313/202611261238371709_1200.jpeg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816389236.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816286824.jpg</image>
       <image>https://www.auto21.pt/valpi/imagens_viaturas/313/N202603191816321728.jpg</image>
